@@ -1,0 +1,18 @@
+{
+  "intents":
+  [
+    {
+      "tag" : "greeting",
+      "input" :["halo", "selamat pagi", "selamat sore", "selamat malam", "saya butuh bantuan"],
+      "responses :[
+          "Selamat pagi, ada yang bisa dibantu."
+          "sel"
+      ]
+    },
+    {
+       "tag" : ""
+       "input" : []
+    }
+  ]
+  
+}
