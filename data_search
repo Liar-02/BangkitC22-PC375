@@ -282,22 +282,736 @@
 	}
 	{
 		"Jenis" : "UU",
-		"Nomor_Peraturan" : ,
+		"Nomor_Peraturan" : 13,
 		"Tahun_peraturan" : 2019,
+		"Tentang" : "PERUBAHAN KETIGA ATAS UNDANG-UNDANG NOMOR 17 TAHUN 2014 TENTANG MAJELIS PERMUSYAWARATAN RAKYAT, DEWAN PERWAKILAN RAKYAT, DEWAN PERWAKILAN DAERAH, DAN DEWAN PERWAKILAN RAKYAT DAERAH",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 14,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "PEKERJA SOSIAL",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 15,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "PERUBAHAN ATAS UNDANG-UNDANG NOMOR 12 TAHUN 2011 TENTANG PEMBENTUKAN PERATURAN PERUNDANG-UNDANGAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 16,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "PERUBAHAN ATAS UNDANG-UNDANG NOMOR 1 TAHUN 1974 TENTANG PERKAWINAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 17,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "SUMBER DAYA AIR",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 18,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "PESANTREN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 19,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "PERUBAHAN KEDUA ATAS UNDANG-UNDANG NOMOR 30 TAHUN 2002 TENTANG KOMISI PEMBERANTASAN TINDAK PIDANA KORUPSI",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 20,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 2020",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 22,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "SISTEM BUDI DAYA PERTANIAN BERKELANJUTAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 23,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "PENGELOLAAN SUMBER DAYA NASIONAL UNTUK PERTAHANAN NEGARA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 24,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "EKONOMI KREATIF",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 1,
+		"Tahun_peraturan" : 2018,
+		"Tentang" : "KEPALANGMERAHAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 2,
+		"Tahun_peraturan" : 2018,
+		"Tentang" : "PERUBAHAN KEDUA ATAS UNDANG-UNDANG NOMOR 17 TAHUN 2014 TENTANG MAJELIS PERMUSYAWARATAN RAKYAT, DEWAN PERWAKILAN RAKYAT, DEWAN PERWAKILAN DAERAH, DAN DEWAN PERWAKILAN RAKYAT DAERAH",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 3,
+		"Tahun_peraturan" : 2018,
+		"Tentang" : "PENGESAHAN PERSETUJUAN ANTARA PEMERINTAH REPUBLIK INDONESIA DAN PEMERINTAH KERAJAAN THAILAND TENTANG KERJA SAMA DI BIDANG PERTAHANAN (AGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC OF INDONESIA AND THE GOVERNMENT OF THE KINGDOM OF THAILAND ON COOPERATION IN THE FIELD OF DEFENCE)",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 4,
+		"Tahun_peraturan" : 2018,
+		"Tentang" : "PENGESAHAN PROTOCOL TO IMPLEMENT THE SIXTH PACKAGE OF COMMITMENTS ON FINANCIAL SERVICES UNDER THE ASEAN FRAMEWORK AGREEMENT ON SERVICES (PROTOKOL UNTUK MELAKSANAKAN PAKET KOMITMEN KEENAM BIDANG JASA KEUANGAN DALAM PERSETUJUAN KERANGKA KERJA ASEAN DI BIDANG JASA)",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 5,
+		"Tahun_peraturan" : 2018,
+		"Tentang" : "PERUBAHAN ATAS UNDANG-UNDANG NOMOR 15 TAHUN 2003 TENTANG PENETAPAN PERATURAN PEMERINTAH PENGGANTI UNDANG-UNDANG NOMOR 1 TAHUN 2002 TENTANG PEMBERANTASAN TINDAK PIDANA TERORISME MENJADI UNDANG-UNDANG",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 6,
+		"Tahun_peraturan" : 2018,
+		"Tentang" : "KEKARANTINAAN KESEHATAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 7,
+		"Tahun_peraturan" : 2018,
+		"Tentang" : "PENGESAHAN PERSETUJUAN ANTARA PEMERINTAH REPUBLIK INDONESIA DAN PEMERINTAH REPUBLIK KOREA TENTANG KERJA SAMA DI BIDANG PERTAHANAN (AGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC OF INDONESIA AND THE GOVERNMENT OF THE REPUBLIC OF KOREA ON COOPERATION IN THE FIELD OF DEFENSE",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 8,
+		"Tahun_peraturan" : 2018,
+		"Tentang" : "PERTANGGUNGJAWABAN ATAS PELAKSANAAN ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 2017",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 9,
+		"Tahun_peraturan" : 2018,
+		"Tentang" : "PENERIMAAN NEGARA BUKAN PAJAK",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 10,
+		"Tahun_peraturan" : 2018,
+		"Tentang" : "PENGESAHAN PERSETUJUAN KERJA SAMA PERTAHANAN ANTARA PEMERINTAH REPUBLIK INDONESIA DAN PEMERINTAH KERAJAAN ARAB SAUDI (DEFENSE COOPERATION AGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC OF INDONESIA AND THE GOVERNMENT OF THE KINGDOM OF SAUDI ARABIA)",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 11,
+		"Tahun_peraturan" : 2018,
+		"Tentang" : "PENGESAHAN NOTA KESEPAHAMAN ANTARA KEMENTERIAN PERTAHANAN REPUBLIK INDONESIA DAN KEMENTERIAN PERTAHANAN KERAJAAN BELANDA TENTANG KERJA SAMA TERKAIT PERTAHANAN (MEMORANDUM OF UNDERSTANDING BETWEEN THE MINISTRY OF DEFENCE OF THE REPUBLIC OF INDONESIA AND THE MINISTRY OF DEFENCE OF THE KINGDOM OF THE NETHERLANDS ON DEFENCE-RELATED COOPERATION)",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 12,
+		"Tahun_peraturan" : 2018,
+		"Tentang" : "ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 2019",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 13,
+		"Tahun_peraturan" : 2018,
+		"Tentang" : "SERAH SIMPAN KARYA CETAK DAN KARYA REKAM",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : ,
+		"Tahun_peraturan" : 2017,
+		"Tentang" : "",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 1,
+		"Tahun_peraturan" : 2017,
+		"Tentang" : "PENGESAHAN PERJANJIAN ANTARA REPUBLIK INDONESIA DAN REPUBLIK SINGAPURA TENTANG PENETAPAN GARIS BATAS LAUT WILAYAH KEDUA NEGARA DI BAGIAN TIMUR SELAT SINGAPURA, 2014 (TREATY BETWEEN THE REPUBLIC OF INDONESIA AND THE REPUBLIC OF SINGAPORE RELATING TO THE DELIMITATION OF THE TERRITORIAL SEAS OF THE TWO COUNTRIES IN THE EASTERN PART OF THE STRAIT OF SINGAPORE, 2014)",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 2,
+		"Tahun_peraturan" : 2017,
+		"Tentang" : "JASA KONSTRUKSI",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 3,
+		"Tahun_peraturan" : 2017,
+		"Tentang" : "SISTEM PERBUKUAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 4,
+		"Tahun_peraturan" : 2017,
+		"Tentang" : "PENGESAHAN ANTARA PEMERINTAH REPUBLIK INDONESIA DAN PEMERINTAH REPUBLIK FILIPINA MENGENAI PENETAPAN BATAS ZONA EKONOMI EKSKLUSIF, 2014 (AGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC OF INDONESIA AND THE GOVERNMENT OF THE REPUBLIC OF THE PHILIPPINES CONCERNING THE DELIMITATION OF THE EXCLUSIVE ECONOMIC ZONE BOUNDARY, 2014)",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 5,
+		"Tahun_peraturan" : 2017,
+		"Tentang" : "PEMAJUAN KEBUDAYAAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 6,
+		"Tahun_peraturan" : 2017,
+		"Tentang" : "ARSITEK",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 7,
+		"Tahun_peraturan" : 2017,
+		"Tentang" : "PEMILIHAN UMUM",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 8,
+		"Tahun_peraturan" : 2017,
+		"Tentang" : "PERUBAHAN ATAS UNDANG-UNDANG NOMOR 18 TAHUN 2016 TENTANG ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 2017",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 9,
+		"Tahun_peraturan" : 2017,
+		"Tentang" : "PENETAPAN PERATURAN PEMERINTAH PENGGANTI UNDANG-UNDANG NOMOR 1 TAHUN 2017 TENTANG AKSES INFORMASI KEUANGAN UNTUK KEPENTINGAN PERPAJAKAN MENJADI UNDANG-UNDANG",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 10,
+		"Tahun_peraturan" : 2017,
+		"Tentang" : "PERTANGGUNGJAWABAN ATAS PELAKSANAAN ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 2016",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 11,
+		"Tahun_peraturan" : 2017,
+		"Tentang" : "PENGESAHAN MINAMATA CONVENTION ON MERCURY (KONVENSI MINAMATA MENGENAI MERKURI)",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 12,
+		"Tahun_peraturan" : 2017,
+		"Tentang" : "PENGESAHAN ASEAN CONVENTION AGAINST TRAFFICKING IN PERSONS, ESPECIALLY WOMEN AND CHILDREN (KONVENSI ASEAN MENENTANG PERDAGANGAN ORANG, TERUTAMA PEREMPUAN DAN ANAK)",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 13,
+		"Tahun_peraturan" : 2017,
+		"Tentang" : "PENGESAHAN PERSETUJUAN ANTARA REPUBLIK INDONESIA DAN REPUBLIK RAKYAT CHINA TENTANG EKSTRADISI (TREATY BETWEEN THE REPUBLIC OF INDONESIA AND THE PEOPLE REPUBLIC OF CHINA ON EXTRADITION)",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 14,
+		"Tahun_peraturan" : 2017,
+		"Tentang" : "PENGESAHAN PERSETUJUAN ANTARA PEMERINTAH REPUBLIK INDONESIA DAN PEMERINTAH NEGARA MERDEKA PAPUA NUGINI TENTANG KEGIATAN KERJA SAMA DI BIDANG PERTAHANAN (AGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC OF INDONESIA AND THE GOVERNMENT OF THE INDEPENDENT STATE OF PAPUA NEW GUINEA CONCERNING COOPERATION ACTIVITIES IN THE FIELD OF DEFENCE)",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 15,
+		"Tahun_peraturan" : 2017,
+		"Tentang" : "ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 2018",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 16,
+		"Tahun_peraturan" : 2017,
+		"Tentang" : "PENETAPAN PERATURAN PEMERINTAH PENGGANTI UNDANG-UNDANG NOMOR 2 TAHUN 2017 TENTANG PERUBAHAN ATAS UNDANG-UNDANG NOMOR 17 TAHUN 2013 TENTANG ORGANISASI KEMASYARAKATAN MENJADI UNDANG-UNDANG",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 17,
+		"Tahun_peraturan" : 2017,
+		"Tentang" : "PENGESAHAN PROTOCOL AMENDING THE MARRAKESH AGREEMENT ESTABLISHING THE WORLD TRADE ORGANIZATION (PROTOKOL PERUBAHAN PERSETUJUAN MARRAKESH MENGENAI PEMBENTUKAN ORGANISASI PERDAGANGAN DUNIA)",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 18,
+		"Tahun_peraturan" : 2017,
+		"Tentang" : "PELINDUNGAN PEKERJA MIGRAN INDONESIA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 1,
+		"Tahun_peraturan" : 2016,
+		"Tentang" : "PENJAMINAN",
+		"link_hover" : ""
+	}	
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 2,
+		"Tahun_peraturan" : 2016,
+		"Tentang" : "PENGESAHAN PERSETUJUAN ANTARA PEMERINTAH REPUBLIK INDONESIA DAN PEMERINTAH REPUBLIK POLANDIA TENTANG KERJA SAMA DI BIDANG PERTAHANAN LTIGTAGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC OF INDONESIA AND THE GOVERNMENT OF THE REPUBLIC OF POLAND CONCERNING COOPERATION IN THE FIELD OF DEFENCELTIGT",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 3,
+		"Tahun_peraturan" : 2016,
+		"Tentang" : "PENGESAHAN MEMORANDUM SALING PENGERTIAN ANTARA PEMERINTAH REPUBLIK INDONESIADAN PEMERINTAH REPUBLIK SOSIALIS VIETNAM TENTANG PENINGKATAN KERJA SAMA ANTARA PEJABAT PERTAHANAN DAN KEGIATAN BIDANG PERTAHANAN TERKAIT LTIGTMEMORANDUM OF UNDERSTANDING BETWEEN THE GOVERNMENT OF THE REPUBLIC OF INDONESIA AND THE GOVERNMENT OF THE SOCIALIST REPUBLIC OF VIETNAM ON STRENGTHENING OF COOPERATION BETWEEN DEFENCE OFFICIALS AND ITS RELATED ACTIVITIESLTIGT",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 4,
+		"Tahun_peraturan" : 2016,
+		"Tentang" : "TABUNGAN PERUMAHAN RAKYAT",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 5,
+		"Tahun_peraturan" : 2016,
+		"Tentang" : "PENGESAHAN NOTA KESEPAHAMAN MOU ANTARA KEMENTERIAN PERTAHANAN REPUBLIK INDONESIA DAN KEMENTERIAN PERTAHANAN REPUBLIK FEDERASI JERMAN MENGENAI KERJA SAMA DI BIDANG PERTAHANAN LTIGTMEMORANDUM OF UNDERSTANDING MOU BETWEEN THE MINISTRY OF DEFENCE OF THE REPUBLIC OF INDONESIA AND THE FEDERAL MINISTRY OF DEFENCE OF THE FEDERAL REPUBLIC OF GERMANY CONCERNING COOPERATION IN THE FIELD OF DEFENCELTIGT",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 6,
+		"Tahun_peraturan" : 2016,
+		"Tentang" : "PENGESAHAN PERSETUJUAN ANTARA PEMERINTAH REPUBLIK INDONESIA DAN PEMERINTAH REPUBLIK RAKYAT CHINA TENTANG KERJA SAMA AKTIVITAS DALAM BIDANG PERTAHANAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 7,
+		"Tahun_peraturan" : 2016,
+		"Tentang" : "PERLINDUNGAN DAN PEMBERDAYAAN NELAYAN PEMBUDI DAYA IKAN DAN PETAMBAK GARAM",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 8,
+		"Tahun_peraturan" : 2016,
+		"Tentang" : "PENYANDANG DISABILITAS",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 9,
+		"Tahun_peraturan" : 2016,
+		"Tentang" : "PENCEGAHAN DAN PENANGANAN KRISIS SISTEM KEUANGAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 10,
+		"Tahun_peraturan" : 2016,
+		"Tentang" : "PERUBAHAN KEDUA ATAS UNDANGUNDANG NOMOR 1 TAHUN 2015 TENTANG PENETAPAN PERATURAN PEMERINTAH PENGGANTI UNDANGUNDANG NOMOR 1 TAHUN 2014 TENTANG PEMILIHAN GUBERNUR BUPATI DAN WALIKOTA MENJADI UNDANGUNDANG",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 11,
+		"Tahun_peraturan" : 2016,
+		"Tentang" : "PENGAMPUNAN PAJAK",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 12,
+		"Tahun_peraturan" : 2016,
+		"Tentang" : "PERUBAHAN ATAS UNDANGUNDANG NOMOR 14 TAHUN 2015 TENTANG ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN 2016",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 13,
+		"Tahun_peraturan" : 2016,
+		"Tentang" : "PATEN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 14,
+		"Tahun_peraturan" : 2016,
+		"Tentang" : "PERTANGGUNGJAWABAN ATAS PELAKSANAAN ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 2015",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 15,
+		"Tahun_peraturan" : 2016,
+		"Tentang" : "PENGESAHAN LTIGTMARITIME LABOUR CONVENTIONLTIGT 2006 KONVENSI KETENAGAKERJAAN MARITIM 2006",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 16,
+		"Tahun_peraturan" : 2016,
+		"Tentang" : "PENGESAHAN PARIS AGREEMENT TO THE UNITED NATIONS FRAMEWORK CONVENTION ON CLIMATE CHANGE (PERSETUJUAN PARIS ATAS KONVENSI KERANGKA KERJA PERSERIKATAN BANGSA-BANGSA MENGENAI PERUBAHAN IKLIM)",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 17,
+		"Tahun_peraturan" : 2016,
+		"Tentang" : "PENETAPAN PERATURAN PEMERINTAH PENGGANTI UNDANG-UNDANG NOMOR 1 TAHUN 2016 TENTANG PERUBAHAN KEDUA ATAS UNDANG-UNDANG NOMOR 23 TAHUN 2002 TENTANG PERLINDUNGAN ANAK MENJADI UNDANG-UNDANG",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 18,
+		"Tahun_peraturan" : 2016,
+		"Tentang" : "ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 2017",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 19,
+		"Tahun_peraturan" : 2016,
+		"Tentang" : "PERUBAHAN ATAS UNDANG-UNDANG NOMOR 11 TAHUN 2008 TENTANG INFORMASI DAN ALAT ELEKTRONIK",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 20,
+		"Tahun_peraturan" : 2016,
+		"Tentang" : "MEREK DAN INDIKASI GEOGRAFIS",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 1,
+		"Tahun_peraturan" : 2015,
+		"Tentang" : "PENETAPAN PERATURAN PEMERINTAH PENGGANTI UNDANG-UNDANG NOMOR 1 TAHUN 2014 TENTANG PEMILIHAN GUBERNUR, BUPATI, DAN WALIKOTA MENJADI UNDANG-UNDANG",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 2,
+		"Tahun_peraturan" : 2015,
+		"Tentang" : "PENETAPAN PERATURAN PEMERINTAH PENGGANTI UNDANG-UNDANG NOMOR 2 TAHUN 2014 TENTANG PERUBAHAN ATAS UNDANG-UNDANG NOMOR 23 TAHUN 2014 TENTANG PEMERINTAHAN DAERAH MENJADI UNDANG-UNDANG",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 3,
+		"Tahun_peraturan" : 2015,
+		"Tentang" : "PERUBAHAN ATAS UNDANG-UNDANG NOMOR 27 TAHUN 2014 TENTANG ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 2015",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 4,
+		"Tahun_peraturan" : 2015,
+		"Tentang" : "PENGESAHAN PERSETUJUAN ANTARA PEMERINTAH REPUBLIK INDONESIA DAN PEMERINTAH REPUBLIK DEMOKRATIK TIMOR-LESTE TENTANG KEGIATAN KERJA SAMA DI BIDANG PERTAHANAN (AGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC OF INDONESIA AND THE GOVERNMENT OF THE DEMOCRATIC REPUBLIC OF TIMOR-LESTE CONCERNING COOPERATIVE ACTIVITIES IN THE FIELD OF DEFENCE)",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 5,
+		"Tahun_peraturan" : 2015,
+		"Tentang" : "PENGESAHAN PERJANJIAN EKSTRADISI ANTARA REPUBLIK INDONESIA DAN REPUBLIK SOSIALIS VIET NAM (EXTRADITION TREATY BETWEEN THE REPUBLIC OF INDONESIA AND THE SOCIALIST REPUBLIC OF VIET NAM)",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 6,
+		"Tahun_peraturan" : 2015,
+		"Tentang" : "PENGESAHAN PERJANJIAN EKSTRADISI ANTARA REPUBLIK INDONESIA DAN PAPUA NUGINI (EXTRADITION TREATY BETWEEN THE REPUBLIC OF INDONESIA AND THE INDEPENDENT STATE OF PAPUA NEW GUINEA)",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 7,
+		"Tahun_peraturan" : 2015,
+		"Tentang" : "PENGESAHAN PERSETUJUAN ANTARA PEMERINTAH REPUBLIK INDONESIA DAN PEMERINTAH REPUBLIK ISLAM PAKISTAN TENTANG KEGIATAN KERJA SAMA DI BIDANG PERTAHANAN (AGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC OF INDONESIA AND THE GOVERNMENT OF THE ISLAMIC REPUBLIC OF PAKISTAN ON COOPERATIVE ACTIVITIES IN THE FIELD OF DEFENCE)",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 8,
+		"Tahun_peraturan" : 2015,
+		"Tentang" : "PERUBAHAN ATAS UNDANG-UNDANG NOMOR 1 TAHUN 2015 TENTANG PENETAPAN PERATURAN PEMERINTAH PENGGANTI UNDANG-UNDANG NOMOR 1 TAHUN 2014 TENTANG PEMILIHAN GUBERNUR, BUPATI, DAN WALIKOTA MENJADI UNDANG-UNDANG",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 9,
+		"Tahun_peraturan" : 2015,
+		"Tentang" : "PERUBAHAN KEDUA ATAS UNDANG-UNDANG NOMOR 23 TAHUN 2014 TENTANG PEMERINTAHAN DAERAH",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 10,
+		"Tahun_peraturan" : 2015,
+		"Tentang" : "PENETAPAN PERATURAN PEMERINTAH PENGGANTI UNDANG-UNDANG NOMOR 1 TAHUN 2015 TENTANG PERUBAHAN ATAS UNDANG-UNDANG NOMOR 30 TAHUN 2002 TENTANG KOMISI PEMBERANTASAN TINDAK PIDANA KORUPSI MENJADI UNDANG-UNDANG",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 11,
+		"Tahun_peraturan" : 2015,
+		"Tentang" : "PENCABUTAN PERATURAN PEMERINTAH PENGGANTI UNDANG-UNDANG NOMOR 4 TAHUN 2008 TENTANG JARING PENGAMAN SISTEM KEUANGAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 12,
+		"Tahun_peraturan" : 2015,
+		"Tentang" : "PERTANGGUNGJAWABAN ATAS PELAKSANAAN ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 2014",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 13,
+		"Tahun_peraturan" : 2015,
+		"Tentang" : "PENGESAHAN BANTUAN TIMBAL BALIK DALAM MASALAH PIDANA ANTARA REPUBLIK INDONESIA DAN REPUBLIK SOSIALIS VIET NAM TREATY ON MUTUAL LEGAL ASSISTENCE IN CRIMINAL MATTERS BETWEEN THE REPUBLIC OF INDONESIA AND THE SOCIALIST REPUBLIC OF VIET NAM",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 14,
+		"Tahun_peraturan" : 2015,
+		"Tentang" : "ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 2016",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 1,
+		"Tahun_peraturan" : 2014,
+		"Tentang" : "PERUBAHAN ATAS UNDANG-UNDANG NOMOR 27 TAHUN 2007 TENTANG PENGELOLAAN WILAYAH PESISIR DAN PULAU-PULAU KECIL",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 2,
+		"Tahun_peraturan" : 2014,
+		"Tentang" : "PERUBAHAN ATAS UNDANG-UNDANG NOMOR 30 TAHUN 2004 TENTANG JABATAN NOTARIS",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 3,
+		"Tahun_peraturan" : 2014,
+		"Tentang" : "PERINDUSTRIAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 4,
+		"Tahun_peraturan" : 2014,
+		"Tentang" : "PENETAPAN PERATURAN PEMERINTAH PENGGANTI UNDANG-UNDANG NOMOR 1 TAHUN 2013 TENTANG PERUBAHAN KEDUA ATAS UNDANG-UNDANG NOMOR 24 TAHUN 2003 TENTANG MAHKAMAH KONSTITUSI MENJADI UNDANG-UNDANG",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 5,
+		"Tahun_peraturan" : 2014,
+		"Tentang" : "APARATUR SIPIL NEGARA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 6,
+		"Tahun_peraturan" : 2014,
+		"Tentang" : "DESA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 7,
+		"Tahun_peraturan" : 2014,
+		"Tentang" : "PERDAGANGAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 8,
+		"Tahun_peraturan" : 2014,
+		"Tentang" : "PENGESAHAN PERJANJIAN ANTARA REPUBLIK INDONESIA DAN REPUBLIK KOREA TENTANG BANTUAN HUKUM TIMBAL BALIK DALAM MASALAH PIDANA (TREATY BETWEEN THE REPUBLIC OF INDONESIA AND THE REPUBLIC OF KOREA ON MUTUAL LEGAL ASSISTANCE IN CRIMINAL MATTERS)",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 9,
+		"Tahun_peraturan" : 2014,
+		"Tentang" : "PENGESAHAN PERJANJIAN ANTARA REPUBLIK INDONESIA DAN REPUBLIK INDIA TENTANG BANTUAN HUKUM TIMBAL BALIK DALAM MASALAH PIDANA (TREATY BETWEEN THE REPUBLIC OF INDONESIA AND THE REPUBLIC OF INDIA ON MUTUAL LEGAL ASSISTANCE IN CRIMINAL MATTERS)",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 10,
+		"Tahun_peraturan" : 2014,
+		"Tentang" : "PENGESAHAN INTERNATIONAL CONVENTION FOR THE SUPPRESSION OF ACTS OF NUCLEAR TERRORISM (KONVENSI INTERNASIONAL PENANGGULANGAN TINDAKAN TERORISME NUKLIR)",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 11,
+		"Tahun_peraturan" : 2014,
+		"Tentang" : "KEINSINYURAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 12,
+		"Tahun_peraturan" : 2014,
+		"Tentang" : "PERUBAHAN ATAS UNDANG-UNDANG NOMOR 23 TAHUN 2013 TENTANG ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 2014",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 13,
+		"Tahun_peraturan" : 2014,
+		"Tentang" : "PENGESAHAN PERJANJIAN EKSTRADISI ANTARA REPUBLIK INDONESIA DAN REPUBLIK INDIA (EXTRADITION TREATY BETWEEN THE REPUBLIC OF INDONESIA AND THE REPUBLIC OF INDIA)",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 14,
+		"Tahun_peraturan" : 2014,
+		"Tentang" : "PEMBENTUKAN KABUPATEN MUNA BARAT DI PROVINSI SULAWESI TENGGARA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 15,
+		"Tahun_peraturan" : 2014,
+		"Tentang" : "PEMBENTUKAN KABUPATEN BUTON TENGAH DI PROVINSI SULAWESI TENGGARA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 16,
+		"Tahun_peraturan" : 2014,
+		"Tentang" : "PEMBENTUKAN KABUPATEN BUTON SELATAN DI PROVINSI SULAWESI TENGGARA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 17,
+		"Tahun_peraturan" : 2014,
+		"Tentang" : "MAJELIS PERMUSYAWARATAN RAKYAT, DEWAN PERWAKILAN RAKYAT, DEWAN PERWAKILAN DAERAH, DAN DEWAN PERWAKILAN RAKYAT DAERAH",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 18,
+		"Tahun_peraturan" : 2014,
+		"Tentang" : "KESEHATAN JIWA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 19,
+		"Tahun_peraturan" : 2014,
+		"Tentang" : "PENGESAHAN PERSETUJUAN TENTANG KERJA SAMA INDUSTRI PERTAHANAN ANTARA PEMERINTAH REPUBLIK INDONESIA DAN PEMERINTAH REPUBLIK TURKI (AGREEMENT ON DEFENSE INDUSTRY COOPERATION BETWEEN THE GOVERNMENT OF THE REPUBLIC OF INDONESIA AND THE GOVERNMENT OF THE REPUBLIC OF TURKEY)",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 20,
+		"Tahun_peraturan" : 2014,
+		"Tentang" : "STANDARDISASI DAN PENILAIAN KESESUAIAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 21,
+		"Tahun_peraturan" : 2014,
+		"Tentang" : "PANAS BUMI",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 22,
+		"Tahun_peraturan" : 2014,
+		"Tentang" : "PEMILIHAN GUBERNUR, BUPATI DAN WALIKOTA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 23,
+		"Tahun_peraturan" : 2014,
+		"Tentang" : "PEMERINTAHAN DAERAH",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 24,
+		"Tahun_peraturan" : 2014,
+		"Tentang" : "PERTANGGUNGJAWABAN ATAS PELAKSANAAN ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 2013",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : ,
+		"Tahun_peraturan" : 2014,
 		"Tentang" : "",
 		"link_hover" : ""
 	}
 	{
 		"Jenis" : "UU",
 		"Nomor_Peraturan" : ,
-		"Tahun_peraturan" : 2019,
+		"Tahun_peraturan" : 2014,
 		"Tentang" : "",
 		"link_hover" : ""
 	}
 	{
 		"Jenis" : "UU",
 		"Nomor_Peraturan" : ,
-		"Tahun_peraturan" : 2019,
+		"Tahun_peraturan" : 2014,
+		"Tentang" : "",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : ,
+		"Tahun_peraturan" : 2014,
 		"Tentang" : "",
 		"link_hover" : ""
 	}
