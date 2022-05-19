@@ -989,29 +989,1134 @@
 	}
 	{
 		"Jenis" : "UU",
-		"Nomor_Peraturan" : ,
+		"Nomor_Peraturan" : 25,
 		"Tahun_peraturan" : 2014,
+		"Tentang" : "HUKUM DISIPLIN MILITER",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 26,
+		"Tahun_peraturan" : 2014,
+		"Tentang" : "PENGESAHAN ASEAN AGREEMENT ON TRANSBOUNDARY HAZE POLLUTION (PERSETUJUAN ASEAN TENTANG PENCEMARAN ASAP LINTAS BATAS)",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 27,
+		"Tahun_peraturan" : 2014,
+		"Tentang" : "ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 2015",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 28,
+		"Tahun_peraturan" : 2014,
+		"Tentang" : "HAK CIPTA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 29,
+		"Tahun_peraturan" : 2014,
+		"Tentang" : "PENCARIAN DAN PERTOLONGAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 30,
+		"Tahun_peraturan" : 2014,
+		"Tentang" : "ADMINISTRASI PEMERINTAHAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 31,
+		"Tahun_peraturan" : 2014,
+		"Tentang" : "PERUBAHAN ATAS UNDANG-UNDANG NOMOR 13 TAHUN 2006 TENTANG PERLINDUNGAN SAKSI DAN KORBAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 32,
+		"Tahun_peraturan" : 2014,
+		"Tentang" : "KELAUTAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 33,
+		"Tahun_peraturan" : 2014,
+		"Tentang" : "JAMINAN PRODUK HALAL",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 34,
+		"Tahun_peraturan" : 2014,
+		"Tentang" : "PENGELOLAAN KEUANGAN HAJI",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 35,
+		"Tahun_peraturan" : 2014,
+		"Tentang" : "PERUBAHAN ATAS UNDANG-UNDANG NOMOR 23 TAHUN 2002 TENTANG PERLINDUNGAN ANAK",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 36,
+		"Tahun_peraturan" : 2014,
+		"Tentang" : "TENAGA KESEHATAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 37,
+		"Tahun_peraturan" : 2014,
+		"Tentang" : "KONSERVASI TANAH DAN AIR",
+		"link_hover" : ""
+	}{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 38,
+		"Tahun_peraturan" : 2014,
+		"Tentang" : "KEPERAWATAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 39,
+		"Tahun_peraturan" : 2014,
+		"Tentang" : "PERKEBUNAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 40,
+		"Tahun_peraturan" : 2014,
+		"Tentang" : "PERASURANSIAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 41,
+		"Tahun_peraturan" : 2014,
+		"Tentang" : "PERUBAHAN ATAS UNDANG-UNDANG NOMOR 18 TAHUN 2009 TENTANG PETERNAKAN DAN KESEHATAN HEWAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 42,
+		"Tahun_peraturan" : 2014,
+		"Tentang" : "PERUBAHAN ATAS UNDANG-UNDANG NOMOR 17 TAHUN 2014 TENTANG MAJELIS PERMUSYAWARATAN RAKYAT, DEWAN PERWAKILAN RAKYAT, DEWAN PERWAKILAN DAERAH, DAN DEWAN PERWAKILAN RAKYAT DAERAH",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 1,
+		"Tahun_peraturan" : 2013,
+		"Tentang" : "LEMBAGA KEUANGAN MIKRO",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 2,
+		"Tahun_peraturan" : 2013,
+		"Tentang" : "PEMBENTUKAN KABUPATEN MAHAKAM ULU DI PROVINSI KALIMANTAN TIMUR",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 3,
+		"Tahun_peraturan" : 2013,
+		"Tentang" : "PEMBENTUKAN KABUPATEN MALAKA DI PROVINSI NUSA TENGGARA TIMUR",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 4,
+		"Tahun_peraturan" : 2013,
+		"Tentang" : "PEMBENTUKAN KABUPATEN MAMUJU TENGAH DI PROVINSI SULAWESI BARAT",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 5,
+		"Tahun_peraturan" : 2013,
+		"Tentang" : "PEMBENTUKAN KABUPATEN BANGGA LAUT DI PROVINSI SULAWESI TENGAH",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 6,
+		"Tahun_peraturan" : 2013,
+		"Tentang" : "PEMBENTUKAN KABUPATEN PULAU TALIABU DI PROVINSI MALUKU UTARA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 7,
+		"Tahun_peraturan" : 2013,
+		"Tentang" : "PEMBENTUKAN KABUPATEN PENUKAL ABAB LEMATANG ILIR DI PROVINSI SUMATERA SELATAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 8,
+		"Tahun_peraturan" : 2013,
+		"Tentang" : "PEMBENTUKAN KABUPATEN KOLAKA TIMUR DI PROVINSI SULAWESI TENGGARA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 9,
+		"Tahun_peraturan" : 2013,
+		"Tentang" : "PENCEGAHAN DAN PEMBERANTASAN TINDAK PIDANA PENDANAAN TERORISME",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 10,
+		"Tahun_peraturan" : 2013,
+		"Tentang" : "PENGESAHAN ROTTERDAM CONVENTION ON THE PRIOR INFORMED CONSENT PROCEDURE FOR CERTAIN HAZARDOUS CHEMICALS AND PESTICIDES IN INTERNATIONAL TRADE (KONVENSI ROTTERDAM TENTANG PROSEDUR PERSETUJUAN ATAS DASAR INFORMASI AWAL UNTUK BAHAN KIMIA DAN PESTISIDA BERBAHAYA TERTENTU DALAM PERDAGANGAN INTERNASIONAL)",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 11,
+		"Tahun_peraturan" : 2013,
+		"Tentang" : "PENGESAHAN NAGOYA PROTOCOL ON ACCESS TO GENETIC RESOURCES AND THE FAIR AND EQUITABLE SHARING OF BENEFITS ARISING FROM THEIR UTILIZATION TO THE CONVENTION ON BIOLOGICAL DIVERSITY (PROTOKOL NAGOYA TENTANG AKSES PADA SUMBER DAYA GENETIK DAN PEMBAGIAN KEUNTUNGAN YANG ADIL DAN SEIMBANG YANG TIMBUL DARI PEMANFAATANNYA ATAS KONVENSI KEANEKARAGAMAN HAYATI)",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 12,
+		"Tahun_peraturan" : 2013,
+		"Tentang" : "PEMBENTUKAN KABUPATEN MOROWALI UTARA DI PROVINSI SULAWESI TENGAH",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : ,
+		"Tahun_peraturan" : 2013,
+		"Tentang" : "",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 13,
+		"Tahun_peraturan" : 2013,
+		"Tentang" : "PEMBENTUKAN KABUPATEN KONAWE KEPULAUAN DI PROVINSI SULAWESI TENGGARA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 14,
+		"Tahun_peraturan" : 2013,
+		"Tentang" : "PERUBAHAN ATAS UNDANG-UNDANG NOMOR 56 TAHUN 2008 TENTANG PEMBENTUKAN KABUPATEN TAMBRAUW DI PROVINSI PAPUA BARAT",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 15,
+		"Tahun_peraturan" : 2013,
+		"Tentang" : "PERUBAHAN ATAS UNDANG-UNDANG NOMOR 19 TAHUN 2012 TENTANG ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 2013",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 16,
+		"Tahun_peraturan" : 2013,
+		"Tentang" : "PEMBENTUKAN KABUPATEN MUSI RAWAS UTARA DI PROVINSI SUMATRA SELATAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 17,
+		"Tahun_peraturan" : 2013,
+		"Tentang" : "ORGANISASI KEMASYARAKATAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 18,
+		"Tahun_peraturan" : 2013,
+		"Tentang" : "PENCEGAHAN DAN PEMBERANTASAN PERUSAKAN HUTAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 19,
+		"Tahun_peraturan" : 2013,
+		"Tentang" : "PERLINDUNGAN DAN PEMBERDAYAAN PETANI",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 20,
+		"Tahun_peraturan" : 2013,
+		"Tentang" : "PENDIDIKAN KODEKTERAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 21,
+		"Tahun_peraturan" : 2013,
+		"Tentang" : "KEANTARIKSAAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 22,
+		"Tahun_peraturan" : 2013,
+		"Tentang" : "PERTANGGUNGJAWABAN ATAS PELAKSANAAN ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 2012",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 23,
+		"Tahun_peraturan" : 2013,
+		"Tentang" : "ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 2014",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 24,
+		"Tahun_peraturan" : 2013,
+		"Tentang" : "PERUBAHAN ATAS UNDANG-UNDANG NOMOR 23 TAHUN 2006 TENTANG ADMINISTRASI KEPENDUDUKAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 1,
+		"Tahun_peraturan" : 2012,
+		"Tentang" : "PENGESAHAN TRAKTAT PELARANGAN MENYELURUH UJI COBA NUKLIR (COMPREHENSIVE NUCLEAR-TEST-BAN TREATY)",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 2,
+		"Tahun_peraturan" : 2012,
+		"Tentang" : "PENGADAAN TANAH BAGI PEMBANGUNAN UNTUK KEPENTINGAN UMUM",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 3,
+		"Tahun_peraturan" : 2012,
+		"Tentang" : "PENGESAHAN PERSETUJUAN ANTARA PEMERINTAH REPUBLIK INDONESIA DAN PEMERINTAH DAERAH ADMINISTRASI KHUSUS HONGKONG REPUBLIK RAKYAT CHINA TENTANG BANTUAN HUKUM TIMBAL BALIK DALAM MASALAH PIDANA (AGREEMENT BETWEEN THE GOVERNMENT OF THE HONGKONG SPECIAL ADMINISTRATIVE REGION OF THE PEOPLE'S REPUBLIC OF CHINA CONCERNING MUTUAL LEGAL ASSISTANCE IN CRIMINAL MATTERS)",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 4,
+		"Tahun_peraturan" : 2012,
+		"Tentang" : "PERUBAHAN ATAS UNDANG-UNDANG NOMOR 22 TAHUN 2011 TENTANG ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 2012",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 5,
+		"Tahun_peraturan" : 2012,
+		"Tentang" : "PENGESAHAN ASEAN CONVENTION ON COUNTER TERRORISM (KONVENSI ASEAN MENGENAI PEMBERANTASAN TERORISME)",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 6,
+		"Tahun_peraturan" : 2012,
+		"Tentang" : "PENGESAHAN INTERNATIONAL CONVENTION ON THE PROTECTION OF THE RIGHTS OF ALL MIGRANT WORKERS AND MEMBERS OF THEIR FAMILIES (KONVENSI INTERNASIONAL MENGENAI PERLINDUNGAN HAK-HAK SELURUH PEKERJA MIGRAN DAN ANGGOTA KELUARGANYA)",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 7,
+		"Tahun_peraturan" : 2012,
+		"Tentang" : "PENANGANAN KONFLIK SOSIAL",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 8,
+		"Tahun_peraturan" : 2012,
+		"Tentang" : "PEMILIHAN UMUM ANGGOTA DEWAN PERWAKILAN RAKYAT, DEWAN PERWAKILAN DAERAH, DAN DEWAN PERWAKILAN RAKYAT DAERAH",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 9,
+		"Tahun_peraturan" : 2012,
+		"Tentang" : "PENGESAHAN OPTIONAL PROTOCOL TO THE CONVENTION ON THE RIGHTS OF THE CHILD ON THE INVOLVEMENT OF CHILDREN IN ARMED CONFLICT (PROTOKOL OPSIONAL KONVENSI HAK-HAK ANAK MENGENAI KETERLIBATAN ANAK DALAM KONFLIK BERSENJATA)",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 10,
+		"Tahun_peraturan" : 2012,
+		"Tentang" : "PENGESAHAN OPTIONAL PROTOCOL TO THE CONVENTION ON THE RIGHTS OF THE CHILD ON THE SALE OF CHILDREN, CHILD PROSTITUTION AND CHILD PORNOGRAPHY (PROTOKOL OPSIONAL KONVENSI HAK-HAK ANAK MENGENAI PENJUALAN ANAK, PROSTITUSI ANAK, DAN PORNOGRAFI ANAK)",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 11,
+		"Tahun_peraturan" : 2012,
+		"Tentang" : "SISTEM PERADILAN PIDANA ANAK",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 12,
+		"Tahun_peraturan" : 2012,
+		"Tentang" : "PENDIDIKAN TINGGI",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 13,
+		"Tahun_peraturan" : 2012,
+		"Tentang" : "KEISTIMEWAAN DAERAH ISTIMEWA YOGYAKARTA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 14,
+		"Tahun_peraturan" : 2012,
+		"Tentang" : "PERTANGGUNGJAWABAN ATAS PELAKSANAAN ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 2011",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 15,
+		"Tahun_peraturan" : 2012,
+		"Tentang" : "VETERAN REPUBLIK INDONESIA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 16,
+		"Tahun_peraturan" : 2012,
+		"Tentang" : "INDUSTRI PERTAHANAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 17,
+		"Tahun_peraturan" : 2012,
+		"Tentang" : "PERKOPERASIAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 18,
+		"Tahun_peraturan" : 2012,
+		"Tentang" : "PANGAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 19,
+		"Tahun_peraturan" : 2012,
+		"Tentang" : "ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 2013",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 20,
+		"Tahun_peraturan" : 2012,
+		"Tentang" : "PEMBENTUKAN PROVINSI KALIMANTAN UTARA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 21,
+		"Tahun_peraturan" : 2012,
+		"Tentang" : "PEMBENTUKAN KABUPATEN PANGANDARAN DI PROVINSI JAWA BARAT",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 22,
+		"Tahun_peraturan" : 2012,
+		"Tentang" : "PEMBENTUKAN KABUPATEN PESISIR BARAT DI PROVINSI LAMPUNG",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 23,
+		"Tahun_peraturan" : 2012,
+		"Tentang" : "PEMBENTUKAN KABUPATEN MANOKWARI SELATAN DI PROVINSI PAPUA BARAT",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 24,
+		"Tahun_peraturan" : 2012,
+		"Tentang" : "PEMBENTUKAN KABUPATEN PEGUNUNGAN ARFAK DI PROVINSI PAPUA BARAT",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 2,
+		"Tahun_peraturan" : 2011,
+		"Tentang" : "PERUBAHAN ATAS UNDANG-UNDANG NOMOR 2 TAHUN 2008 TENTANG PARTAI POLITIK",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 1,
+		"Tahun_peraturan" : 2011,
+		"Tentang" : "PERUMAHAN DAN KAWASAN PEMUKIMAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 3,
+		"Tahun_peraturan" : 2011,
+		"Tentang" : "TRANSFER DANA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 4,
+		"Tahun_peraturan" : 2011,
+		"Tentang" : "INFORMASI GEOSPASIAL",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 5,
+		"Tahun_peraturan" : 2011,
+		"Tentang" : "AKUNTAN PUBLIK",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 6,
+		"Tahun_peraturan" : 2011,
+		"Tentang" : "KEIMIGRASIAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 7,
+		"Tahun_peraturan" : 2011,
+		"Tentang" : "MATA UANG",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 8,
+		"Tahun_peraturan" : 2011,
+		"Tentang" : "PERUBAHAN ATAS UNDANG-UNDANG NOMOR 24 TAHUN 2003 TENTANG MAHKAMAH KONSTITUSI",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 9,
+		"Tahun_peraturan" : 2011,
+		"Tentang" : "PERUBAHAN ATAS UNDANG-UNDANG NOMOR 9 TAHUN 2006 TENTANG SISTEM RESI GUDANG",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 10,
+		"Tahun_peraturan" : 2011,
+		"Tentang" : "PERUBAHAN ATAS UNDANG-UNDANG NOMOR 32 TAHUN 1997 TENTANG PERDAGANGAN BERJANGKA KOMODITI",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 11,
+		"Tahun_peraturan" : 2011,
+		"Tentang" : "PERUBAHAN ATAS UNDANG-UNDANG NOMOR 10 TAHUN 2010 TENTANG ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 2011",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 12,
+		"Tahun_peraturan" : 2011,
+		"Tentang" : "PEMBENTUKAN PERATURAN PERUNDANG-UNDANGAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 13,
+		"Tahun_peraturan" : 2011,
+		"Tentang" : "PENANGANAN FAKIR MISKIN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 14,
+		"Tahun_peraturan" : 2011,
+		"Tentang" : "PERTANGGUNGJAWABAN ATAS PELAKSANAAN ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 2010",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 15,
+		"Tahun_peraturan" : 2011,
+		"Tentang" : "PENYELENGGARA PEMILIHAN UMUM",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 16,
+		"Tahun_peraturan" : 2011,
+		"Tentang" : "BANTUAN HUKUM",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 17,
+		"Tahun_peraturan" : 2011,
+		"Tentang" : "INTELIJEN NEGARA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 18,
+		"Tahun_peraturan" : 2011,
+		"Tentang" : "PERUBAHAN ATAS UNDANG-UNDANG NOMOR 22 TAHUN 2004 TENTANG KOMISI YUDISIAL",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 19,
+		"Tahun_peraturan" : 2011,
+		"Tentang" : "PENGESAHAN CONVENTION ON THE RIGHTS OF PERSONS WITH DISABILITIES (KONVENSI MENGENAI HAK-HAK PENYANDANG DISABILITAS)",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 20,
+		"Tahun_peraturan" : 2011,
+		"Tentang" : "RUMAH SUSUN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 21,
+		"Tahun_peraturan" : 2011,
+		"Tentang" : "OTORITAS JASA KEUANGAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 22,
+		"Tahun_peraturan" : 2011,
+		"Tentang" : "ANGGARAN PENDAPAN DAN BELANJA NEGARA TAHUN 2012",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 23,
+		"Tahun_peraturan" : 2011,
+		"Tentang" : "PENGELOLAAN ZAKAT",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 24,
+		"Tahun_peraturan" : 2011,
+		"Tentang" : "BADAN PENYELENGGARA JAMINAN SOSIAL",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 1,
+		"Tahun_peraturan" : 2010,
+		"Tentang" : "PERTANGGUNGJAWABAN ATAS PELAKSANAAN ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 2008",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 2,
+		"Tahun_peraturan" : 2010,
+		"Tentang" : "PERUBAHAN ATAS UNDANG-UNDANG NOMOR 47 TAHUN 2009 TENTANG ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 2010",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 3,
+		"Tahun_peraturan" : 2010,
+		"Tentang" : "PENCABUTAN PERATURAN PEMERINTAH PENGGANTI UU NO. 4 TAHUN 2009 TENTANG PERUBAHAN ATAS UU NO. 30 TAHUN 2002 TENTANG KOMISI PEMBERANTASAN TINDAK PIDANA KORUPSI",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 4,
+		"Tahun_peraturan" : 2010,
+		"Tentang" : "PENGESAHAN PERJANJIAN ANTARA REPUBLIK INDONESIA DAN REPUBLIK SINGAPURA TENTANG PENETAPAN GARIS BATAS LAUT WILAYAH KEDUA NEGARA DI BAGIAN BARAT SELAT SINGAPURA, 2009 (TREATY BETWEEN THE REPUBLIC OF INDONESIA AND THE REPUBLIC OF SINGAPORE RELATING TO THE DELIMITATION OF THE TERRITORIAL SEAS OF THE TWO COUNTRIES IN THE WESTERN PART OF THE STRAIT OF SINGAPORE, 2009)",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 5,
+		"Tahun_peraturan" : 2010,
+		"Tentang" : "PERUBAHAN ATAS UNDANG-UNDANG NOMOR 22 TAHUN 2002 TENTANG GRASI",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 6,
+		"Tahun_peraturan" : 2010,
+		"Tentang" : "PENGESAHAN MEMORANDUM SALING PENGERTIAN ANTARA PEMERINTAH REPUBLIK INDONESIA DAN KERAJAAN KEBAWAH DULI YANG MAHA MULIA PADUKA SERI BAGINDA SULTAN DAN YANG DI-PERTUAN NEGARA BRUNEI DARUSSALAM TENTANG KERJASAMA DI BIDANG PERTAHANAN (MEMORANDUM OF UNDERSTANDING BETWEEN THE GOVERNMENT OF THE REPUBLIC OF INDONESIA AND THE GOVERNMENT OF HIS MAJESTY THE SULTAN AND YANG DI-PERTUAN OF BRUNEI DARUSSALAM ON DEFENCE COOPERATION)",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 7,
+		"Tahun_peraturan" : 2010,
+		"Tentang" : "PERTANGGUNGJAWABAN ATAS PELAKSANAAN ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 2009",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 8,
+		"Tahun_peraturan" : 2010,
+		"Tentang" : "PENCEGAHAN DAN PEMBERANTASAN TINDAK PIDANA PENCUCIAN UANG",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 9,
+		"Tahun_peraturan" : 2010,
+		"Tentang" : "KEPROTOKOLAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 10,
+		"Tahun_peraturan" : 2010,
+		"Tentang" : "ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 2011",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 11,
+		"Tahun_peraturan" : 2010,
+		"Tentang" : "CAGAR BUDAYA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 12,
+		"Tahun_peraturan" : 2010,
+		"Tentang" : "GERAKAN PRAMUKA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 13,
+		"Tahun_peraturan" : 2010,
+		"Tentang" : "HORTIKULTURA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 1,
+		"Tahun_peraturan" : 2009,
+		"Tentang" : "PENERBANGAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 2,
+		"Tahun_peraturan" : 2009,
+		"Tentang" : "LEMBAGA PEMBIAYAAN EKSPOR INDONESIA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 3,
+		"Tahun_peraturan" : 2009,
+		"Tentang" : "PERUBAHAN KEDUA ATAS UNDANG-UNDANG NOMOR 14 TAHUN 1985 TENTANG MAHKAMAH AGUNG",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 4,
+		"Tahun_peraturan" : 2009,
+		"Tentang" : "PERTAMBANGAN MINERAL DAN BATUBARA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 5,
+		"Tahun_peraturan" : 2009,
+		"Tentang" : "PENGESAHAN UNITED NATIONS CONVENTION AGAINST TRANSNATIONAL ORGANIZED CRIME (KONVENSI PERSERIKATAN BANGSA-BANGSA MENENTANG TINDAK PIDANA TRANSNASIONAL YANG TERORGANISASI)",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 6,
+		"Tahun_peraturan" : 2009,
+		"Tentang" : "PENETAPAN PERPU 2-2008 TENTANG PERUBAHAN KEDUA UU 23-1999 TENTANG BANK INDONESIA MENJADI UU",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 7,
+		"Tahun_peraturan" : 2009,
+		"Tentang" : "PENETAPAN PERPU 3-2008 TENTANG PERUBAHAN UU 24-2004 TENTANG LEMBAGA PENJAMIN SIMPANAN MENJADI UU",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 8,
+		"Tahun_peraturan" : 2009,
+		"Tentang" : "PERTANGGUNGJAWABAN ATAS PELAKSANAAN ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 2006",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 9,
+		"Tahun_peraturan" : 2009,
+		"Tentang" : "BADAN HUKUM PENDIDIKAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 10,
+		"Tahun_peraturan" : 2009,
+		"Tentang" : "KEPARIWISATAAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 11,
+		"Tahun_peraturan" : 2009,
+		"Tentang" : "KESEJAHTERAAN SOSIAL",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 12,
+		"Tahun_peraturan" : 2009,
+		"Tentang" : "PEMBENTUKAN KABUPATEN KEPULAUAN MERANTI DI PROVINSI RIAU",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 13,
+		"Tahun_peraturan" : 2009,
+		"Tentang" : "PEMBENTUKAN KABUPATEN MAYBRAT DI PROVINSI PAPUA BARAT",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 14,
+		"Tahun_peraturan" : 2009,
+		"Tentang" : "PENGESAHAN PROTOCOL TO PREVENT, SUPPRESS AND PUNISH TRAFFICKING IN PERSONS, ESPECIALLY WOMEN AND CHILDREN, SUPPLEMENTING THE UNITED NATIONS CONVENTION AGAINST TRANSNATIONAL ORGANIZED CRIME (PROTOKOL UNTUK MENCEGAH, MENINDAK, DAN MENGHUKUM PERDAGANGAN ORANG, TERUTAMA PEREMPUAN DAN ANAK-ANAK, MELENGKAPI KONVENSI PERSERIKATAN BANGSA-BANGSA MENENTANG TINDAK PIDANA TRANSNASIONAL YANG TERORGANISASI)",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 15,
+		"Tahun_peraturan" : 2009,
+		"Tentang" : "PENGESAHAN PROTOCOL AGAINST THE SMUGGLING OF MIGRANTS BY LAND, SEA AND AIR, SUPPLEMENTING THE UNITED NATIONS CONVENTION AGAINST TRANSNATIONAL ORGANIZED CRIME (PROTOKOL MENENTANG PENYELUNDUPAN MIGRAN MELALUI DARAT, LAUT, DAN UDARA, MELENGKAPI KONVENSI PERSERIKATAN BANGSA-BANGSA MENENTANG TINDAK PIDANA TRANSNASIONAL YANG TERORGANISASI)",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 16,
+		"Tahun_peraturan" : 2009,
+		"Tentang" : "PENETAPAN PERPU 5-2008 TENTANG PERUBAHAN KEEMPAT UU 6-1983 TENTANG KETENTUAN UMUM DAN TATA CARA PERPAJAKAN MENJADI UU",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 17,
+		"Tahun_peraturan" : 2009,
+		"Tentang" : "PENETAPAN PERATURAN PEMERINTAH PENGGANTI UNDANG-UNDANG NOMOR 1 TAHUN 2009 TENTANG PERUBAHAN ATAS UNDANG-UNDANG NOMOR 10 TAHUN 2008 TENTANG PEMILIHAN UMUM ANGGOTA DEWAN PERWAKILAN RAKYAT, DEWAN PERWAKILAN DAERAH, DAN DEWAN PERWAKILAN RAKYAT DAERAH MENJADI UNDANG-UNDANG",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 18,
+		"Tahun_peraturan" : 2009,
+		"Tentang" : "PETERNAKAN DAN KESEHATAN HEWAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 19,
+		"Tahun_peraturan" : 2009,
+		"Tentang" : "PENGESAHAN STOCKHOLM CONVENTION ON PERSISTENT ORGANIC POLLUTANTS (KONVENSI STOCKHOM TENTANG BAHAN PENCEMAR ORGANIK YANG PERSISTEN)",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 20,
+		"Tahun_peraturan" : 2009,
+		"Tentang" : "GELAR, TANDA JASA, DAN TANDA KEHORMATAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 21,
+		"Tahun_peraturan" : 2009,
+		"Tentang" : "PENGESAHAN AGREEMENT FOR THE IMPLEMENTATION OF THE PROVISION OF THE UNITED NATIONS CONVENTION ON THE LAW OF THE SEA OF 10 DESEMBER 1982 RELATING TO THE CONSERVATION AND MANAGEMENT OF STRADDING FISH STOCKS AND HIGHLY MIGRATORY FISH STOCK (PERSETUJUAN PELAKSANAAN KETENTUAN-KETENTUAN KONVENSI PBB TENTANG HUKUM LAUT 1982 YANG BERKAITAN DENGAN KONSERVASI DAN PENGELOLAAN SEDIAAN IKAN YANG BERUAYA TERBATAS DAN SEDIAAN IKAN YANG BERUAYA JAUH",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 22,
+		"Tahun_peraturan" : 2009,
+		"Tentang" : "LALU LINTAS DAN ANGKUTAN JALAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 23,
+		"Tahun_peraturan" : 2009,
+		"Tentang" : "PERTANGGUNGJAWABAN ATAS PELAKSANAAN ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 2007",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 24,
+		"Tahun_peraturan" : 2009,
+		"Tentang" : "BENDERA, BAHASA, DAN LAMBANG NEGARA, SERTA LAGU KEBANGSAAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 25,
+		"Tahun_peraturan" : 2009,
+		"Tentang" : "PELAYANAN PUBLIK",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 26,
+		"Tahun_peraturan" : 2009,
+		"Tentang" : "PERUBAHAN ATAS UNDANG-UNDANG NOMOR 41 TAHUN 2008 TENTANG ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 2009",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 27,
+		"Tahun_peraturan" : 2009,
+		"Tentang" : "MAJELIS PERMUSYAWARATAN RAKYAT, DEWAN PERWAKILAN RAKYAT, DEWAN PERWAKILAN DAERAH, DAN DEWAN PERWAKILAN RAKYAT DAERAH",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 28,
+		"Tahun_peraturan" : 2009,
+		"Tentang" : "PAJAK DAERAH DAN RETRIBUSI DAERAH",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 29,
+		"Tahun_peraturan" : 2009,
+		"Tentang" : "PERUBAHAN UU 15-1997 TENTANG KETRANSMIGRASIAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 30,
+		"Tahun_peraturan" : 2009,
+		"Tentang" : "KETENAGALISTRIKAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 31,
+		"Tahun_peraturan" : 2009,
+		"Tentang" : "METEOROLOGI, KLIMATOLOGI, DAN GEOFISIKA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 32,
+		"Tahun_peraturan" : 2009,
+		"Tentang" : "PERLINDUNGAN DAN PENGELOLAAN LINGKUNGAN HIDUP",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 33,
+		"Tahun_peraturan" : 2009,
+		"Tentang" : "PERFILMAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 34,
+		"Tahun_peraturan" : 2009,
+		"Tentang" : "PENETAPAN PERATURAN PEMERINTAH PENGGANTI UNDANG-UNDANG NOMOR 2 TAHUN 2009 TENTANG PERUBAHAN ATAS UNDANG-UNDANG NOMOR 13 TAHUN 13 TAHUN 2008 TENTANG PENYELENGGARAAN IBADAH HAJI MENJADI UNDANG-UNDANG",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 35,
+		"Tahun_peraturan" : 2009,
+		"Tentang" : "NARKOTIKA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 36,
+		"Tahun_peraturan" : 2009,
+		"Tentang" : "KESEHATAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 37,
+		"Tahun_peraturan" : 2009,
+		"Tentang" : "PENETAPAN PERATURAN PEMERINTAH PENGGANTI UNDANG-UNDANG NOMOR 3 TAHUN 2009 TENTANG PERUBAHAN ATAS UNDANG-UNDANG NOMOR 9 TAHUN 1992 TENTANG KEIMIGRASIAN MENJADI UNDANG-UNDANG",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 38,
+		"Tahun_peraturan" : 2009,
+		"Tentang" : "POS",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 39,
+		"Tahun_peraturan" : 2009,
+		"Tentang" : "KAWASAN EKONOMI KHUSUS",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 40,
+		"Tahun_peraturan" : 2009,
+		"Tentang" : "KEPEMUDAAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 41,
+		"Tahun_peraturan" : 2009,
+		"Tentang" : "PERLINDUNGAN LAHAN PERTANIAN PANGAN BERKELANJUTAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 42,
+		"Tahun_peraturan" : 2009,
+		"Tentang" : "PERUBAHAN KETIGA ATAS UNDANG-UNDANG NOMOR 8 TAHUN 1983 TENTANG PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 43,
+		"Tahun_peraturan" : 2009,
+		"Tentang" : "KEARSIPAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 44,
+		"Tahun_peraturan" : 2009,
+		"Tentang" : "RUMAH SAKIT",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 45,
+		"Tahun_peraturan" : 2009,
+		"Tentang" : "PERUBAHAN ATAS UU NOMOR 31 TAHUN 2004 TENTANG PERIKANAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 46,
+		"Tahun_peraturan" : 2009,
+		"Tentang" : "PENGADILAN TINDAK PIDANA KORUPSI",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 47,
+		"Tahun_peraturan" : 2009,
+		"Tentang" : "ANGGARAN PENDAPATAN BELANJA NEGARA TAHUN 2010",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 48,
+		"Tahun_peraturan" : 2009,
+		"Tentang" : "KEKUASAAN KEHAKIMAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 49,
+		"Tahun_peraturan" : 2009,
+		"Tentang" : "PERUBAHAN KEDUA ATAS UU NOMOR 2 TAHUN 1986 TENTANG PERADILAN UMUM",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 50,
+		"Tahun_peraturan" : 2009,
+		"Tentang" : "PERUBAHAN KEDUA ATAS UU NOMOR 7 TAHUN 1989 TENTANG PERADILAN AGAMA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 51,
+		"Tahun_peraturan" : 2009,
+		"Tentang" : "PERUBAHAN KEDUA ATAS UU NOMOR 5 TAHUN 1986 TENTANG PERADILAN TATA USAHA NEGARA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 52,
+		"Tahun_peraturan" : 2009,
+		"Tentang" : "PERKEMBANGAN KEPENDUDUKAN DAN PEMBANGUNAN KELUARGA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 1,
+		"Tahun_peraturan" : 2008,
+		"Tentang" : "PENGESAHAN ILO CONVENTION NO. 185 CONCERNING REVISING SEAFARERS' IDENTITY DOCUMENTS CONVENTION,1958 (KONVENSI ILO NO. 185 MENGENAI KONVENSI PERUBAHAN DOKUMEN IDENTITAS PELAUT, 1958)",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 2,
+		"Tahun_peraturan" : 2008,
+		"Tentang" : "PARTAI POLITIK",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 3,
+		"Tahun_peraturan" : 2008,
+		"Tentang" : "PEMBENTUKAN KABUPATEN MAMBERAMO TENGAH DI PROVINSI PAPUA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 4,
+		"Tahun_peraturan" : 2008,
+		"Tentang" : "PEMBENTUKAN KABUPATEN YALIMO DI PROVINSI PAPUA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : ,
+		"Tahun_peraturan" : 2008,
 		"Tentang" : "",
 		"link_hover" : ""
 	}
 	{
 		"Jenis" : "UU",
 		"Nomor_Peraturan" : ,
-		"Tahun_peraturan" : 2014,
-		"Tentang" : "",
-		"link_hover" : ""
-	}
-	{
-		"Jenis" : "UU",
-		"Nomor_Peraturan" : ,
-		"Tahun_peraturan" : 2014,
-		"Tentang" : "",
-		"link_hover" : ""
-	}
-	{
-		"Jenis" : "UU",
-		"Nomor_Peraturan" : ,
-		"Tahun_peraturan" : 2014,
+		"Tahun_peraturan" : 2008,
 		"Tentang" : "",
 		"link_hover" : ""
 	}
