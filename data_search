@@ -1,0 +1,31 @@
+[
+	#Peraturan pusat (UU)
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 1,
+		"Tahun_peraturan" : 2022,
+		"Tentang" : "HUBUNGAN KEUANGAN ANTARA PEMERINTAH PUSAT DAN PEMERINTAHAN DAERAH",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "",
+		"Nomor_Peraturan" : ,
+		"Tahun_peraturan" : ,
+		"Tentang" : ,
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "",
+		"Nomor_Peraturan" : ,
+		"Tahun_peraturan" : ,
+		"Tentang" : ,
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "",
+		"Nomor_Peraturan" : ,
+		"Tahun_peraturan" : ,
+		"Tentang" : ,
+		"link_hover" : ""
+	}
+]
