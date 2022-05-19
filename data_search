@@ -1,5 +1,5 @@
 [
-	#Peraturan pusat (UU)
+	//Peraturan pusat (UU)
 	{
 		"Jenis" : "UU",
 		"Nomor_Peraturan" : 1,
@@ -8,24 +8,297 @@
 		"link_hover" : ""
 	}
 	{
-		"Jenis" : "",
-		"Nomor_Peraturan" : ,
-		"Tahun_peraturan" : ,
-		"Tentang" : ,
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 3,
+		"Tahun_peraturan" : 2022,
+		"Tentang" : "IBU KOTA NEGARA",
 		"link_hover" : ""
 	}
 	{
-		"Jenis" : "",
-		"Nomor_Peraturan" : ,
-		"Tahun_peraturan" : ,
-		"Tentang" : ,
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 4,
+		"Tahun_peraturan" : 2022,
+		"Tentang" : "PROVINSI SULAWESI SELATAN",
 		"link_hover" : ""
 	}
 	{
-		"Jenis" : "",
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 5,
+		"Tahun_peraturan" : 2022,
+		"Tentang" : "PROVINSI SULAWESI UTARA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 6,
+		"Tahun_peraturan" : 2022,
+		"Tentang" : "PROVINSI SULAWESI TENGAH",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 7,
+		"Tahun_peraturan" : 2022,
+		"Tentang" : "PROVINSI SULAWESI TENGGARA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 8,
+		"Tahun_peraturan" : 2022,
+		"Tentang" : "PROVINSI KALIMANTAN SELATAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 9,
+		"Tahun_peraturan" : 2022,
+		"Tentang" : "PROVINSI KALIMANTAN BARAT",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 10,
+		"Tahun_peraturan" : 2022,
+		"Tentang" : "PROVINSI KALIMANTAN TIMUR",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 11,
+		"Tahun_peraturan" : 2022,
+		"Tentang" : "KEOLAHRAGAAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 3,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PERTANGGUNGJAWABAN ATAS PELAKSANAAN ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 2020",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 5,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PENGESAHAN PERJANJIAN ANTARA REPUBLIK INDONESIA DAN FEDERASI RUSIA TENTANG BANTUAN HUKUM TIMBAL BALIK DALAM MASALAH PIDANA (TREATY BETWEEN THE REPUBLIC OF INDONESIA AND THE RUSSIAN FEDERATION ON MUTUAL LEGAL ASSISTANCE IN CRIMINAL MATTERS) ",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 6,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 2022",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 7,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "HARMONISASI PERATURAN PERPAJAKAN ",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 11,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PERUBAHAN ATAS UNDANG-UNDANG NOMOR 16 TAHUN 2004 TENTANG KEJAKSAAN REPUBLIK INDONESIA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 1,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PENGESAHAN PERSETUJUAN KEMITRAAN EKONOMI KOMPREHENSIF INDONESIA–AUSTRALIA (INDONESIA–AUSTRALIA COMPREHENSIVE ECONOMIC PARTNERSHIP AGREEMENT)",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 2,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PENETAPAN PERATURAN PEMERINTAH PENGGANTI UNDANG-UNDANG NOMOR 1 TAHUN 2020 TENTANG KEBIJAKAN KEUANGAN NEGARA DAN STABILITAS SISTEM KEUANGAN UNTUK PENANGANAN PANDEMI CORONA VIRUS DISEASE 2019 (COVID-19) DAN/ATAU DALAM RANGKA MENGHADAPI ANCAMAN YANG MEMBAHAYAKAN PEREKONOMIAN NASIONAL DAN/ATAU STABILITAS SISTEM KEUANGAN MENJADI UNDANG-UNDANG",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 3,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PERUBAHAN ATAS UNDANG-UNDANG NOMOR 4 TAHUN 2009 TENTANG PERTAMBANGAN MINERAL DAN BATUBARA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 4,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "",
+		"link_hover" : "PENGESAHAN PERSETUJUAN ANTARA PEMERINTAH REPUBLIK INDONESIA DAN KABINET MENTERI UKRAINA TENTANG KERJA SAMA DALAM BIDANG PERTAHANAN (AGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC OF INDONESIA AND THE CABINET OF MINISTERS OF UKRAINE ON COOPERATION IN THE FIELD OF DEFENCE)"
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 5,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PENGESAHAN PERJANJIAN TENTANG BANTUAN HUKUM TIMBAL BALIK DALAM MASALAH PIDANA ANTARA REPUBLIK INDONESIA DAN KONFEDERASI SWISS (TREATY ON MUTUAL LEGAL ASSISTANCE IN CRIMINAL MATTERS BETWEEN THE REPUBLIC OF INDONESIA AND THE SWISS CONFEDERATION)",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 6,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PENETAPAN PERATURAN PEMERINTAH PENGGANTI UNDANG-UNDANG NOMOR 2 TAHUN 2020 TENTANG PERUBAHAN KETIGA ATAS UNDANG-UNDANG NOMOR 1 TAHUN 2015 TENTANG PENETAPAN PERATURAN PEMERINTAH PENGGANTI UNDANG-UNDANG NOMOR 1 TAHUN 2014 TENTANG PEMILIHAN GUBERNUR, BUPATI, DAN WALIKOTA MENJADI UNDANG-UNDANG MENJADI UNDANG-UNDANG",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 7,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PERUBAHAN KETIGA ATAS UNDANG-UNDANG NOMOR 24 TAHUN 2003 TENTANG MAHKAMAH KONSTITUSI",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 8,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PERTANGGUNGJAWABAN ATAS PELAKSANAAN ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 2019",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 9,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 2021 ",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 10,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "BEA METERAI",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 11,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "CIPTA KERJA ",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 12,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PENGESAHAN PERSETUJUAN ANTARA PEMERINTAH REPUBLIK INDONESIA DAN PEMERINTAH KERAJAAN SWEDIA TENTANG KERJA SAMA DALAM BIDANG PERTAHANAN (AGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC OF INDONESIA AND THE GOVERNMENT OF THE KINGDOM OF SWEDEN CONCERNING COOPERATION IN THE FIELD OF DEFENCE)",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 13,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PENGESAHAN PROTOCOL TO IMPLEMENT THE SEVENTH PACKAGE OF COMMITMENTS ON FINANCIAL SERVICES UNDER THE ASEAN FRAMEWORK AGREEMENT ON SERVICES (PROTOKOL UNTUK MELAKSANAKAN PAKET KOMITMEN KETUJUH BIDANG JASA KEUANGAN DALAM PERSETUJUAN KERANGKA KERJA ASEAN DI BIDANG JASA)",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 1,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "PENGESAHAN PERJANJIAN ANTARA REPUBLIK INDONESIA DAN PERSATUAN EMIRAT ARAB MENGENAI EKSTRADISI (TREATY BETWEEN THE REPUBLIC OF INDONESIA AND THE UNITED ARAB EMIRATES ON EXTRADITION) ",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 2,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "PENGESAHAN NOTA KESEPAHAMAN ANTARA KEMENTERIAN PERTAHANAN REPUBLIK INDONESIA DAN KEMENTERIAN PERTAHANAN KERAJAAN SPANYOL TENTANG KEGIATAN KERJA SAMA DI BIDANG PERTAHANAN (MEMORANDUM OF UNDERSTANDING BETWEEN THE MINISTRY OF DEFENCE OF THE REPUBLICOF INDONESIA AND THE MINISTRY OF DEFENCE OF THE KINGDOM OF SPAIN ON COOPERATIVE ACTIVITIES IN THE FIELD OF DEFENCE) ",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 3,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "PENGESAHAN NOTA KESEPAHAMAN ANTARA PEMERINTAH REPUBLIK INDONESIA DAN PEMERINTAH REPUBLIK SERBIA TENTANG KERJA SAMA DI BIDANG PERTAHANAN (MEMORANDUM OF UNDERSTANDING BETWEEN THE GOVERNMENT OF THE REPUBLIC OF INDONESIA AND THE GOVERNMENT OF THE REPUBLIC OF SERBIA ON COOPERATION IN THE FIELD OF DEFENCE) ",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 4,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "KEBIDANAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 5,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "PENGESAHAN PERSETUJUAN ANTARA PEMERINTAH REPUBLIK INDONESIA DAN PEMERINTAH REPUBLIK BELARUS TENTANG KERJA SAMA INDUSTRI PERTAHANAN (AGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC OF INDONESIA AND THE GOVERNMENT OF THE REPUBLIC OF BELARUS ON DEFENCE INDUSTRY COOPERATION) ",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 6,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "PENGESAHAN PERJANJIAN MENGENAI BANTUAN TIMBAL BALIK DALAM MASALAH PIDANA ANTARA REPUBLIK INDONESIA DAN PERSATUAN EMIRAT ARAB (TREATY ON MUTUAL LEGAL ASSISTANCE IN CRIMINAL MATTERS BETWEEN THE REPUBLIC OF INDONESIA AND THE UNITED ARAB EMIRATES) ",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 7,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "PENGESAHAN PERSETUJUAN ANTARA PEMERINTAH REPUBLIK INDONESIA DAN PEMERINTAH FEDERASI RUSIA TENTANG KERJA SAMA DI BIDANG PERTAHANAN (AGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC OF INDONESIA AND THE GOVERNMENT OF THE RUSSIAN FEDERATION ON COOPERATION IN THE FIELD OF DEFENCE)",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 8,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "PENYELENGGARAAN IBADAH HAJI DAN UMRAH",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 9,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "PENGESAHAN PERJANJIAN ANTARA REPUBLIK INDONESIA DAN REPUBLIK ISLAM IRAN TENTANG EKSTRADISI (TREATY BETWEEN THE REPUBLIC OF INDONESIA AND THE ISLAMIC REPUBLIC OF IRAN ON EXTRADITION)",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 10,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "PENGESAHAN PERJANJIAN ANTARA REPUBLIK INDONESIA DAN REPUBLIK ISLAM IRAN TENTANG BANTUAN TIMBAL BALIK DALAM MASALAH PIDANA (TREATY BETWEEN THE REPUBLIC OF INDONESIA AND THE ISLAMIC REPUBLIC OF IRAN ON MUTUAL LEGAL ASSISTANCE IN CRIMINAL MATTERS)",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 11,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "SISTEM NASIONAL ILMU PENGETAHUAN DAN TEKNOLOGI",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 12,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "PERTANGGUNGJAWABAN ATAS PELAKSANAAN ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 2018",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
 		"Nomor_Peraturan" : ,
-		"Tahun_peraturan" : ,
-		"Tentang" : ,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : ,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : ,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "",
 		"link_hover" : ""
 	}
 ]
