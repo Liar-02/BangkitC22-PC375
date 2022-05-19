@@ -3,15 +3,27 @@
   [
     {
       "tag" : "greeting",
-      "input" :["halo", "selamat pagi", "selamat sore", "selamat malam", "saya butuh bantuan"],
+      "input" :["Halo", "selamat pagi", "selamat sore", "selamat malam", "saya butuh bantuan","Hai"],
       "responses :[
-          "Selamat pagi, ada yang bisa dibantu."
-          "sel"
+          "Selamat pagi, ada yang bisa dibantu?",
+          "halo, ini adalah robot yang membantu mengetahui hukum-hukum di indonesia"
       ]
     },
     {
-       "tag" : ""
-       "input" : []
+      "tag" : "yes"
+      "input" : ["iya"]
+      "responses :[
+          "Jelaskan deskripsi masalah anda",
+          "Apa anda memiliki masalah lain?"
+      ]
+    },
+    {
+      "tag" : "No"
+      "input" : ["Tidak"]
+      "responses :[
+          "Terima kasih telah bergabung dengan kami",
+          "Senang bisa mengobrol dengan anda"
+      ]
     }
   ]
   
