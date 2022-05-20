@@ -5881,22 +5881,1129 @@
 	}
 	{
 		"Jenis" : "UU",
-		"Nomor_Peraturan" : ,
+		"Nomor_Peraturan" : 14,
 		"Tahun_peraturan" : 1985,
-		"Tentang" : "",
+		"Tentang" : "MAHKAMAH AGUNG",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 15,
+		"Tahun_peraturan" : 1985,
+		"Tentang" : "KETENAGALISTRIKAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 16,
+		"Tahun_peraturan" : 1985,
+		"Tentang" : "RUMAH SUSUN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 17,
+		"Tahun_peraturan" : 1985,
+		"Tentang" : "PENGESAHAN UNITED NATIONS CONVENTION ON THE LAW OF THE SEA (KONVENSI PERSERIKATAN BANGSA-BANGSA TENTANG HUKUM LAUT)",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 1,
+		"Tahun_peraturan" : 1984,
+		"Tentang" : "ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 1984/1985",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 2,
+		"Tahun_peraturan" : 1984,
+		"Tentang" : "PERHITUNGAN ANGGARAN NEGARA TAHUN ANGGARAN 1980/1981",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 3,
+		"Tahun_peraturan" : 1984,
+		"Tentang" : "TAMBAHAN DAN PERUBAHAN ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 1983/1984",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 4,
+		"Tahun_peraturan" : 1984,
+		"Tentang" : "WABAH PENYAKIT MENULAR",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 5,
+		"Tahun_peraturan" : 1984,
+		"Tentang" : "PERINDUSTRIAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 6,
+		"Tahun_peraturan" : 1984,
+		"Tentang" : "POS",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 7,
+		"Tahun_peraturan" : 1984,
+		"Tentang" : "PENGESAHAN KONVENSI MENGENAI PENGHAPUSAN SEGALA BENTUK DISKRIMINASI TERHADAP WANITA (CONVENTION ON THE ELIMINATION OF ALL FORMS OF DISCRIMINATION AGAINST WOMEN)",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 8,
+		"Tahun_peraturan" : 1984,
+		"Tentang" : "PENETAPAN PERPU 1-1984 TENTANG PENANGGUHAN MULAI BERLAKUNYA UU PAJAK PERTAMBAHAN NILAI 1984 MENJADI UU",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 1,
+		"Tahun_peraturan" : 1983,
+		"Tentang" : "PENGESAHAN PERJANJIAN ANTARA RI DAN MALAYSIA TENTANG REJIM HUKUM NEGARA NUSANTARA DAN HAK-HAK MALAYSIA DI LAUT TERITORIAL DAN PERAIRAN NUSANTARA SERTA RUANG UDARA DI ATAS LAUT TERITORIAL, PERAIRAN NUSANTARA DAN WILAYAH RI YANG TERLETAK DI ANTARA MALAYSIA TIMUR DAN MALAYSIA BARAT",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 2,
+		"Tahun_peraturan" : 1983,
+		"Tentang" : "ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 1983/1984",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 3,
+		"Tahun_peraturan" : 1983,
+		"Tentang" : "TAMBAHAN DAN PERUBAHAN ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 1982/1983",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 4,
+		"Tahun_peraturan" : 1983,
+		"Tentang" : "PERHITUNGAN ANGGARAN NEGARA TAHUN ANGGARAN 1979/1980",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 5,
+		"Tahun_peraturan" : 1983,
+		"Tentang" : "ZONA EKONOMI EKSKLUSIF INDONESIA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 6,
+		"Tahun_peraturan" : 1983,
+		"Tentang" : "KETENTUAN UMUM DAN TATA CARA PERPAJAKAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 7,
+		"Tahun_peraturan" : 1983,
+		"Tentang" : "PAJAK PENGHASILAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 8,
+		"Tahun_peraturan" : 1983,
+		"Tentang" : "PAJAK PERTAMBAHAN NILAI BARANG DAN JASA DAN PAJAK PENJUALAN ATAS BARANG MEWAH",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 1,
+		"Tahun_peraturan" : 1982,
+		"Tentang" : "PENGESAHAN KONVENSI WINA MENGENAI HUBUNGAN DIPLOMATIK BESERTA PROTOKOL OPSIONALNYA MENGENAI HAL MEMPEROLEH KEWARGANEGARAAN (VIENNA CONVENTION ON DIPLOMATIC RELATIONS AND OPTIONAL PROTOCOL TO THE VIENNA CONVENTION ON DIPLOMATIC RELATIONS CONCERNING ACQUISITION OF NATIONALITY, 1961) DAN PENGESAHAN KONVENSI WINA MENGENAI HUBUNGAN KONSULER BESERTA PROTOKOL OPSIONALNYA MENGENAI HAL MEMPEROLEH KEWARGANEGARAAN (VIENNA CONVENTION ON CONSULAR RELATION AND OPTIONAL PROTOCOL TO THE VIENNA CONVENTION ON CONSULAR RELATION CONCERNING ACQUISITION OF NATIONALITY,1963)",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 2,
+		"Tahun_peraturan" : 1982,
+		"Tentang" : "PENGESAHAN KONVENSI MENGENAI MISI KHUSUS (CONVENTION ON SPECIAL MISSION, NEW YORK, 1969)",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 3,
+		"Tahun_peraturan" : 1982,
+		"Tentang" : "WAJIB DAFTAR PERUSAHAAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 4,
+		"Tahun_peraturan" : 1982,
+		"Tentang" : "KETENTUAN-KETENTUAN POKOK PENGELOLAAN LINGKUNGAN HIDUP",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 5,
+		"Tahun_peraturan" : 1982,
+		"Tentang" : "ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 1982/1983",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 6,
+		"Tahun_peraturan" : 1982,
+		"Tentang" : "HAK CIPTA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 7,
+		"Tahun_peraturan" : 1982,
+		"Tentang" : "TAMBAHAN DAN PERUBAHAN ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 1981/1982",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 8,
+		"Tahun_peraturan" : 1982,
+		"Tentang" : "PERHITUNGAN ANGGARAN NEGARA TAHUN 1974/1975",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 9,
+		"Tahun_peraturan" : 1982,
+		"Tentang" : "PERHITUNGAN ANGGARAN NEGARA TAHUN 1975/1976",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 10,
+		"Tahun_peraturan" : 1982,
+		"Tentang" : "PERHITUNGAN ANGGARAN NEGARA TAHUN 1976/1977",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 11,
+		"Tahun_peraturan" : 1982,
+		"Tentang" : "PERHITUNGAN ANGGARAN NEGARA TAHUN 1977/1978",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 12,
+		"Tahun_peraturan" : 1982,
+		"Tentang" : "PERHITUNGAN ANGGARAN NEGARA TAHUN 1978/1979",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 13,
+		"Tahun_peraturan" : 1982,
+		"Tentang" : "PEMBENTUKAN PENGADILAN TINGGI RIAU DI PEKANBARU DAN PERUBAHAN WILAYAH HUKUM PENGADILAN TINGGI PADANG",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 14,
+		"Tahun_peraturan" : 1982,
+		"Tentang" : "PEMBENTUKAN PENGADILAN TINGGI JAMBI DI JAMBI DAN PERUBAHAN WILAYAH HUKUM PENGADILAN TINGGI PALEMBANG",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 15,
+		"Tahun_peraturan" : 1982,
+		"Tentang" : "PEMBENTUKAN PENGADILAN TINGGI BENGKULU DI BENGKULU DAN PERUBAHAN WILAYAH HUKUM PENGADILAN TINGGI TANJUNGKARANG",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 16,
+		"Tahun_peraturan" : 1982,
+		"Tentang" : "PEMBENTUKAN PENGADILAN NUSA TENGGARA BARAT DI MATARAM DAN PERUBAHAN WILAYAH HUKUM PENGADILAN TINGGI DENPASAR",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 17,
+		"Tahun_peraturan" : 1982,
+		"Tentang" : "PEMBENTUKAN PENGADILAN TINGGI KALIMANTAN TIMUR DI SAMARINDA DAN PERUBAHAN WILAYAH HUKUM PENGADILAN TINGGI BANJARMASIN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 18,
+		"Tahun_peraturan" : 1982,
+		"Tentang" : "PEMBENTUKAN PENGADILAN TINGGI SULAWESI TENGAH DI PALU DAN PERUBAHAN WILAYAH HUKUM PENGADILAN TINGGI MANADO",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 19,
+		"Tahun_peraturan" : 1982,
+		"Tentang" : "PEMBENTUKAN PENGADILAN TINGGI SULAWESI TENGGARA DI KENDARI DAN PERUBAHAN WILAYAH HUKUM PENGADILAN TINGGI UJUNG PANDANG",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 20,
+		"Tahun_peraturan" : 1982,
+		"Tentang" : "KETENTUAN-KETENTUAN POKOK PERTAHANAN KEAMANAN NEGARA RI",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 21,
+		"Tahun_peraturan" : 1982,
+		"Tentang" : "PERUBAHAN UU 11-1966 TENTANG KETENTUAN POKOK PERS SEBAGAIMANA TELAH DIUBAH DENGAN UU 4-1967",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 1,
+		"Tahun_peraturan" : 1981,
+		"Tentang" : "ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 1981/1982",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 2,
+		"Tahun_peraturan" : 1981,
+		"Tentang" : "METROLOGI LEGAL",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 3,
+		"Tahun_peraturan" : 1981,
+		"Tentang" : "TAMBAHAN DAN PERUBAHAN ATAS ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 1980/1981",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 4,
+		"Tahun_peraturan" : 1981,
+		"Tentang" : "PERHITUNGAN ANGGARAN NEGARA TAHUN 1972/1973",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 5,
+		"Tahun_peraturan" : 1981,
+		"Tentang" : "PERHITUNGAN ANGGARAN NEGARA TAHUN 1973/1974",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 6,
+		"Tahun_peraturan" : 1981,
+		"Tentang" : "PENGESAHAN KONVENSI INTERNASIONAL MENGENAI PEMBERANTASAN UANG PALSU BESERTA PROTOKOL (INTERNATIONAL CONVENTION FOR THE SUPPRESSION OF COUNTERFEITING CURRENCY AND PROTOCOL, GENEVE 1929)",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 7,
+		"Tahun_peraturan" : 1981,
+		"Tentang" : "WAJIB LAPOR KETENAGAKERJAAN DI PERUSAHAAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 8,
+		"Tahun_peraturan" : 1981,
+		"Tentang" : "HUKUM ACARA PIDANA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 1,
+		"Tahun_peraturan" : 1980,
+		"Tentang" : "ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 1980/1981",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 2,
+		"Tahun_peraturan" : 1980,
+		"Tentang" : "PERUBAHAN UU 15-1969 TENTANG PEMILIHAN UMUM ANGGOTA-ANGGOTA BADAN PERMUSYAWARATAN/PERWAKILAN RAKYAT SEBAGAIMANA TELAH DIUBAH DENGAN UU 4-1975",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 3,
+		"Tahun_peraturan" : 1980,
+		"Tentang" : "TAMBAHAN DAN PERUBAHAN ATAS ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 1979/1980",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 4,
+		"Tahun_peraturan" : 1980,
+		"Tentang" : "TAMBAHAN DAN PERUBAHAN ATAS ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 1979/1980",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 5,
+		"Tahun_peraturan" : 1980,
+		"Tentang" : "PERHITUNGAN ANGGARAN NEGARA TAHUN 1970/1971",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 6,
+		"Tahun_peraturan" : 1980,
+		"Tentang" : "PERHITUNGAN ANGGARAN NEGARA TAHUN 1971/1972",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 7,
+		"Tahun_peraturan" : 1980,
+		"Tentang" : "PEMBENTUKAN PENGADILAN TINGGI YOGYAKARTA DAN PERUBAHAN WILAYAH HUKUM PENGADILAN TINGGI SEMARANG",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 8,
+		"Tahun_peraturan" : 1980,
+		"Tentang" : "PEMBENTUKAN PENGADILAN TINGGI PALANGKARAYA DAN PERUBAHAN WILAYAH HUKUM PENGADILAN TINGGI BANJARMASIN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 9,
+		"Tahun_peraturan" : 1980,
+		"Tentang" : "PEMBENTUKAN PENGADILAN TINGGI TANJUNG KARANG DAN PERUBAHAN WILAYAH HUKUM PENGADILAN TINGGI PELEMBANG",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 10,
+		"Tahun_peraturan" : 1980,
+		"Tentang" : "TANDA KEHORMATAN BINTANG BUDAYA PARAMA DHARMA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 11,
+		"Tahun_peraturan" : 1980,
+		"Tentang" : "TINDAK PIDANA SUAP",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 12,
+		"Tahun_peraturan" : 1980,
+		"Tentang" : "HAK KEUANGAN/ADMINISTRATIF PIMPINAN DAN ANGGOTA LEMBAGA TERTINGGI/TINGGI NEGARA SERTA BEKAS PIMPINAN LEMBAGA TERTINGGI/TINGGI NEGARA DAN BEKAS ANGGOTA LEMBAGA TINGGI NEGARA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 14,
+		"Tahun_peraturan" : 1980,
+		"Tentang" : "JALAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 1,
+		"Tahun_peraturan" : 1979,
+		"Tentang" : "EKSTRADISI",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 2,
+		"Tahun_peraturan" : 1979,
+		"Tentang" : "ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 1979/1980",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 3,
+		"Tahun_peraturan" : 1979,
+		"Tentang" : "TAMBAHAN DAN PERUBAHAN ATAS ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 1978/1979",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 4,
+		"Tahun_peraturan" : 1979,
+		"Tentang" : "KESEJAHTERAAN ANAK",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 5,
+		"Tahun_peraturan" : 1979,
+		"Tentang" : "PEMERINTAHAN DESA",
+		"link_hover" : ""
+	}
+	
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 1,
+		"Tahun_peraturan" : 1978,
+		"Tentang" : "ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 1978/1979",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 2,
+		"Tahun_peraturan" : 1978,
+		"Tentang" : "PENGESAHAN PERJANJIAN ANTARA PEMERINTAH REPUBLIK INDONESIA DAN PEMERINTAH KERAJAAN THAILAND TENTANG EKSTRADISI",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 3,
+		"Tahun_peraturan" : 1978,
+		"Tentang" : "TAMBAHAN DAN PERUBAHAN ATAS ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 1977/1978",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 4,
+		"Tahun_peraturan" : 1978,
+		"Tentang" : "PERUBAHAN DAN PENYEMPURNAAN UNDANG-UNDANG NOMOR 3 TAHUN 1967 TENTANG DEWAN PERTIMBANGAN AGUNG",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 5,
+		"Tahun_peraturan" : 1978,
+		"Tentang" : "PEMBENTUKAN PENGADILAN TINGGI PONTIANAK DAN PERUBAHAN WILAYAH HUKUM PENGADILAN TINGGI JAKARTA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 6,
+		"Tahun_peraturan" : 1978,
+		"Tentang" : "PEMBENTUKAN PENGADILAN TINGGI KUPANG DAN PERUBAHAN WILAYAH HUKUM PENGADILAN TINGGI DENPASAR",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 7,
+		"Tahun_peraturan" : 1978,
+		"Tentang" : "HAK KEUANGAN/ADMINISTRATIF PRESIDEN DAN WAKIL PRESIDEN SERTA BEKAS PRESIDEN DAN WAKIL PRESIDEN REPUBLIK INDONESIA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 8,
+		"Tahun_peraturan" : 1978,
+		"Tentang" : "PENGESAHAN PERJANJIAN MENGENAI PENCEGAHAN PENYEBARAN SENJATA-SENJATA NUKLIR",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 1,
+		"Tahun_peraturan" : 1977,
+		"Tentang" : "ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 1977/1978",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 2,
+		"Tahun_peraturan" : 1977,
+		"Tentang" : "TAMBAHAN DAN PERUBAHAN ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 1976/1977",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 1,
+		"Tahun_peraturan" : 1976,
+		"Tentang" : "ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 1976/1977",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 2,
+		"Tahun_peraturan" : 1976,
+		"Tentang" : "PENGESAHAN KONVENSI TOKYO 1963, KONVENSI THE HAGUE 1970,DAN KONVENSI MONTREAL 1971",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 3,
+		"Tahun_peraturan" : 1976,
+		"Tentang" : "PERUBAHAN PASAL 18 UNDANG-UNDANG NOMOR 62 TAHUN 1958 TENTANG KEWARGANEGARAAN REPUBLIK INDONESIA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 4,
+		"Tahun_peraturan" : 1976,
+		"Tentang" : "PERUBAHAN DAN PENAMBAHAN BEBERAPA PASAL DALAM KITAB UNDANG-UNDANG HUKUM PIDANA BERTALIAN DENGAN PERLUASAN BERLAKUNYA KETENTUAN PERUNDANG-UNDANGAN PIDANA, KEJAHATAN PENERBANGAN, DAN KEJAHATAN TERHADAP SARANA/PRASARANA PENERBANGAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 5,
+		"Tahun_peraturan" : 1976,
+		"Tentang" : "TAMBAHAN DAN PERUBAHAN ATAS ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 1975/1976",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 6,
+		"Tahun_peraturan" : 1976,
+		"Tentang" : "PENGESAHAN PERJANJIAN PERSAHABATAN DAN KERJASAMA DI ASIA TENGGARA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 8,
+		"Tahun_peraturan" : 1976,
+		"Tentang" : "PENGESAHAN KONVENSI TUNGGAL NARKOTIKA 1961 BESERTA PROTOKOL YANG MENGUBAHNYA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 9,
+		"Tahun_peraturan" : 1976,
+		"Tentang" : "NARKOTIKA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 10,
+		"Tahun_peraturan" : 1976,
+		"Tentang" : "PENGESAHAN PERJANJIAN EKSTRADISI ANTARA REPUBLIK INDONESIA DAN REPUBLIK PHILIPPINA SERTA PROTOKOL",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 11,
+		"Tahun_peraturan" : 1976,
+		"Tentang" : "PENGESAHAN KONVENSI TELEKOMUNIKASI INTERNASIONAL (INTERNATIONAL TELECOMMUNICATION CONVENTION) MALAGA-TORREMOLINOS, 1973",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 7,
+		"Tahun_peraturan" : 1976,
+		"Tentang" : "PENGESAHAN PENYATUAN TIMOR-TIMUR KE DALAM NEGARA KESATUAN REPUBLIK INDONESIA DAN PEMBENTUKAN PROPINSI DAERAH TINGKAT I TIMOR-TIMUR",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 1,
+		"Tahun_peraturan" : 1975,
+		"Tentang" : "ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 1975/1976",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 2,
+		"Tahun_peraturan" : 1975,
+		"Tentang" : "TAMBAHAN DAN PERUBAHAN ATAS ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 1974/1975",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 3,
+		"Tahun_peraturan" : 1975,
+		"Tentang" : "PARTAI POLITIK DAN GOLONGAN KARYA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 4,
+		"Tahun_peraturan" : 1975,
+		"Tentang" : "PERUBAHAN UNDANG-UNDANG NOMOR 15 TAHUN 1969 TENTANG PEMILIHAN UMUM ANGGOTA-ANGGOTA BADAN PERMUSYAWARATAN/PERWAKILAN RAKYAT",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 5,
+		"Tahun_peraturan" : 1975,
+		"Tentang" : "PERUBAHAN UNDANG-UNDANG NOMOR 16 TAHUN 1969 TENTANG SUSUNAN DAN KEDUDUKAN MAJELIS PERMUSYAWARATAN RAKYAT, DEWAN PERWAKILAN RAKYAT DAN DEWAN PERWAKILAN RAKYAT DAERAH",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 2,
+		"Tahun_peraturan" : 1974,
+		"Tentang" : "ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 1974/1975",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 3,
+		"Tahun_peraturan" : 1974,
+		"Tentang" : "TAMBAHAN DAN PERUBAHAN ATAS ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 1973/1974",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 4,
+		"Tahun_peraturan" : 1974,
+		"Tentang" : "PEMBENTUKAN KABUPATEN ACEH TENGGARA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 7,
+		"Tahun_peraturan" : 1974,
+		"Tentang" : "PENERTIBAN PERJUDIAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 9,
+		"Tahun_peraturan" : 1974,
+		"Tentang" : "PENGESAHAN PERJANJIAN ANTARA PEMERINTAH REPUBLIK INDONESIA DAN PEMERINTAH MALAYSIA MENGENAI EKSTRADISI",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 10,
+		"Tahun_peraturan" : 1974,
+		"Tentang" : "PERUBAHAN PASAL 19 AYAT (1) UNDANG-UNDANG NOMOR 8 TAHUN 1971 (LEMBARAN-NEGARA REPUBLIK INDONESIA TAHUN 1971 NOMOR 76, TAMBAHAN LEMBARAN-NEGARA REPUBLIK INDONESIA NOMOR 2971)",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 1,
+		"Tahun_peraturan" : 1974,
+		"Tentang" : "PERKAWINAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 5,
+		"Tahun_peraturan" : 1974,
+		"Tentang" : "POKOK-POKOK PEMERINTAHAN DI DAERAH",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 6,
+		"Tahun_peraturan" : 1974,
+		"Tentang" : "KETENTUAN-KETENTUAN POKOK KESEJAHTERAAN SOSIAL",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 8,
+		"Tahun_peraturan" : 1974,
+		"Tentang" : "POKOK-POKOK KEPEGAWAIAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 11,
+		"Tahun_peraturan" : 1974,
+		"Tentang" : "PENGAIRAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 1,
+		"Tahun_peraturan" : 1973,
+		"Tentang" : "LANDAS KONTINEN INDONESIA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 2,
+		"Tahun_peraturan" : 1973,
+		"Tentang" : "PERSETUJUAN PEMERINTAH REPUBLIK INDONESIA TERHADAP PERUBAHAN PASAL VI ANGGARAN DASAR BADAN TENAGA ATOM INTERNASIONAL",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 3,
+		"Tahun_peraturan" : 1973,
+		"Tentang" : "ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 1973/1974",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 4,
+		"Tahun_peraturan" : 1973,
+		"Tentang" : "TAMBAHAN DAN PERUBAHAN ATAS ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN 1972/1973",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 5,
+		"Tahun_peraturan" : 1973,
+		"Tentang" : "BADAN PEMERIKSA KEUANGAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 6,
+		"Tahun_peraturan" : 1973,
+		"Tentang" : "PERJANJIAN ANTARA INDONESIA DAN AUSTRALIA MENGENAI GARIS-GARIS BATAS TERTENTU ANTARA INDONESIA DAN PAPUA NEW GUINEA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 7,
+		"Tahun_peraturan" : 1973,
+		"Tentang" : "PERJANJIAN ANTARA REPUBLIK INDONESIA DAN REPUBLIK SINGAPURA MENGENAI PENETAPAN GARIS BATAS LAUT WILAYAH KEDUA NEGARA DI SELAT SINGAPURA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 1,
+		"Tahun_peraturan" : 1972,
+		"Tentang" : "ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 1972/1973",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 2,
+		"Tahun_peraturan" : 1972,
+		"Tentang" : "TAMBAHAN DAN PERUBAHAN ATAS ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 1971/1972",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 3,
+		"Tahun_peraturan" : 1972,
+		"Tentang" : "KETENTUAN-KETENTUAN POKOK TRANSMIGRASI",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 4,
+		"Tahun_peraturan" : 1972,
+		"Tentang" : "PEROBAHAN DAN TAMBAHAN KETENTUAN MENGENAI BEBERAPA JENIS TANDA KEHORMATAN REPUBLIK INDONESIA YANG BERBENTUK BINTANG DAN TENTANG URUTAN DERAJAT/TINGKAT JENIS TANDA KEHORMATAN REPUBLIK INDONESIA YANG BERBENTUK BINTANG",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 5,
+		"Tahun_peraturan" : 1972,
+		"Tentang" : "PERHITUNGAN ANGGARAN TAHUN 1968",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 6,
+		"Tahun_peraturan" : 1972,
+		"Tentang" : "PERHITUNGAN ANGGARAN PERALIHAN TRIWULAN I TAHUN 1969",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 2,
+		"Tahun_peraturan" : 1971,
+		"Tentang" : "PERJANJIAN ANTARA REPUBLIK INDONESIA DAN MALAYSIA TENTANG PENETAPAN GARIS BATAS LAUT WILAYAH KEDUA NEGARA DI SELAT MALAKA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 4,
+		"Tahun_peraturan" : 1971,
+		"Tentang" : "PERUBAHAN DAN PENAMBAHAN ATAS KETENTUAN PASAL 54 KITAB UNDANG-UNDANG HUKUM DAGANG (STBL. 1847:23)",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 5,
+		"Tahun_peraturan" : 1971,
+		"Tentang" : "ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 1971/1972",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 6,
+		"Tahun_peraturan" : 1971,
+		"Tentang" : "TAMBAHAN DAN PERUBAHAN ATAS ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 1970/1971",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 8,
+		"Tahun_peraturan" : 1971,
+		"Tentang" : "PERUSAHAAN PERTAMBANGAN MINYAK DAN GAS BUMI NEGARA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 9,
+		"Tahun_peraturan" : 1971,
+		"Tentang" : "PERJANJIAN PERSAHABATAN ANTARA REPUBLIK INDONESIA DAN KERAJAAN SAUDI ARABIA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 10,
+		"Tahun_peraturan" : 1971,
+		"Tentang" : "PERUBAHAN TERHADAP UNDANG-UNDANG NOMOR 9 TAHUN 1953 TENTANG PEMBERIAN TUNJANGAN YANG BERSIFAT PENSIUN KEPADA BEKAS KETUA DAN BEKAS ANGGOTA DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 12,
+		"Tahun_peraturan" : 1971,
+		"Tentang" : "PENETAPAN PERATURAN PEMERINTAH PENGGANTI UNDANG-UNDANG NOMOR 1 TAHUN 1971 TENTANG PENCABUTAN UNDANG-UNDANG NOMOR 17 TAHUN 1964 TENTANG LARANGAN PENARIKAN CEK KOSONG MENJADI UNDANG-UNDANG",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 13,
+		"Tahun_peraturan" : 1971,
+		"Tentang" : "PENETAPAN PERATURAN PEMERINTAH PENGGANTI UNDANG-UNDANG NOMOR 2 TAHUN 1971 TENTANG TANDA KEHORMATAN BINTANG YUDHA DHARMA MENJADI UNDANG-UNDANG",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 11,
+		"Tahun_peraturan" : 1971,
+		"Tentang" : "PERHITUNGAN ANGGARAN TAHUN 1967",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 1,
+		"Tahun_peraturan" : 1971,
+		"Tentang" : "PERJANJIAN PERSAHABATAN ANTARA REPUBLIK INDONESIA DAN MALAYSIA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 3,
+		"Tahun_peraturan" : 1971,
+		"Tentang" : "PEMBERANTASAN TINDAK PIDANA KORUPSI",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 7,
+		"Tahun_peraturan" : 1971,
+		"Tentang" : "KETENTUAN-KETENTUAN POKOK KEARSIPAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 2,
+		"Tahun_peraturan" : 1970,
+		"Tentang" : "PENCABUTAN PERATURAN PRESIDEN NOMOR 2 TAHUN 1959 TENTANG LARANGAN KEANGGOTAAN PARTAI POLITIK BAGI PEJABAT NEGERI WARGA NEGARA REPUBLIK INDONESIA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 3,
+		"Tahun_peraturan" : 1970,
+		"Tentang" : "KETENTUAN-KETENTUAN POKOK DAERAH PERDAGANGAN BEBAS DAN PELABUHAN BEBAS",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 4,
+		"Tahun_peraturan" : 1970,
+		"Tentang" : "PEMBENTUKAN DAERAH PERDAGANGAN BEBAS DENGAN PELABUHAN BEBAS SABANG",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 5,
+		"Tahun_peraturan" : 1970,
+		"Tentang" : "ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 1970/1971",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 6,
+		"Tahun_peraturan" : 1970,
+		"Tentang" : "TAMBAHAN DAN PERUBAHAN ATAS ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN 1969/1970",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 7,
+		"Tahun_peraturan" : 1970,
+		"Tentang" : "PENGHAPUSAN PENGADILAN LANDREFORM",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 8,
+		"Tahun_peraturan" : 1970,
+		"Tentang" : "PERUBAHAN DAN TAMBAHAN ORDONANSI PAJAK PERSEROAN 1925",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 9,
+		"Tahun_peraturan" : 1970,
+		"Tentang" : "PERUBAHAN DAN TAMBAHAN ORDONANSI PAJAK PENDAPATAN 1944",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 10,
+		"Tahun_peraturan" : 1970,
+		"Tentang" : "PERUBAHAN DAN TAMBAHAN ORDONANSI PAJAK DIVIDEN 1959",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 13,
+		"Tahun_peraturan" : 1970,
+		"Tentang" : "TATA CARA TINDAKAN KEPOLISIAN TERHADAP ANGGOTA-ANGGOTA/ PIMPINAN MAJELIS PERMUSYAWARATAN RAKYAT SEMENTARA DAN DEWAN PERWAKILAN RAKYAT GOTONG-ROYONG",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 1,
+		"Tahun_peraturan" : 1970,
+		"Tentang" : "KESELAMATAN KERJA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 11,
+		"Tahun_peraturan" : 1970,
+		"Tentang" : "PERUBAHAN DAN TAMBAHAN UU 1-1967 TENTANG PENANAMAN MODAL ASING",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 12,
+		"Tahun_peraturan" : 1970,
+		"Tentang" : "PERUBAHAN DAN TAMBAHAN UU 6-1968 TENTANG PENANAMAN MODAL DALAM NEGERI",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 14,
+		"Tahun_peraturan" : 1970,
+		"Tentang" : "KETENTUAN-KETENTUAN POKOK KEKUASAAN KEHAKIMAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 4,
+		"Tahun_peraturan" : 1969,
+		"Tentang" : "PERNYATAAN TIDAK BERLAKUNYA UU 2-1958 TENTANG PERSETUJUAN PERJANJIAN ANTARA RI DAN REPUBLIK RAKYAT TIONGKOK MENGENAI SOAL DWIKEWARGANEGARAAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 14,
+		"Tahun_peraturan" : 1969,
+		"Tentang" : "KETENTUAN KETENTUAN POKOK MENGENAI TENAGA KERJA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 15,
+		"Tahun_peraturan" : 1969,
+		"Tentang" : "PEMILIHAN UMUM ANGGOTA-ANGGOTA BADAN PERMUSYAWARATAN/PERWAKILAN RAKYAT",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 1,
+		"Tahun_peraturan" : 1969,
+		"Tentang" : "PEMBENTUKAN PENGADILAN TINGGI DI BANDUNG DAN PERUBAHAN DAERAH HUKUM PENGADILAN TINGGI DI JAKARTA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 2,
+		"Tahun_peraturan" : 1969,
+		"Tentang" : "ANGGARAN DAN PENDAPATAN BELANJA NEGARA TAHUN 1969/1970",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 3,
+		"Tahun_peraturan" : 1969,
+		"Tentang" : "PERSETUJUAN KONVENSI ORGANISASI PERBURUHAN INTERNASIONAL NOMOR 120 MENGENAI HYGIENE DALAM PERNIAGAAN DAN KANTOR-KANTOR",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 8,
+		"Tahun_peraturan" : 1969,
+		"Tentang" : "TAMBAHAN DAN PERUBAHAN ATAS ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN 1968",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 10,
+		"Tahun_peraturan" : 1969,
+		"Tentang" : "KONVENSI INTERNATIONAL TELECOMUNICATION UNION DI MONTREUX 1965",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 13,
+		"Tahun_peraturan" : 1969,
+		"Tentang" : "KONSTITUSI PERHIMPUNAN POS SEDUNIA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 11,
+		"Tahun_peraturan" : 1969,
+		"Tentang" : "PENSIUN PEGAWAI DAN PENSIUN JANDA/DUDA PEGAWAI",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 16,
+		"Tahun_peraturan" : 1969,
+		"Tentang" : "SUSUNAN DAN KEDUDUKAN MAJELIS PERMUSYAWARATAN RAKYAT, DEWAN PERWAKILAN RAKYAT DAN DEWAN PERWAKILAN RAKYAT DAERAH",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 15,
+		"Tahun_peraturan" : 1969,
+		"Tentang" : "PEMILU PEMILIHAN UMUM ANGGOTA ANGGOTA BADAN PERMUSYAWARATAN PERWAKILAN RAKYAT",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 5,
+		"Tahun_peraturan" : 1969,
+		"Tentang" : "PERNYATAAN BERBAGAI PENPRES DAN PERPRES SEBAGAI UU",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 6,
+		"Tahun_peraturan" : 1969,
+		"Tentang" : "PERNYATAAN TIDAK BERLAKUNYA BERBAGAI UU DAN PERPU",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 7,
+		"Tahun_peraturan" : 1969,
+		"Tentang" : "PENETAPAN BERBAGAI PERPU MENJADI UU",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 9,
+		"Tahun_peraturan" : 1969,
+		"Tentang" : "PENETAPAN PERPU 1-1969 TENTANG BENTUK-BENTUK USAHA NEGARA MENJADI UU",
 		"link_hover" : ""
 	}
 	{
 		"Jenis" : "UU",
 		"Nomor_Peraturan" : ,
-		"Tahun_peraturan" : 1985,
-		"Tentang" : "",
-		"link_hover" : ""
-	}
-	{
-		"Jenis" : "UU",
-		"Nomor_Peraturan" : ,
-		"Tahun_peraturan" : 1985,
+		"Tahun_peraturan" : 1969,
 		"Tentang" : "",
 		"link_hover" : ""
 	}
