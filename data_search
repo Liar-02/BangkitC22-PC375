@@ -10082,9 +10082,1927 @@
 	}
 	{
 		"Jenis" : "UU",
-		"Nomor_Peraturan" : ,
+		"Nomor_Peraturan" : 8,
 		"Tahun_peraturan" : 1954,
-		"Tentang" : "",
+		"Tentang" : "PENETAPAN UNDANG-UNDANG DARURAT NO. 23 TAHUN 1950 (LEMBARAN-NEGARA NO. 38 TAHUN 1950) TENTANG PERATURAN TAMBAHAN ISTIRAHAT LUAR NEGERI SEBAGAI UNDANG-UNDANG",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 9,
+		"Tahun_peraturan" : 1954,
+		"Tentang" : "PENETAPAN UNDANG-UNDANG DARURAT NO. 24 TAHUN 1951 TENTANG PENGUBAHAN BEBERAPA POS TARIP BEA MASUK (LEMBARAN-NEGARA NO. 104 TAHUN 1951) SEBAGAI UNDANG-UNDANG",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 10,
+		"Tahun_peraturan" : 1954,
+		"Tentang" : "PENETAPAN UNDANG-UNDANG DARURAT NO. 3 TAHUN 1952 SEBAGAI UNDANG-UNDANG",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 11,
+		"Tahun_peraturan" : 1954,
+		"Tentang" : "PENETAPAN UNDANG-UNDANG DARURAT NO. 24 TAHUN 1950 TENTANG PERATURAN TAMBAHAN PERJALANAN KE LUAR NEGERI (LEMBARAN-NEGARA NO. 39 TAHUN 1950) SEBAGAI UNDANG-UNDANG",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 12,
+		"Tahun_peraturan" : 1954,
+		"Tentang" : "PERNYATAAN BERLAKUNYA UNDANG-UNDANG NO 4 TAHUN 1950 DARI REPUBLIK INDONESIA DAHULU TENTANG DASAR-DASAR PENDIDIKAN DAN PENGAJARAN DI SEKOLAH UNTUK SELURUH INDONESIA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 14,
+		"Tahun_peraturan" : 1954,
+		"Tentang" : 'PENCABUTAN ORDONANSI "UITVOERVERBOD PLANTENMATERIAAL NEGARA SUMATERA TIMUR 1949" (STAATSBLAD 1949 NR 159)',
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 15,
+		"Tahun_peraturan" : 1954,
+		"Tentang" : PENETAPAN "UNDANG-UNDANG DARURAT NO. 7 TAHUN 1951 (LEMBARAN NEGARA NO 26 TAHUN 1951) UNTUK MEMPERPANJANG WAKTU BERLAKUNYA ATURAN HUKUM TERMAKSUD DALAM PASAL 3 AYAT 2 ORDONANSI (STAATSBLAD UNTUK INDONESIA TAHUN 1948 NO 141)" SEBAGAI UNDANG-UNDANG,
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 16,
+		"Tahun_peraturan" : 1954,
+		"Tentang" : 'PENETAPAN "UNDANG-UNDANG DARURAT NO. 25 TAHUN 1951 (LEMBARAN-NEGARA NO. 122 TAHUN 1951) UNTUK MEMPERPANJANG WAKTU BERLAKUNYA ATURAN HUKUMAN TERMAKSUD DALAM PASAL 3 AYAT 2 ORDONANSI (STAATSBLAD UNTUK INDONESIA TAHUN 1948 NO. 141)" SEBAGAI UNDANG-UNDANG',
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 17,
+		"Tahun_peraturan" : 1954,
+		"Tentang" : 'PENETAPAN "UNDANG-UNDANG DARURAT NO. 6 TAHUN 1953 (LEMBARAN-NEGARA NO. 25 TAHUN 1953) UNTUK MEMPERPANJANG WAKTU BERLAKUNYA ATURAN HUKUMAN TERMAKSUD DALAM PASAL 3 AYAT 2 ORDONANSI (STAATSBLAD UNTUK INDONESIA TAHUN 1948 NO. 141)" SEBAGAI UNDANG-UNDANG',
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 18,
+		"Tahun_peraturan" : 1954,
+		"Tentang" : 'PENETAPAN "UNDANG-UNDANG DARURAT NO. 4 TAHUN 1954 (LEMBARAN-NEGARA NO. 12 TAHUN 1954) GUNA MENETAPKAN WAKTU BERLAKUNYA ATURAN HUKUMAN TERMAKSUD DALAM PASAL 3 AYAT 2 ORDONANSI (STAATSBLAD UNTUK INDONESIA TAHUN 1948 NO. 141)" SEBAGAI UNDANG-UNDANG ',
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 19,
+		"Tahun_peraturan" : 1954,
+		"Tentang" : "PERATURAN PENAGIHAN PENGHASILAN LEBIH KEPADA NEGARA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 20,
+		"Tahun_peraturan" : 1954,
+		"Tentang" : "PENETAPAN UNDANG-UNDANG DARURAT NO. 8 TAHUN 1953 (LEMBARAN-NEGARA NO. 54 TAHUN 1953) TENTANG MEMPERPANJANG WAKTU BERLAKUNYA PERATURAN-PERATURAN MILITER TERMAKSUD DALAM PASAL 34 AYAT 5 STAATSBLAD 1939 NO. 582, SEBAGAIMANA TELAH DIUBAH DAN/ATAU DITAMBAH KEMUDIAN, SEPANJANG MENGENAI URUSAN PERUMAHAN SEBAGAI UNDANG-UNDANG",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 21,
+		"Tahun_peraturan" : 1954,
+		"Tentang" : "PERJANJIAN PERBURUHAN ANTARA SERIKAT BURUH DAN MAJIKAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 22,
+		"Tahun_peraturan" : 1954,
+		"Tentang" : "UNDIAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 23,
+		"Tahun_peraturan" : 1954,
+		"Tentang" : 'PENCABUTAN "PERSBREIDEL ORDONNANTIE"',
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 24,
+		"Tahun_peraturan" : 1954,
+		"Tentang" : "PENETAPAN UNDANG-UNDANG DARURAT TENTANG PEMINDAHAN HAK TANAH-TANAH DAN BARANG-BARANG TETAP YANG LAINNYA YANG BERTAKLUK KEPADA HUKUM EROPAH (UNDANG-UNDANG DARURAT NO. 1 TAHUN 1952) SEBAGAI UNDANG-UNDANG",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 26,
+		"Tahun_peraturan" : 1954,
+		"Tentang" : "PEMBAYARAN KEMBALI PINJAMAN NASIONAL 1946",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 27,
+		"Tahun_peraturan" : 1954,
+		"Tentang" : "PENETAPAN UNDANG-UNDANG DARURAT NO.1 TAHUN 1954, TENTANG MEMPERSATUKAN OPSENTEN YANG BERLAKU DALAM TAHUN 1953, ATAS CUKAI DARI BEBERAPA JENIS BARANG DALAM POKOKNYA KENAIKAN JUMLAH CUKAI ATAS ALKOHOL SULINGAN DALAM NEGERI DAN BIR DAN KENAIKAN BEA MASUK ATAS BIR (LEMBARAN NEGARA NO. 1 TAHUN 1954) SEBAGAI UNDANG-UNDANG",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 28,
+		"Tahun_peraturan" : 1954,
+		"Tentang" : "BIAYA LEGALISASI TANDA TANGAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 30,
+		"Tahun_peraturan" : 1954,
+		"Tentang" : "TANDA KEHORMATAN SEWINDU ANGKATAN PERANG REPUBLIK INDONESIA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 31,
+		"Tahun_peraturan" : 1954,
+		"Tentang" : "PENETAPAN UNDANG-UNDANG DARURAT NO. 5 TAHUN 1954 TENTANG PEMUNGUTAN TAMBAHAN PEMBAYARAN ATAS PENGIRIMAN UANG KELUAR NEGERI SEBAGAI UNDANG-UNDANG",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 32,
+		"Tahun_peraturan" : 1954,
+		"Tentang" : "PENETAPAN BERLAKUNYA UNDANG-UNDANG REPUBLIK INDONESIA TANGGAL 21 NOPEMBER 1946 NO.22 TAHUN 1946 TENTANG PENCATATAN NIKAH, TALAK DAN RUJUK DI SELURUH DAERAH LUAR JAWA DAN MADURA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 33,
+		"Tahun_peraturan" : 1954,
+		"Tentang" : "WAKIL NOTARIS DAN WAKIL NOTARIS SEMENTARA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 34,
+		"Tahun_peraturan" : 1954,
+		"Tentang" : "PEMAKAIAN GELAR "AKUNTAN" ("ACCONTANT")",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 36,
+		"Tahun_peraturan" : 1954,
+		"Tentang" : "PENETAPAN TARIP PAJAK PERSEROAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 37,
+		"Tahun_peraturan" : 1954,
+		"Tentang" : "PERSETUJUAN PERJANJIAN PERSAHABATAN ANTARA NEGARA REPUBLIK INDONESIA DAN KERAJAAN THAILAND",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 39,
+		"Tahun_peraturan" : 1954,
+		"Tentang" : "PENETAPAN BAGIAN II (KEMENTRIAN LUAR NEGERI) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN-TAHUN DINAS 1952 DAN 1953",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 40,
+		"Tahun_peraturan" : 1954,
+		"Tentang" : "PENETAPAN BAGIAN III (KEMENTRIAN DALAM NEGERI) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN-TAHUN DINAS 1952 DAN 1953",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 41,
+		"Tahun_peraturan" : 1954,
+		"Tentang" : "PENETAPAN BAGIAN IV (KEMENTRIAN KEUANGAN) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN-TAHUN DINAS 1952 DAN 1953",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 45,
+		"Tahun_peraturan" : 1954,
+		"Tentang" : "PENETAPAN BAGIAN VI (KEMENTRIAN PERTAHANAN) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN-TAHUN DINAS 1952 DAN 1953",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 46,
+		"Tahun_peraturan" : 1954,
+		"Tentang" : "PENETAPAN BAGIAN VII (KEMENTRIAN KEHAKIMAN) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN-TAHUN DINAS 1952 DAN 1953",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 48,
+		"Tahun_peraturan" : 1954,
+		"Tentang" : "PENETAPAN BAGIAN VIIIB (KEMENTRIAN PERHUBUNGAN-JAWATAN PELAYARAN) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN-TAHUN DINAS 1952 DAN 1953",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 49,
+		"Tahun_peraturan" : 1954,
+		"Tentang" : "PENETAPAN BAGIAN IX (KEMENTRIAN PENERANGAN) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN-TAHUN DINAS 1952 DAN 1953",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 50,
+		"Tahun_peraturan" : 1954,
+		"Tentang" : "PENETAPAN BAGIAN X (KEMENTRIAN PENDIDIKAN, PENGAJARAN DAN KEBUDAYAAN) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN-TAHUN DINAS 1952 DAN 1953",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 51,
+		"Tahun_peraturan" : 1954,
+		"Tentang" : "PENETAPAN BAGIAN XI (KEMENTRIAN KESEHATAN) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN-TAHUN DINAS 1952 DAN 1953",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 52,
+		"Tahun_peraturan" : 1954,
+		"Tentang" : "PENETAPAN BAGIAN XII (KEMENTRIAN SOSIAL) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN-TAHUN DINAS 1952 DAN 1953",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 53,
+		"Tahun_peraturan" : 1954,
+		"Tentang" : "PENETAPAN BAGIAN XIII (KEMENTRIAN PERBURUHAN) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN-TAHUN DINAS 1952 DAN 1953",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 54,
+		"Tahun_peraturan" : 1954,
+		"Tentang" : "PENETAPAN BAGIAN XIV (KEMENTRIAN AGAMA) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN-TAHUN DINAS 1952 DAN 1953",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 55,
+		"Tahun_peraturan" : 1954,
+		"Tentang" : "PENETAPAN BAGIAN XV (KEMENTRIAN URUSAN PEGAWAI) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN-TAHUN DINAS 1952 DAN 1953",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 56,
+		"Tahun_peraturan" : 1954,
+		"Tentang" : "PENETAPAN BAGIAN XVI (KEMENTRIAN PEKERJAAN UMUM DAN TENAGA) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN-TAHUN DINAS 1952 DAN 1953",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 57,
+		"Tahun_peraturan" : 1954,
+		"Tentang" : "PENETAPAN BAGIAN I.B.W. I (JAWATAN PEGADAIAN) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN-TAHUN DINAS 1952 DAN 1953",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 58,
+		"Tahun_peraturan" : 1954,
+		"Tentang" : "PENETAPAN BAGIAN I.B.W II (PERUSAHAAN GARAM DAN SODA NEGERI) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN-TAHUN DINAS 1952 DAN 1953",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 59,
+		"Tahun_peraturan" : 1954,
+		"Tentang" : "PENETAPAN BAGIANI.B.W. III (PUSAT PERKEBUNAN NEGARA) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN-TAHUN DINAS 1952 DAN 1953",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 60,
+		"Tahun_peraturan" : 1954,
+		"Tentang" : "PENETAPAN BAGIAN I.B.W. IV (PERCETAKAN NEGARA) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN-TAHUN DINAS 1952 DAN 1953",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 61,
+		"Tahun_peraturan" : 1954,
+		"Tentang" : "PENETAPAN BAGIAN I.B.W. V (JAWATAN POS, TELEGRAP DAN TELEPON) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN-TAHUN DINAS 1952 DAN 1953",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 62,
+		"Tahun_peraturan" : 1954,
+		"Tentang" : "PENETAPAN BAGIAN I.B.W. VI (PERUSAHAAN NEGERI UNTUK PEMBANGKIT TENAGA LISTRIK) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN-TAHUN DINAS 1952 DAN 1953",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 63,
+		"Tahun_peraturan" : 1954,
+		"Tentang" : "PENETAPAN BAGIAN I.B.W. VII (PELABUHAN MAKASAR) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN-TAHUN DINAS 1952 DAN 1953",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 64,
+		"Tahun_peraturan" : 1954,
+		"Tentang" : "PENETAPAN BAGIAN I.B.W. VIII (PELABUHAN TELUK BAYUR(PADANG) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN-TAHUN DINAS 1952 DAN 1953",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 65,
+		"Tahun_peraturan" : 1954,
+		"Tentang" : "PENETAPAN BAGIAN I.B.W. IX (PELABUHAN BELAWAN) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN-TAHUN DINAS 1952 DAN 1953",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 66,
+		"Tahun_peraturan" : 1954,
+		"Tentang" : "PENETAPAN BAGIAN I.B.W. X (PELABUHAN SEMARANG) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN-TAHUN DINAS 1952 DAN 1953",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 67,
+		"Tahun_peraturan" : 1954,
+		"Tentang" : "PENETAPAN BAGIAN I.B.W. XI (PELABUHAN TANJUNG PRIUK) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN-TAHUN DINAS 1952 DAN 1953",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 68,
+		"Tahun_peraturan" : 1954,
+		"Tentang" : "PENETAPAN BAGIAN I.B.W. XII (PELABUHAN SURABAYA) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN-TAHUN DINAS 1952 DAN 1953",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 69,
+		"Tahun_peraturan" : 1954,
+		"Tentang" : "PENETAPAN BAGIAN I.B.W. XIII (PERUSAHAAN TAMBANG TIMAH DI DI BANGKA) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN-TAHUN DINAS 1952 DAN 1953",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 70,
+		"Tahun_peraturan" : 1954,
+		"Tentang" : "PENETAPAN BAGIAN I.B.W. XIV (PERUSAHAAN BATU BARA UMBILIN) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN-TAHUN DINAS 1952 DAN 1953",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 71,
+		"Tahun_peraturan" : 1954,
+		"Tentang" : "PENETAPAN BAGIAN I.B.W. XV (PERUSAHAAN BATU BARA BUKIT ASAM) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN-TAHUN DINAS 1952 DAN 1953",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 72,
+		"Tahun_peraturan" : 1954,
+		"Tentang" : "PENETAPAN BAGIAN I.B.W. XVI (JAWATAN KERETA API) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN-TAHUN DINAS 1952 DAN 1953",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 73,
+		"Tahun_peraturan" : 1954,
+		"Tentang" : "PENETAPAN BAGIAN I.B.W. XVII (PERUSAHAAN REPRODUKSI JAWATAN TOPOGRAPI) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN-TAHUN DINAS 1952 DAN 1953",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 74,
+		"Tahun_peraturan" : 1954,
+		"Tentang" : "PENETAPAN BAGIAN I.B.W. XVIII (PENATARAN ANGKATAN LAUT) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN-TAHUN DINAS 1952 DAN 1953",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 75,
+		"Tahun_peraturan" : 1954,
+		"Tentang" : 'ACARA PIDANA KHUSUS UNTUK ANGGOTA DEWAN PERWAKILAN RAKYAT PENETAPAN "UNDANG-UNDANG DARURAT NO. 5 TAHUN 1953 TENTANG MENAIKKAN JUMLAH MAKSIMUM PORTO DAN BEA"(LEMBARAN-NEGARA NO. 22 TAHUN 1953) SEBAGAI UNDANG-UNDANG',
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 76,
+		"Tahun_peraturan" : 1954,
+		"Tentang" : 'ACARA PIDANA KHUSUS UNTUK ANGGOTA DEWAN PERWAKILAN RAKYAT PENETAPAN "UNDANG-UNDANG DARURAT NO. 5 TAHUN 1953 TENTANG MENAIKKAN JUMLAH MAKSIMUM PORTO DAN BEA"(LEMBARAN-NEGARA NO. 22 TAHUN 1953) SEBAGAI UNDANG-UNDANG',
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 1,
+		"Tahun_peraturan" : 1953,
+		"Tentang" : "PENETAPAN UNDANG-UNDANG DARURAT TENTANG PENIMBUNAN BARANG-BARANG (UNDANG-UNDANG DARURAT NOMOR 17 TAHUN 1951) SEBAGAI UNDANG-UNDANG",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 2,
+		"Tahun_peraturan" : 1953,
+		"Tentang" : "MENGUBAH DAN MENAMBAH ORDONANSI PAJAK RUMAH TANGGA 1908",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 3,
+		"Tahun_peraturan" : 1953,
+		"Tentang" : "PEMBUKAAN APOTIK",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 4,
+		"Tahun_peraturan" : 1953,
+		"Tentang" : "APOTIK DARURAT",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 5,
+		"Tahun_peraturan" : 1953,
+		"Tentang" : "MENETAPKAN UNDANG-UNDANG DARURAT NOMOR 2 TAHUN 1952 TENTANG KENAIKAN TARIP PENGENAAN PAJAK PERSEROAN UNTUK TAHUN DINAS 1952 (LEMBARAN-NEGARA NOMOR 2 TAHUN 1952) SEBAGAI UNDANG-UNDANG",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 6,
+		"Tahun_peraturan" : 1953,
+		"Tentang" : "PERNYATAAN PERLUNYA BEBERAPA TANAH PARTIKELIR DIKEMBALIKAN MENJADI TANAH NEGERI",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 7,
+		"Tahun_peraturan" : 1953,
+		"Tentang" : "PEMILIHAN ANGGOTA KONSTITUANTE DAN ANGGOTA DEWAN PERWAKILAN RAKYAT",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 8,
+		"Tahun_peraturan" : 1953,
+		"Tentang" : "PENILAIAN PERSEDIAAN UANG EMAS DAN BAHAN UANG EMAS PADA DE JAVASCHE BANK",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 9,
+		"Tahun_peraturan" : 1953,
+		"Tentang" : "PEMBERIAN TUNJANGAN YANG BERSIFAT PENSIUN KEPADA BEKAS KETUA DAN BEKAS ANGGOTA DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 10,
+		"Tahun_peraturan" : 1953,
+		"Tentang" : "KEDUDUKAN KEUANGAN KETUA DAN ANGGAUTA DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 11,
+		"Tahun_peraturan" : 1953,
+		"Tentang" : "PENETAPAN UNDANG-UNDANG POKOK BANK INDONESIA PENETAPAN PERATURAN DALAM UNDANG-UNDANG DARURAT NOMOR 4 TAHUN 1950 TENTANG PENERIMAAN ANGGOTA ANGKATAN PERANG R.I.S. (LEMBARAN-NEGARA NOMOR 5 TAHUN 1950) SEBAGAI UNDANG-UNDANG",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 12,
+		"Tahun_peraturan" : 1953,
+		"Tentang" : "PENETAPAN PERATURAN DALAM UNDANG-UNDANG DARURAT NOMOR 4 TAHUN 1950 TENTANG PENERIMAAN ANGGOTA ANGKATAN PERANG R.I.S.(LEMBARAN-NEGARA NOMOR 5 TAHUN 1950) SEBAGAI UNDANG-UNDANG",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 13,
+		"Tahun_peraturan" : 1953,
+		"Tentang" : "PENETAPAN PERATURAN DALAM UNDANG-UNDANG DARURAT NOMOR 12 TAHUN 1952 (LEMBARAN-NEGARA NOMOR 84 TAHUN 1952) TENTANG KEWAJIBAN ANGGOTA ANGKATAN PERANG UNTUK TETAP DALAM DINAS KETENTARAAN SEBAGAI UNDANG-UNDANG",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 14,
+		"Tahun_peraturan" : 1953,
+		"Tentang" : "PERLAKUAN TERHADAP ANGGOTA ANGKATAN PERANG YANG DIPERHENTIKAN DARI DINAS KETENTARAAN KARENA TIDAK MEMPERBAHARUI IKATAN DINAS",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 15,
+		"Tahun_peraturan" : 1953,
+		"Tentang" : "PENERIMAAN ANGGOTA ANGKATAN PERANG SUKARELA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 16,
+		"Tahun_peraturan" : 1953,
+		"Tentang" : "KEDUDUKAN HUKUM ANGGOTA ANGKATAN PERANG",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 17,
+		"Tahun_peraturan" : 1953,
+		"Tentang" : "AKIBAT-AKIBAT DARI PADA UNDANG-UNDANG TENTANG KEWAJIBAN ANGGOTA ANGKATAN PERANG UNTUK TETAP DALAM DINAS KETENTARAAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 18,
+		"Tahun_peraturan" : 1953,
+		"Tentang" : "MERAWAT ORANG-ORANG MISKIN DAN ORANG-ORANG YANG KURANG MAMPU",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 19,
+		"Tahun_peraturan" : 1953,
+		"Tentang" : 'PENGUBAHAN BEA PEMBUBARAN YANG DITETAPKAN DALAM PASAL 5 AYAT 2 "JACHTORDONNANTIE JAVA EN MADURA 1940" (STAATSBLAD 1939 NR 733) ',
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 20,
+		"Tahun_peraturan" : 1953,
+		"Tentang" : "PENGESAHAN PERJANJIAN PINJAMAN TAMBAHAN REPUBLIK INDONESIA DENGAN EXPORT-IMPORT BANK OF WASHINGTON",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 21,
+		"Tahun_peraturan" : 1953,
+		"Tentang" : "PERSETUJUAN PERJANJIAN PERSAHABATAN ANTARA REPUBLIK INDONESIA DAN REPUBLIK SURIA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 22,
+		"Tahun_peraturan" : 1953,
+		"Tentang" : "PEMBUBARAN KOMISI URUSAN PERBURUHAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 23,
+		"Tahun_peraturan" : 1953,
+		"Tentang" : "KEWAJIBAN MELAPORKAN PERUSAHAAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 24,
+		"Tahun_peraturan" : 1953,
+		"Tentang" : 'PENETAPAN "UNDANG-UNDANG DARURAT NOMOR 18 TAHUN 1951 UNTUK MEMBATASI MASA BERLAKUNYA UNDANG-UNDANG PAJAK PEREDARAN 1950" (LEMBARAN-NEGARA NOMOR 93 TAHUN 1951) SEBAGAI UNDANG-UNDANG',
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 25,
+		"Tahun_peraturan" : 1953,
+		"Tentang" : 'PENETAPAN "UNDANG-UNDANG DARURAT NOMOR 12 TAHUN 1950, TENTANG MENGADAKAN PAJAK PEREDARAN 1950" (LEMBARAN-NEGARA NOMOR 19 TAHUN 1950) DAN "UNDANG-UNDANG DARURAT NOMOR 38 TAHUN 1950 TENTANG TAMBAHAN DAN PERUBAHAN UNDANG-UNDANG PAJAK PEREDARAN 1950" (LEMBARANNEGARA NOMOR 80 TAHUN 1950), SEBAGAI UNDANG-UNDANG ',
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 26,
+		"Tahun_peraturan" : 1953,
+		"Tentang" : 'PENETAPAN "UNDANG-UNDANG DARURAT TENTANG LARANGAN UNTUK MEMPERGUNAKAN DAN MEMASUKKAN DALAM PEREDARAN UANG PERAK LAMA, YANG DIKELUARKAN BERDASARKAN " INDISCHE MUNTWET 1912" (UNDANG-UNDANG DARURAT NOMOR 13 TAHUN 1952, LEMBARAN-NEGARA NOMOR 86 TAHUN 1952)" SEBAGAI UNDANG-UNDANG',
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 27,
+		"Tahun_peraturan" : 1953,
+		"Tentang" : 'PENETAPAN "UNDANG-UNDANG DARURAT TENTANG PENGHENTIAN BERLAKUNYA "INDISCHE MUNTWET 1912" DAN PENETAPAN PERATURAN BARU TENTANG MATA UANG" (UNDANG-UNDANG DARURAT NOMOR 20 TAHUN 1951 (LEMBARAN-NEGARA NOMOR 95 TAHUN 1951) SEBAGAI UNDANG-UNDANG',
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 28,
+		"Tahun_peraturan" : 1953,
+		"Tentang" : 'PENETAPAN "UNDANG-UNDANG DARURAT NOMOR 9 TAHUN 1951,TENTANG MEMPERPANJANG WAKTU BERLAKUNYA OPSENTEN ATAS BEBERAPA MACAM CUKAI" (LEMBARAN-NEGARA NOMOR 43 TAHUN 1951) SEBAGAI UNDANG-UNDANG ',
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 29,
+		"Tahun_peraturan" : 1953,
+		"Tentang" : 'PENETAPAN "UNDANG-UNDANG DARURAT NOMOR 4 TAHUN 1953, TENTANG PENGENAAN TAMBAHAN OPSENTEN ATAS BENSIN DAN SEBAGAINYA" (LEMBARAN-NEGARA NOMOR 11 TAHUN 1953), SEBAGAI UNDANG-UNDANG',
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 30,
+		"Tahun_peraturan" : 1953,
+		"Tentang" : 'PENETAPAN "UU DRT 4-1953 TENTANG PENGENAAN TAMBAHAN OPSENTEN ATAS BENSIN DAN SEBAGAINYA"',
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 31,
+		"Tahun_peraturan" : 1953,
+		"Tentang" : 'PENETAPAN UNDANG-UNDANG DARURAT NOMOR 15 TAHUN 1952, UNTUK PEMUNGUTAN PAJAK VERPONDING UNTUK TAHUN-TAHUN 1953 DAN BERIKUTNYA" (LEMBARAN-NEGARA NOMOR 90 TAHUN 1952) SEBAGAI UNDANG-UNDANG',
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 32,
+		"Tahun_peraturan" : 1953,
+		"Tentang" : 'PENETAPAN "UNDANG-UNDANG DARURAT NOMOR 23 TAHUN 1951, TENTANG PENGUBAHAN DAN PENAMBAHAN ORDONANASI PAJAK PERALIHAN 1944" (LEMBARAN-NEGARA NOMOR 103 TAHUN 1951) SEBAGAI UNDANG-UNDANG',
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 33,
+		"Tahun_peraturan" : 1953,
+		"Tentang" : 'PENETAPAN "UNDANG-UNDANG DARURAT NOMOR 19 TAHUN 1951, TENTANG PEMUNGUTAN PAJAK PENJUALAN" (LEMBARAN-NEGARA NOMOR 94 TAHUN 1951) SEBAGAI UNDANG-UNDANG',
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 34,
+		"Tahun_peraturan" : 1953,
+		"Tentang" : PENETAPAN "UNDANG-UNDANG DARURAT NOMOR 15 TAHUN 1951, PENILAIAN DARI BAGIAN-BAGIAN PENDAPATAN DAN KEKAYAAN, BAIK YANG DIPEROLEH MAUPUN YANG BERADA DALAM UANG ASING UNTUK PEMUNGUTAN PAJAK PERALIHAN, PAJAK UPAH, PAJAK PERSEROAN DAN PAJAK KEKAYAAN DAN TENTANG PENGUBAHAN ORDONANSI PAJAK PERALIHAN 1944" (LEMBARAN-NEGARA NOMOR 87 TAHUN 1951 SEBAGAI UNDANG-UNDANG,
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 35,
+		"Tahun_peraturan" : 1953,
+		"Tentang" : 'PENETAPAN "UNDANG-UNDANG DARURAT NOMOR 19 TAHUN 1951, TENTANG PEMUNGUTAN PAJAK PENJUALAN" (LEMBARAN-NEGARA NOMOR 94 TAHUN 1951) SEBAGAI UNDANG-UNDANG',
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 36,
+		"Tahun_peraturan" : 1953,
+		"Tentang" : "BANK TABUNGAN POS",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 37,
+		"Tahun_peraturan" : 1953,
+		"Tentang" : "PENGGANTIAN ANGGOTA DEWAN PERWAKILAN RAKYAT",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 12,
+		"Tahun_peraturan" : 1952,
+		"Tentang" : "PEMBAHARUAN BEA-BEA SPESIFIK DAN PENGGANTIANNYA DENGAN BEA-BEA AD VALOREM ",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 13,
+		"Tahun_peraturan" : 1952,
+		"Tentang" : "PERUBAHAN BERSELANG DARI JUMLAH OPSENTEN ATAS BEBERAPA POS DARI TARIP BEA-BEA MASUK ",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 14,
+		"Tahun_peraturan" : 1952,
+		"Tentang" : 'PENUNJUKAN JAWATAN REGI GARAM SEBGAI PERUSAHAAN I.B.W. DENGAN NAMA BARU \"PERUSAHAAN GARAM DAN SODA NEGERI',
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 15,
+		"Tahun_peraturan" : 1952,
+		"Tentang" : "PENETAPAN UNDANG-UNDANG DARURAT TENTANG \"BURSA\" (LEMBARAN NEGARA NR 79 TAHUN 1951) SEBAGAI UNDANG-UNDANG ",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 16,
+		"Tahun_peraturan" : 1952,
+		"Tentang" : "PERSETUJUAN PERJANJIAN PERSAHABATAN ANTARA NEGARA REPUBLIK INDONESIA DAN NEGARA INDIA ",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 17,
+		"Tahun_peraturan" : 1952,
+		"Tentang" : "PERSETUJUAN PERJANJIAN PERSAHABATAN ANTARA NEGARA REPUBLIK INDONESIA DAN NEGARA PAKISTAN ",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 18,
+		"Tahun_peraturan" : 1952,
+		"Tentang" : "PERSETUJUAN PERJANJIAN PERSAHABATAN ANTARA NEGARA REPUBLIK INDONESIA DAN NEGARA UNI BIRMA ",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 19,
+		"Tahun_peraturan" : 1952,
+		"Tentang" : "PERSETUJUAN PERJANJIAN PERSAHABATAN ANTARA NEGARA REPUBLIK INDONESIA DAN NEGARA REPUBLIK PHILIPINA ",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 20,
+		"Tahun_peraturan" : 1952,
+		"Tentang" : "PENSIUN PEGAWAI NEGERI SIPIL",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 21,
+		"Tahun_peraturan" : 1952,
+		"Tentang" : 'MENETAPKAN "UNDANG-UNDANG DARURAT TENTANG HAK PENGANGKATAN DAN PEMBERHENTIAN PEGAWAI-PEGAWAI REPUBLIK INDONESIA SERIKAT" (UNDANG-UNDANG DARURAT NR 25 DAN 34 TAHUN 1950) SEBAGAI UNDANG-UNDANG REPUBLIK INDONESIA',
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 23,
+		"Tahun_peraturan" : 1952,
+		"Tentang" : "PENETAPAN UNDANG-UNDANG DARURAT NR 3 TAHUN 1950 (LEMBARAN-NEGARA NR 4 TAHUN 1950) TENTANG PUNGUTAN TAMBAHAN POKOK PAJAK MENGENAI PAJAK KEKAYAAN DAN PAJAK PERSEROAN TAHUN 1950 SEBAGAI UNDANG-UNDANG ",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 24,
+		"Tahun_peraturan" : 1952,
+		"Tentang" : "PENETAPAN UNDANG-UNDANG DARURAT TENTANG PUNGUTAN TAMBAHAN POKOK PAJAK MENGENAI PAJAK KEKAYAAN DAN PAJAK PERSEROAN TAHUN 1951 (UNDANG-UNDANG DARURAT NR 35 TAHUN 1950, LEMBARAN NEGARA NR 77 TAHUN 1950) SEBAGAI UNDANG-UNDANG",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 11,
+		"Tahun_peraturan" : 1952,
+		"Tentang" : "PENETAPAN UNDANG-UNDANG DARURAT TENTANG TAMBAHAN POKOK BEA (OPSENTEN) ATAS BEA-BEA MASUK SELAMA TAHUN 1952 (UNDANG-UNDANG DARURAT NR 4 TAHUN 1952) SEBAGAI UNDANG-UNDANG ",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 1,
+		"Tahun_peraturan" : 1952,
+		"Tentang" : "PENETAPAN UNDANGUNDANG DARURAT NR 2 TAHUN 1951 TENTANG PERUBAHAN QUOTRECHTNORDONNANTIEQUOT STAATBLAD 1882 NO 240 JO STAATBLAD 1931 NO 471 SEBAGAI UNDANGUNDANG",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 2,
+		"Tahun_peraturan" : 1952,
+		"Tentang" : 'PENETAPAN "UNDANG-UNDANG DARURAT TENTANG PINJAMAN DARURAT" SEBAGAI UNDANG-UNDANG',
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 3,
+		"Tahun_peraturan" : 1952,
+		"Tentang" : 'PENETAPAN "UNDANG-UNDANG DARURAT TENTANG MEMPERPANJANG WAKTU MASIH TERBUKANYA DINAS TAHUN-ANGGARAN 1950" SEBAGAI UNDANG-UNDANG',
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 4,
+		"Tahun_peraturan" : 1952,
+		"Tentang" : "PENETAPAN UNDANG-UNDANG DARURAT TENTANG PENETAPAN BERLAKUNYA UNDANG-UNDANG, UNDANG-UNDANG DARURAT DAN ORDONANSI-ORDONANSI MENGENAI MASALAH-MASALAH PAJAK, DIKELUARKAN SEBELUM PEMBENTUKAN NEGARA KESATUAN REPUBLIK INDONESIA (UNDANG-UNDANG DARURAT NR 36 TAHUN 1950) SEBAGAI UNDANG-UNDANG",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 5,
+		"Tahun_peraturan" : 1952,
+		"Tentang" : "PEMBEBASAN BEA-MASUK UNTUK BARANG-BARANG BERUPA KIRIMAN-KIRIMAN HADIAH YANG BERTUJUAN KESEJAHTERAAN ROHANI PENDUDUK, MAKSUD AMAL ATAU KEBUDAYAAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 6,
+		"Tahun_peraturan" : 1952,
+		"Tentang" : 'PENETAPAN "UNDANG-UNDANG NR 6 TAHUN 1951 UNTUK MENGUBAH "GRONDHUUR ORDONANTIE" (STBL 1918 NR 88) DAN "VORSTENLANDSCH GRONDHUURREGLEMENT" (STBL. 1918 NR 20)" SEBAGAI UNDANG-UNDANG',
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 7,
+		"Tahun_peraturan" : 1952,
+		"Tentang" : "MENETAPKAN UNDANG-UNDANG DARURAT NR 14 TAHUN 1951 TENTANG PEMUNGUTAN PAJAK VERPONDING ATAS TAHUN 1951 SEBAGAI UNDANG-UNDANG",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 8,
+		"Tahun_peraturan" : 1952,
+		"Tentang" : "PEMUNGUTAN PAJAK VERPONDING TAHUN 1952",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 9,
+		"Tahun_peraturan" : 1952,
+		"Tentang" : "PERUBAHAN ATAS ORDONANSI PAJAK PERSEROAN TAHUN 1925",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 10,
+		"Tahun_peraturan" : 1952,
+		"Tentang" : "PENETAPAN UNDANG-UNDANG DARURAT TENTANG TAMBAHAN POKOK BEA (OPSENTEN) ATAS BEA-BEA MASUK SELAMA TAHUN 1951 (UNDANG-UNDANG DARURAT NR 39 TAHUN 1950) SEBAGAI UNDANG-UNDANG",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 22,
+		"Tahun_peraturan" : 1952,
+		"Tentang" : "KEMUNGKINAN HILANGNYA SURAT KEPUTUSAN DAN SURAT-SURAT PEMERIKSAAN PENGADILAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 4,
+		"Tahun_peraturan" : 1951,
+		"Tentang" : "MEMBERIKAN PERSETUJUAN KEPADA PERJANJIAN PINJAMAN ANTARA PEMERINTAH KERAJAAN NEDERLAND DAN PEMERINTAH REPUBLIK INDONESIA SERIKAT",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 5,
+		"Tahun_peraturan" : 1951,
+		"Tentang" : "MENETAPKAN UNDANG-UNDANG DARURAT NR. 26 TAHUN 1950 (LEMBARAN-NEGARA NR. 48 TAHUN 1950), MENGENAI PENGESAHAN DAN PENGAKUAN HUTANG TERHADAP KERAJAA BELANDA SEBAGAI UNDANG-UNDANG",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 12,
+		"Tahun_peraturan" : 1951,
+		"Tentang" : 'PENGHAPUSAN BADAN HUKUM "ALGEMEENE VOLKSCREDIETBANK"',
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 13,
+		"Tahun_peraturan" : 1951,
+		"Tentang" : 'MENETAPKAN "UNDANG-UNDANG DARURAT TENTANG MENAIKKAN JUMLAH MAKSIMUM PORTO DAN BEA" SEBAGAI UNDANG-UNDANG ',
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 14,
+		"Tahun_peraturan" : 1951,
+		"Tentang" : "PENGGANTIAN PAJAK BUMI DENGAN PAJAK PERALIHAN 1944",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 15,
+		"Tahun_peraturan" : 1951,
+		"Tentang" : "PENETAPAN UNDANG-UNDANG DARURAT TENTANG PERUBAHAN ORDONANSI PAJAK PERALIHAN 1944, ORDONANSI PAJAK UPAH DAN ORDONANSI PAJAK KEKAYAAN 1932 (UNDANG-UNDANG DARURAT NR 37 TAHUN 1950 SEPERTI DITAMBAH DENGAN UNDANG-UNDANG DARURAT NR 5 TAHUN 1951) SEBAGAI UNDANG-",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 16,
+		"Tahun_peraturan" : 1951,
+		"Tentang" : "PENETAPAN UNDANG-UNDANG DARURAT NR 22 TAHUN 1950 TENTANG ENURUNAN CUKAI TEMBAKAU SEBAGAI UNDANG-UNDANG ",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 17,
+		"Tahun_peraturan" : 1951,
+		"Tentang" : 'MENETAPKAN "UNDANG-UNDANG DARURAT TENTANG PENGELUARAN UANG KERTAS ATAS TANGGUNGAN REPUBLIK INDONESIA SERIKAT" SEBAGAI UNDANG-UNDANG ',
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 19,
+		"Tahun_peraturan" : 1951,
+		"Tentang" : 'PENETAPAN "UNDANG-UNDANG DARURAT NR 32 TAHUN 1950 TENTANG PENGGABUNGAN PULAU WEH KE DALAM DAERAH PABEAN INDONESIA" SEBAGAI UNDANG-UNDANG',
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 20,
+		"Tahun_peraturan" : 1951,
+		"Tentang" : "PEMBEBASAN CUKAI GUNA PEGAWAI-PEGAWAI DIPLOMATIK ATAU KONSULER DARI NEGERI-NEGERI ASING YANG MENJALANKAN TUGASNYA DINEGERI INI ",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 21,
+		"Tahun_peraturan" : 1951,
+		"Tentang" : 'PENGHAPUSAN "CENTRALE VERKOOPORGANISTIE VAN ONDERNEMINGSLANDBOUWPRODUCTEN (C.V.O.)"',
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 22,
+		"Tahun_peraturan" : 1951,
+		"Tentang" : 'MENETAPKAN \"UNDANG-UNDANG DARURAT TENTANG PENETAPAN KEJAHATAN-KEJAHATAN DAN PELANGGARAN-PELANGGARAN YANG DILAKUKAN DALAM MASA PEKERJAAN OLEH PARA PEJABAT YANG MENURUT PASAL 148 KONSTITUSI REPUBLIK INDONESIA SERIKAT DALAM TINGKAT PERTAMA DAN TERTINGGI DIA',
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 23,
+		"Tahun_peraturan" : 1951,
+		"Tentang" : "PENYERAHAN URUSAN PENILIKAN PILEM KEPADA KEMENTRIAN PENDIDIKAN, PENGAJARAN DAN KEBUDAYAAN ",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 24,
+		"Tahun_peraturan" : 1951,
+		"Tentang" : "NASIONALISASI DE JAVASCHE BANK N.V.",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 11,
+		"Tahun_peraturan" : 1951,
+		"Tentang" : "PENGESAHAN PERJANJIAN PINJAMAN PERTAMA REPUBLIK INDONESIA DENGAN EXPORT-IMPORT BANK OF WASHINGTON ",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 1,
+		"Tahun_peraturan" : 1951,
+		"Tentang" : "PERNYATAAN BERLAKUNYA UNDANG-UNDANG KERJA TAHUN 1948 NR. 12 DARI REPUBLIK INDONESIA UNTUK SELURUH INDONESIA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 2,
+		"Tahun_peraturan" : 1951,
+		"Tentang" : "PERNYATAAN BERLAKUNYA UNDANG-UNDANG KECELAKAAN TAHUN 1947 NR. 33, DARI REPUBLIK INDONESIA UNTUK SELURUH INDONESIA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 3,
+		"Tahun_peraturan" : 1951,
+		"Tentang" : "PERNYATAAN BERLAKUNYA UNDANG-UNDANG PENGAWASAN PERBURUHAN TAHUN 1948 NR. 23 DARI REPUBLIK INDONESIA UNTUK SELURUH INDONESIA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 6,
+		"Tahun_peraturan" : 1951,
+		"Tentang" : "GAJI DAN TUNJANGAN KEPADA KETUA, TUNJANGAN-TUNJANGAN, BIAYA PERJALANAN DAN PENGINAPAN KEPADA ANGGAUTA-ANGGAUTA DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 7,
+		"Tahun_peraturan" : 1951,
+		"Tentang" : "PERUBAHAN DAN TAMBAHAN UNDANG-UNDANG LALU-LINTAS JALAN (WEGVERKEERSORDONNANTIE, STAATSBLAD 1933 NO. 86)",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 8,
+		"Tahun_peraturan" : 1951,
+		"Tentang" : "PENANGGUHAN PEMBERIAN SURAT IDZIN KEPADA DOKTER DAN DOKTER GIGI",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 9,
+		"Tahun_peraturan" : 1951,
+		"Tentang" : "PEMBAGIAN TENAGA DOKTER, DOKTER GIGI DAN BIDAN SECARA RASIONIL",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 10,
+		"Tahun_peraturan" : 1951,
+		"Tentang" : "MENGATUR TENAGA DOKTER PARTIKULIR DALAM KEADAAN GENTING",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 18,
+		"Tahun_peraturan" : 1951,
+		"Tentang" : "PERUBAHAN UU NO. 15 TAHUN 1950 RI UNTUK PENGGABUNGAN DAERAH-DAERAH KABUPATEN KULON-PROGO DAN ADIKARTO DALAM LINGKUNGAN DAERAH ISTIMEWA YOGYAKARTA MENJADI SATU KABUPATEN YANG BERHAK MENGATUR DAN MENGURUS RUMAH-TANGGANYA SENDIRI DENGAN NAMA KABUPATEN KULON-PROGO",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 7,
+		"Tahun_peraturan" : 1950,
+		"Tentang" : "PERUBAHAN KONSTITUSI SEMENTARA REPUBLIK INDONESIA SERIKAT MENJADI UNDANG-UNDANG DASAR SEMENTARA REPUBLIK INDONESIA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 8,
+		"Tahun_peraturan" : 1950,
+		"Tentang" : "PINJAMAN REPUBLIK INDONESIA PADA BANK IMPORT BANK OF WASHINGTON",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 9,
+		"Tahun_peraturan" : 1950,
+		"Tentang" : "PENETAPAN TARIP PADJAK PENDAPATAN UNTUK TAHUN 1950",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 10,
+		"Tahun_peraturan" : 1950,
+		"Tentang" : "PEMBENTUKAN PROPINSI DJAWA TENGAH",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 11,
+		"Tahun_peraturan" : 1950,
+		"Tentang" : "PEMBENTUKAN PROPINSI DJAWA BARAT",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 14,
+		"Tahun_peraturan" : 1950,
+		"Tentang" : "PEMERINTAHAN DAERAH KABUPATEN DALAM LINGKUNGAN PROPINSI DJAWA BARAT",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 16,
+		"Tahun_peraturan" : 1950,
+		"Tentang" : "PEMBENTUKAN DAERAH DAERAH KOTA BESAR DALAM LINGKUNGAN PROVINSI JAWA TIMUR, JAWA TENGAH, JAWA BARAT DAN DALAM DAERAH ISTIMEWA YOGYAKARTA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 17,
+		"Tahun_peraturan" : 1950,
+		"Tentang" : "PEMERINTAHAN DAERAH KOTA KETJIL DJAWA TIMUR/TENGAH/BARAT",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 13,
+		"Tahun_peraturan" : 1950,
+		"Tentang" : "PEMBENTUKAN DAERAH-DAERAH KABUPATEN DALAM LINGKUNGAN PROPINSI DJAWA TENGAH",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 1,
+		"Tahun_peraturan" : 1950,
+		"Tentang" : "DJENIS DAN BENTUK PERATURAN JANG DIKELUARKAN OLEH PEMERINTAH PUSAT.",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 12,
+		"Tahun_peraturan" : 1950,
+		"Tentang" : "PEMERINTAHAN DAERAH KABUPATEN DI JAWA TIMUR",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 3,
+		"Tahun_peraturan" : 1950,
+		"Tentang" : "PERMOHONAN GRASI",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 1,
+		"Tahun_peraturan" : 1950,
+		"Tentang" : "SUSUNAN, KEKUASAAN DAN JALAN-PENGADILAN MAHKAMAH AGUNG INDONESIA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 2,
+		"Tahun_peraturan" : 1950,
+		"Tentang" : 'MENETAPKAN "UU DRT TENTANG PENERBITAN LEMBARAN NEGARA REPUBLIK INDONESIA SERIKAT DAN BERITA NEGARA REPUBLIK INDONESIA SERIKAT DAN TENTANG MENGELUARKAN MENGUMUMKAN DAN MULAI BERLAKUNYA UU FEDERAL DAN PERATURAN PEMERINTAH" SEBAGAI UNDANG-UNDANG FEDERAL',
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 4,
+		"Tahun_peraturan" : 1950,
+		"Tentang" : 'PENGGANTIAN KERUGIAN ANGGOTA-ANGGOTA "DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA SERIKAT"',
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 5,
+		"Tahun_peraturan" : 1950,
+		"Tentang" : 'MENETAPKAN "UU DRT TENTANG SUSUNAN DAN KEKUASAAN PENGADILAN KEJAKSAAN DALAM LINGKUNGAN PERADILAN KETENTARAAN" SEBAGAI UNDANG-UNDANG FEDERAL',
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 6,
+		"Tahun_peraturan" : 1950,
+		"Tentang" : 'MENETAPKAN "UU DRT TENTANG HUKUM ACARA PIDANA PADA PENGADILAN TENTARA" SEBAGAI UU FEDERAL',
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 1,
+		"Tahun_peraturan" : 1949,
+		"Tentang" : "PENGGANTIAN PAJAK BUMI DENGAN PAJAK PENDAPATAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 2,
+		"Tahun_peraturan" : 1949,
+		"Tentang" : "KEDUDUKAN DAN KEKUASAAN WAKIL PERDANA MENTERI DI SUMATRA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 3,
+		"Tahun_peraturan" : 1949,
+		"Tentang" : "TARIP PAJAK POTONG 1949",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 4,
+		"Tahun_peraturan" : 1949,
+		"Tentang" : "PENAMBAHAN BEA METERAI",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 5,
+		"Tahun_peraturan" : 1949,
+		"Tentang" : "PENETAPAN TARIP PAJAK PENDAPATAN DAN PAJAK UPAH",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 6,
+		"Tahun_peraturan" : 1949,
+		"Tentang" : "PENAMBAHAN JUMLAH ANGGAUTA KOMITE NASIONAL PUSAT",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 7,
+		"Tahun_peraturan" : 1949,
+		"Tentang" : "PENUNJUKKAN PEMANGKU SEMENTARA JABATAN PRESIDEN REPUBLIK INDONESIA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 8,
+		"Tahun_peraturan" : 1949,
+		"Tentang" : "PERUBAHAN UNDANG UNDANG 1948 NO.9 DARI HAL KEDUDUKAN HUKUM ANGGAUTA K.N.I.P",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 9,
+		"Tahun_peraturan" : 1949,
+		"Tentang" : "SIDANG KOMITE NASIONAL PUSAT MENGENAI PERSETUJUAN KONPERENSI MEJA BUNDAR",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 10,
+		"Tahun_peraturan" : 1949,
+		"Tentang" : "HAL PENERIMAAN BAIK HASIL HASIL KONPERENSI MEJA BUNDAR",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 11,
+		"Tahun_peraturan" : 1949,
+		"Tentang" : "PENGESAHAN KONSTITUSI REPUBLIK INDONESIA SERIKAT",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 12,
+		"Tahun_peraturan" : 1949,
+		"Tentang" : "MENGADAKAN PERUBAHAN DALAM UNDANG UNDANG NO.27 TAHUN 1948 MENGENAI SUSUNAN DEWAN PERWAKILAN RAKYAT DAN PEMILIHAN ANGAUTA ANGGAUTANYA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 1,
+		"Tahun_peraturan" : 1948,
+		"Tentang" : "PENAMBAHAN UNDANG UNDANG KEADAAN BAHAYA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 2,
+		"Tahun_peraturan" : 1948,
+		"Tentang" : "PENGESAHAN PERJANJIAN PERSABATAN ANTARA REPUBLIK INDONESIA DAN NEGARA KERAJAAN MESIR",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 3,
+		"Tahun_peraturan" : 1948,
+		"Tentang" : "SUSUNAN KEMENTERIAN PERTAHANAN DAN ANGKATAN PERANG",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 4,
+		"Tahun_peraturan" : 1948,
+		"Tentang" : "NATURALISASI JEAN HENRY JOSEPH DE QUINZE",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 5,
+		"Tahun_peraturan" : 1948,
+		"Tentang" : "BEBERAPA PERATURAN-PERATURAN ISTIMEWA MENGENAI PENCATATAN JIWA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 6,
+		"Tahun_peraturan" : 1948,
+		"Tentang" : "MEMPERPANJANG WAKTU BERLAKUNYA PERATURAN PERATURAN DEWAN PERTAHANAN NEGARA NO. 5, 7 JO. 31, 8 JO. 34, 9 JO. 34, 11 DAN 16",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 7,
+		"Tahun_peraturan" : 1948,
+		"Tentang" : "PENCABUTAN PERATURAN PEMERINTAH TAHUN 1947 NOMOR 22 TENTANG SUSUNAN DAN ACARA PENGADILAN TENTARA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 8,
+		"Tahun_peraturan" : 1948,
+		"Tentang" : "PENDAFTARAN DAN PEMBERIAN IDZIN PEMAKAIAN SENJATA API",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 9,
+		"Tahun_peraturan" : 1948,
+		"Tentang" : "KEDUDUKAN HUKUM ANGGAUTA ANGGAUTA (BADAN PEKERJA) KOMITE NASIONAL PUSAT",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 10,
+		"Tahun_peraturan" : 1948,
+		"Tentang" : "PEMBAGIAN SUMATRA DALAM TIGA PROPINSI",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 11,
+		"Tahun_peraturan" : 1948,
+		"Tentang" : "MEMPERPANJANG LAGI WAKTU UNTUK MENGAJUKAN PERNYATAAN KEWARGAAN NEGARA INDONESIA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 12,
+		"Tahun_peraturan" : 1948,
+		"Tentang" : "UNDANG-UNDANG KERJA TAHUN 1948",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 13,
+		"Tahun_peraturan" : 1948,
+		"Tentang" : "MENGADAKAN PERUBAHAN DALAM VORSTENLANDS GRONDHUURREGLEMENT",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 14,
+		"Tahun_peraturan" : 1948,
+		"Tentang" : "MENETAPKAN BEA TAMBAHAN ATAS BEA MASUK",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 15,
+		"Tahun_peraturan" : 1948,
+		"Tentang" : "PENETAPAN BARANG-BARANG YANG DIKENAKAN BEA KELUAR",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 16,
+		"Tahun_peraturan" : 1948,
+		"Tentang" : "MENGADAKAN PERUBAHAN DALAM PERATURAN BEA METERAI 1921",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 17,
+		"Tahun_peraturan" : 1948,
+		"Tentang" : "MENGADAKAN PERUBAHAN DALAM UNDANG-UNDANG PAJAK PENDAPATAN 1932 (STBL. 1932)",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 18,
+		"Tahun_peraturan" : 1948,
+		"Tentang" : "MEMPERPANJANG WAKTU BERLAKUNYA PERATURAN-PERATURAN DEWAN PERTAHANAN NEGARA NO. 5, 7 JO. 31, 8 JO. 34, 9 JO. 34, 11 DAN 16",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 19,
+		"Tahun_peraturan" : 1948,
+		"Tentang" : "SUSUNAN DAN KEKUASAAN BADAN-BADAN KEHAKIMAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 20,
+		"Tahun_peraturan" : 1948,
+		"Tentang" : "MENGADAKAN PERUBAHAN DAN TAMBAHAN DALAM UNDANG-UNDANG NOMOR 14 TAHUN 1947 DARI HAL PAJAK PEMBANGUNAN I",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 21,
+		"Tahun_peraturan" : 1948,
+		"Tentang" : "MENAMBAH DAN MENGUBAH UNDANG-UNDANG NOMOR 12 TAHUN 1947 TENTANG PAJAK RADIO",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 22,
+		"Tahun_peraturan" : 1948,
+		"Tentang" : "PENETAPAN ATURAN-ATURAN POKOK MENGENAI PEMERINTAHAN SENDIRI DI DAERAH-DAERAH YANG BERHAK MENGATUR DAN MENGURUS RUMAH TANGGANYA SENDIRI",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 23,
+		"Tahun_peraturan" : 1948,
+		"Tentang" : "PENGAWASAN PERBURUHAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 24,
+		"Tahun_peraturan" : 1948,
+		"Tentang" : "MEMPERPANJANG WAKTU PERATURAN DPN NO. 5, 7, JO. 31, 8 JO. 34, 9 JO. 34, 11 DAN 16",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 25,
+		"Tahun_peraturan" : 1948,
+		"Tentang" : "PENETAPAN TARIP PAJAK PENDAPATAN TAHUN 1948/1949 DAN PEMUNGUTAN PAJAK TAMBAHAN ATAS PAJAK PERSEROAN, KEKAYAAN, SERTA PAJAK UNTUNG PERANG",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 26,
+		"Tahun_peraturan" : 1948,
+		"Tentang" : "MENGADAKAN PERUBAHAN DALAM UNDANG-UNDANG PAJAK PENDAPATAN 1932. (ORDONNANTIE OP DE INKOMSTENBELASTING 1932)",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 27,
+		"Tahun_peraturan" : 1948,
+		"Tentang" : "DEWAN PERWAKILAN RAKYAT DAN PEMILIHAN ANGGAUTA-ANGGAUTANYA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 28,
+		"Tahun_peraturan" : 1948,
+		"Tentang" : "PASAL ALAT PEMBAYARAN LUAR NEGERI",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 29,
+		"Tahun_peraturan" : 1948,
+		"Tentang" : "PEMBERANTASAN PENIMBUNAN BARANG PENTING",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 30,
+		"Tahun_peraturan" : 1948,
+		"Tentang" : "PEMBERIAN KEKUASAAN PENUH KEPADA PRESIDEN DALAM KEADAAN BAHAYA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 31,
+		"Tahun_peraturan" : 1948,
+		"Tentang" : "JOSEPH CORNELIS DE GROOT MENJADI WARGA NEGARA INDONESIA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" :32 ,
+		"Tahun_peraturan" : 1948,
+		"Tentang" : "PEREDARAN UANG DENGAN PERANTARAAN BANK",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 33,
+		"Tahun_peraturan" : 1948,
+		"Tentang" : "PENETAPAN UANG BERAT BARANG, SEBAGAI BEA PEMAKAIAN PERLENGKAPAN PELABUHAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 34,
+		"Tahun_peraturan" : 1948,
+		"Tentang" : "DAERAH PENDUDUKAN BUAT SEMENTARA WAKTU TIDAK MASUK DALAM DAERAH PABEAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 35,
+		"Tahun_peraturan" : 1948,
+		"Tentang" : "MENURUNKAN TARIP BEA MASUK",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 1,
+		"Tahun_peraturan" : 1947,
+		"Tentang" : "DEWAN PERTAHANAN NEGARA, PERATURAN. MEMPERPANJANG WAKTU BERLAKUNYA PERATURAN DEWAN PERTAHANAN NEGARA NO.5, 7, 8, 9, 11 DAN 16",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 2,
+		"Tahun_peraturan" : 1947,
+		"Tentang" : "DEWAN PERTAHANAN NEGARA, PERATURAN. PENGESYAHAN PERATURAN DEWAN PERTAHANAN NEGARA NO. 6, 10, 12, 13, 15, 18, 19, 23, 24, 25 DAN 26",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 3,
+		"Tahun_peraturan" : 1947,
+		"Tentang" : "PENGESYAHAN PERATURAN PEMERINTAH NO. 1 TAHUN 1947",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 4,
+		"Tahun_peraturan" : 1947,
+		"Tentang" : "NATURALISASI JOHANN JORDAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 5,
+		"Tahun_peraturan" : 1947,
+		"Tentang" : "NATURALISASI SALIM BASJIR",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 6,
+		"Tahun_peraturan" : 1947,
+		"Tentang" : "PERUBAHAN UNDANG UNDANG NO. 3 TAHUN 1946 TENTANG WARGA NEGARA DAN PENDUDUK NEGARA REPUBLIK INDONESIA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 7,
+		"Tahun_peraturan" : 1947,
+		"Tentang" : "SUSUNAN DAN KEKUASAAN MAHKAMAH AGUNG DAN KEJAKSAAN AGUNG",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 8,
+		"Tahun_peraturan" : 1947,
+		"Tentang" : "MEMPERPANJANG WAKTU UNTUK MENGAJUKAN PERNYATAAN BERHUBUNG DENGAN KEWARGAAN NEGARA INDONESIA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 9,
+		"Tahun_peraturan" : 1947,
+		"Tentang" : "NATURALISASI FRANS MATHEAS HESSE",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 10,
+		"Tahun_peraturan" : 1947,
+		"Tentang" : "PENCABUTAN PASAL 31 KE II NO.8 DARI ATURAN BEA METERAI 1921 (STBL. 1921 NO. 498)",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 11,
+		"Tahun_peraturan" : 1947,
+		"Tentang" : "MENGUBAH ORDONANSI PAJAK POTONG 1936, STBL. 1936, NO. 671",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 12,
+		"Tahun_peraturan" : 1947,
+		"Tentang" : "MENETAPKAN "PAJAK RADIO" ATAS SEMUA PESAWAT PENERIMAAN RADIO",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 13,
+		"Tahun_peraturan" : 1947,
+		"Tentang" : "PENETAPAN TARIP PAJAK PENDAPATAN, PAJAK UPAH DAN TAMBAHAN POKOK PAJAK TAHUN PAJAK 1947/1948",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 14,
+		"Tahun_peraturan" : 1947,
+		"Tentang" : "PEMUNGUTAN PAJAK PEMBANGUNAN DI RUMAH MAKAN DAN RUMAH PENGINAPAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 15,
+		"Tahun_peraturan" : 1947,
+		"Tentang" : "MEMPERPANJANG WAKTU BERLAKUNYA PERATURAN DEWAN PERTAHANAN NEGARA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 16,
+		"Tahun_peraturan" : 1947,
+		"Tentang" : "PEMBENTUKAN HAMINTE-KOTA SURAKARTA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 17,
+		"Tahun_peraturan" : 1947,
+		"Tentang" : "PEMBENTUKAN HAMINTE-KOTA YOGYAKARTA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 18,
+		"Tahun_peraturan" : 1947,
+		"Tentang" : "PERATURAN ISTIMEWA PAJAK PENDAPATAN TERHADAP UPAH",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 20,
+		"Tahun_peraturan" : 1947,
+		"Tentang" : "PERADILAN ULANGAN DI JAWA DAN MADURA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 21,
+		"Tahun_peraturan" : 1947,
+		"Tentang" : "PEMERIKSAAN PERKARA PIDANA DILUAR HADIR TERDAKWA PADA PENGADILAN NEGERI",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 22,
+		"Tahun_peraturan" : 1947,
+		"Tentang" : "PEMINDAHAN TEMPAT KEDUDUKAN PENGADILAN DAN KEJAKSAAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 23,
+		"Tahun_peraturan" : 1947,
+		"Tentang" : "PENGHAPUSAN PENGADILAN-RAJA (ZELFBEST UURSRECHT SPRAAK) DI JAWA DAN SUMATERA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 24,
+		"Tahun_peraturan" : 1947,
+		"Tentang" : "NATURALISASI WILHELM KARL GOTTFRIED MEWES",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 25,
+		"Tahun_peraturan" : 1947,
+		"Tentang" : "NATURALISASI GEORGE WILHELM AUGUST FRIEDRICHS",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 26,
+		"Tahun_peraturan" : 1947,
+		"Tentang" : "NATURALISASI HERMAN OSCAR GUSTAV FISCHER",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 27,
+		"Tahun_peraturan" : 1947,
+		"Tentang" : "NATURALISASI CURT ULRICH GROSS",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 28,
+		"Tahun_peraturan" : 1947,
+		"Tentang" : "CUKAI TEMBAKAU II",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 29,
+		"Tahun_peraturan" : 1947,
+		"Tentang" : "CUKAI MINUMAN KERAS",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 30,
+		"Tahun_peraturan" : 1947,
+		"Tentang" : "MENGESAHKAN PERATURAN PEMERINTAH NO. 20, TAHUN 1947 MENJADI UNDANG-UNDANG",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 31,
+		"Tahun_peraturan" : 1947,
+		"Tentang" : "MEMPERPANJANG WAKTU BERLAKUNYA PERATURAN-PERATURAN DEWAN PERTAHANAN NEGARA NO. 5, 7 JO 31, 8, 9, 11 DAN 16",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 32,
+		"Tahun_peraturan" : 1947,
+		"Tentang" : "MEMUSATKAN SEGALA URUSAN SEKOLAH-SEKOLAH LANJUTAN NEGERI PADA KEMENTERIAN PENGAJARAN PENDIDIKAN DAN KEBUDAYAAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 33,
+		"Tahun_peraturan" : 1947,
+		"Tentang" : "KECELAKAAN 1947",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 34,
+		"Tahun_peraturan" : 1947,
+		"Tentang" : "KECELAKAAN PERANG",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 36,
+		"Tahun_peraturan" : 1947,
+		"Tentang" : "SUSUNAN DAN ACARA PENGADILAN TENTARA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 37,
+		"Tahun_peraturan" : 1947,
+		"Tentang" : "MEMPERPANJANG WAKTU BERLAKUNYA PERATURAN-PERATURAN DEWAN PERTAHANAN NEGARA NO. 5, 7 JO. 31, 8, 9, 11 DAN 16",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 38,
+		"Tahun_peraturan" : 1947,
+		"Tentang" : "UNDIAN-UANG NEGARA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 39,
+		"Tahun_peraturan" : 1947,
+		"Tentang" : "PERUBAHAN KITAB UNDANG-UNDANG HUKUM PIDANA TENTARA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 40,
+		"Tahun_peraturan" : 1947,
+		"Tentang" : "PERUBAHAN KITAB UNDANG-UNDANG HUKUM DISIPLIN TENTARA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 41,
+		"Tahun_peraturan" : 1947,
+		"Tentang" : "KEPENJARAAN TENTARA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 35,
+		"Tahun_peraturan" : 1947,
+		"Tentang" : "PENGESAHAN PERATURAN PEMERINTAH NO. 21, TAHUN 1947",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 19,
+		"Tahun_peraturan" : 1947,
+		"Tentang" : "PEMBAWAAN UANG DAN LARANGAN TENTANG UANG YANG TIDAK BERLAKU LAGI.",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 1,
+		"Tahun_peraturan" : 1946,
+		"Tentang" : "PERATURAN HUKUM PIDANA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 2,
+		"Tahun_peraturan" : 1946,
+		"Tentang" : "HAL PERATURAN TENTANG BATAS WAKTU PAJAK KOHIR DINYATAKAN TIDAK BERLAKU LAGI",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 4,
+		"Tahun_peraturan" : 1946,
+		"Tentang" : "PINJAMAN DALAM-NEGERI ATAS TANGGUNGAN NEGARA UNTUK USAHA PEMBANGUNAN NEGARA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 5,
+		"Tahun_peraturan" : 1946,
+		"Tentang" : "PERATURAN TENTANG PENETAPAN TARIP PAJAK PENDAPATAN TAHUN 1946/1947 DAN TAMBAHAN PAJAK",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 6,
+		"Tahun_peraturan" : 1946,
+		"Tentang" : "KEADAAN BAHAYA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 7,
+		"Tahun_peraturan" : 1946,
+		"Tentang" : "PENGADILAN TENTARA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 8,
+		"Tahun_peraturan" : 1946,
+		"Tentang" : "PERATURAN HUKUM ACARA PIDANA GUNA PENGADILAN TENTARA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 9,
+		"Tahun_peraturan" : 1946,
+		"Tentang" : "PINJAMAN NASIONAL",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 10,
+		"Tahun_peraturan" : 1946,
+		"Tentang" : "PEMBAWAAN UANG DARI SATU KE LAIN DAERAH",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 11,
+		"Tahun_peraturan" : 1946,
+		"Tentang" : "PERATURAN TENTANG MENGADAKAN PERUBAHAN DALAM PERATURAN BEA METERAI QUOTZEGELVERORDENINGQUOT 1921",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 12,
+		"Tahun_peraturan" : 1946,
+		"Tentang" : "PEMBAHARUAN SUSUNAN KOMITE NASIONAL PUSAT",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 13,
+		"Tahun_peraturan" : 1946,
+		"Tentang" : "PENGHAPUSAN DESA-DESA PERDIKAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 14,
+		"Tahun_peraturan" : 1946,
+		"Tentang" : "PEMILIHAN KEPALA DESA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 15,
+		"Tahun_peraturan" : 1946,
+		"Tentang" : "TAMBAHAN POKOK PAJAK BUMI 1946 1947",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 16,
+		"Tahun_peraturan" : 1946,
+		"Tentang" : "PERNYATAAN KEADAAN BAHAYA DI SELURUH INDONESIA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 17,
+		"Tahun_peraturan" : 1946,
+		"Tentang" : "PENGELUARAN UANG REPUBLIK INDONESIA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 18,
+		"Tahun_peraturan" : 1946,
+		"Tentang" : "PERATURAN TENTANG KEWAJIBAN MENYIMPAN UANG DALAM BANK",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 19,
+		"Tahun_peraturan" : 1946,
+		"Tentang" : "PENGELUARAN UANG REPUBLIK INDONESIA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 20,
+		"Tahun_peraturan" : 1946,
+		"Tentang" : "HUKUMAN TUTUPAN",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 21,
+		"Tahun_peraturan" : 1946,
+		"Tentang" : "CUKAI TEMBAKAU",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 22,
+		"Tahun_peraturan" : 1946,
+		"Tentang" : "PENCATATAN NIKAH, TALAK DAN RUJUK",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 23,
+		"Tahun_peraturan" : 1946,
+		"Tentang" : "PENGESAHAN PERATURAN PEMERINTAH PENGGANTI UNDANG UNDANG NO. 9 TAHUN 1946",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 24,
+		"Tahun_peraturan" : 1946,
+		"Tentang" : "PENGESAHAN PERATURAN PEMERINTAH PENGGANTI UNDANG UNDANG TAHUN 1946 NO. 10",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 3,
+		"Tahun_peraturan" : 1946,
+		"Tentang" : "PERATURAN TENTANG WARGA NEGARA DAN PENDUDUK NEGARA",
+		"link_hover" : ""
+	}
+	{
+		"Jenis" : "UU",
+		"Nomor_Peraturan" : 1,
+		"Tahun_peraturan" : 1945,
+		"Tentang" : "PERATURAN MENGENAI KEDUDUKAN KOMITE NASIONAL DAERAH",
 		"link_hover" : ""
 	}
 ]
