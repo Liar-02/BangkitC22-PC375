@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Tanya Hukum</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="search">Search</string>
+    <string name="cari_peraturan">Cari peraturan (nomor/tahun/tentang)</string>
+    <string name="chatbot">chatbot</string>
+    <string name="jenis_peraturan">Jenis Peraturan</string>
+    <string name="peraturan_pusat">Peraturan Pusat</string>
+    <string name="peraturan_menteri">Peraturan Menteri</string>
+    <string name="peraturan_lpnk">Peraturan Lpnk</string>
+    <string name="peraturan_daerah">Peraturan Daerah</string>
+    <string name="penjelasan">Penjelasan</string>
+    <string name="info_peraturan_pusat">Info Peraturan Pusat</string>
+    <string name="info_peraturan_menteri">Info Peraturan Menteri</string>
+    <string name="info_peraturan_LPNK">Info Peraturan LPNK</string>
+    <string name="info_peraturan_daerah">Info Peraturan Daerah</string>
+    <string name="start_the_journey">Start the Journey</string>
+    <string name="lorem_ipsum_dulum">lorem ipsum dulum lorem ipsum dulum lorem ipsum dulum lorem ipsum dulum lorem ipsum dulum lorem ipsum dulum lorem ipsum dulum lorem ipsum dulum lorem ipsum dulum lorem ipsum dulum lorem ipsum dulum lorem ipsum dulum lorem ipsum dulum lorem ipsum dulum lorem ipsum dulum lorem ipsum dulum lorem ipsum dulum lorem ipsum dulum lorem ipsum dulum lorem ipsum dulum</string>
+    <string name="data_peraturan">Data Peraturan</string>
+    <string name="title">Title</string>
+    <string name="jenis">jenis</string>
+    <string name="nomor">nomor</string>
+    <string name="tahun">tahun</string>
+    <string name="tentang">tentang</string>
+    <string name="ketik_pesan">Ketik Pesan</string>
+    <string name="kirim">Kirim</string>
+    <string name="pesan_dari_bot">pesan dari bot</string>
+    <string name="pesan_dari_user">Pesan dari User</string>
+    <string name="penjelasan_perpu">Peraturan pusat adalah peraturan yang dibuat oleh pemerintah pusat, dan berlaku untuk seluruh warga negara Indonesia secara keseluruhan. UUD 1945, ketetapan MPR, undang-undang, peraturan pemerintah, keputusan presiden, dan peraturan pelaksana lainnya merupakan atau termasuk peraturan pusat</string>
+    <string name="penjelasan_permen">Peraturan Menteri Luar Negeri, yang selanjutnya disebut Peraturan Menteri adalah peraturan perundang-undangan yang ditetapkan oleh Menteri Luar Negeri untuk menjalankan peraturan perundang- undangan yang lebih tinggi atau berdasarkan kewenangan yang bersifat mengatur dan mengikat secara umum</string>
+    <string name="penjelasan_perlpnk">Lembaga Pemerintah Nonkementerian (disingkat LPNK), dahulu bernama Lembaga Pemerintah Nondepartemen (LPND), adalah lembaga negara di Indonesia yang dibentuk untuk melaksanakan tugas pemerintahan tertentu dari Presiden. Kepala LPNK berada di bawah dan bertanggung jawab langsung kepada presiden melalui menteri atau pejabat setingkat menteri yang mengoordinasikan</string>
+    <string name="penjelasan_perda">Peraturan perundang-undangan yang dibentuk oleh Dewan Perwakilan Rakyat Daerah dengan persetujuan bersama Kepala Daerah. Definisi lain adalah peraturan perundang-undangan yang dibentuk bersama oleh Dewan Perwakilan Rakyat Daerah dengan Kepala Daerah baik di Propinsi maupun di Kabupaten/Kota</string>
+</resources>
