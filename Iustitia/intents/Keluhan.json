@@ -1,0 +1,38 @@
+{
+  "id": "74df4be0-d072-45e8-803a-fdbb83638757",
+  "name": "Keluhan",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Silahkan tulis kritik dan saran anda",
+            "Silahkan ungkapkan pikiran anda.",
+            "Apa yang bisa kami perbaiki?",
+            "Apa yang bisa kami lakukan agar bisa lebih baik lagi?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

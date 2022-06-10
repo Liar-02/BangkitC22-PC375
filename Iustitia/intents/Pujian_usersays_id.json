@@ -1,0 +1,115 @@
+[
+  {
+    "id": "1201aa76-dcf9-4f01-bba1-0624c72c13fe",
+    "data": [
+      {
+        "text": "Terima kasih telah membantu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "4f687467-e4ab-4a21-869d-17355ede04fc",
+    "data": [
+      {
+        "text": "kamu",
+        "meta": "@sys.language",
+        "alias": "language",
+        "userDefined": false
+      },
+      {
+        "text": " sangat hebat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "82e04d26-6196-42e5-b58d-afa346b72d8c",
+    "data": [
+      {
+        "text": "Terima kasih saran nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "22c7b758-9c49-4616-879c-830d1aa71810",
+    "data": [
+      {
+        "text": "Terima kasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "10891331-ef50-4858-beb7-2fd33e470a62",
+    "data": [
+      {
+        "text": "kamu punya selera yang bagus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "cb0537c1-aacf-493f-9879-5610564e5005",
+    "data": [
+      {
+        "text": "wah",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": " kamu luar biasa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "906c579f-6d70-4fd2-ac7f-22e07ece470e",
+    "data": [
+      {
+        "text": "Kau sangat ",
+        "userDefined": false
+      },
+      {
+        "text": "pintar",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": " Iustitia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

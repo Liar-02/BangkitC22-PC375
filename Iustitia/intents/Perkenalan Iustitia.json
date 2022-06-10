@@ -1,0 +1,53 @@
+{
+  "id": "fb3d24fe-ec1c-49c3-82ca-e49c3b39b12b",
+  "name": "Perkenalan Iustitia",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2902fad4-fa2f-4e79-8771-f3060fa4ae1c",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Iustitia atau bisa dipanggil Yustisia adalah Lady of justice yang merupakan dewi keadilan romawi.",
+            "Kamu bisa menemukan ku di lambang hukum bersama dengan simbol timbangan",
+            "Iustitia disini sebagai robot yang membantu anda menyelesaikan masalah dalam bidang hukum.",
+            "Iustitia bisa memberikan solusi hukum sesuai dengan Undang-Undang yang berlaku di Indonesia.\nIustitia juga bisa menerima keluhan anda seputar kebijakan atau peraturan yang ditetapkan pemerintah."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

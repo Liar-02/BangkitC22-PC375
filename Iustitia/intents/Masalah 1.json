@@ -1,0 +1,67 @@
+{
+  "id": "585ddbb1-de04-414e-94fb-c8941f6a7a0a",
+  "name": "Masalah 1",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f3bdb756-0a93-4d65-943a-022734f1a59b",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "0f7c2565-a286-476c-888b-5a258d526aca",
+          "name": "ordinal",
+          "required": false,
+          "dataType": "@sys.ordinal",
+          "value": "$ordinal",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Di Indonesia Paten di atur dalam UU no.14 tahun 2001 tentang paten.",
+            "Menurut peraturan undang-undang yang berlaku yakni Nomor 14 Tahun 2001 inventor yang memiliki hak paten akan suatu produk atau gagasan, memiliki kuasa penuh dan dapat memproses oknum yang melakukan plagiat, menyebarkan dan memperjualbelikan produk yang dipatenkan tersebut ke jalur hukum sesuai dengan dasar hukum hak paten.",
+            "Dalam UU no.20 tahun 2008 mengatur tentang usaha mikro, kecil dan menengah perlu diberdayakan sebagai bagian integral ekonomi rakyat yang mempunyai kedudukan, peran, dan potensi strategis untuk mewujudkan struktur perekonomian nasional yang makin seimbang, berkembang, dan berkeadilan.",
+            "Dalam UU no.3 tahun 1982 mengatur tentang wajib daftar perushaan"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

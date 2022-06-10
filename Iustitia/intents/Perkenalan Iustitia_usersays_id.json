@@ -1,0 +1,77 @@
+[
+  {
+    "id": "64adab89-5f06-4833-9970-ec704726e2d0",
+    "data": [
+      {
+        "text": "kamu bisa apa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "df5e13e6-18b3-40a1-ac81-8394b8319653",
+    "data": [
+      {
+        "text": "apa yang bisa kamu lakukan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "37ae0853-f6c4-404f-b996-25667ae60aae",
+    "data": [
+      {
+        "text": "kamu siapa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "9f04dbf0-7262-4c64-9166-0516ff1aa732",
+    "data": [
+      {
+        "text": "siapa ",
+        "userDefined": false
+      },
+      {
+        "text": "Iustitia",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "528a27f0-abc8-4ee6-95b5-3ac2ecfac012",
+    "data": [
+      {
+        "text": "apa itu Iustitia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

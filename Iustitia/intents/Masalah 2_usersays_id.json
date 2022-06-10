@@ -1,0 +1,89 @@
+[
+  {
+    "id": "fe40d013-50bd-4df6-9d7d-631d061cfc05",
+    "data": [
+      {
+        "text": "saya menemui daerah yang rasis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "20e122c5-d3a5-48a5-bf6e-5b139ff9535b",
+    "data": [
+      {
+        "text": "apa yang akan terjadi jika terjadi konflik di masyarakat ",
+        "userDefined": false
+      },
+      {
+        "text": "sekitar",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " kita",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "59711b58-7b9a-4b10-bd18-f22d8efbdef7",
+    "data": [
+      {
+        "text": "bagaimana cara menangani konflik sosial di masyarakat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "f533c960-f406-47e3-8a42-f51df4b1f4ca",
+    "data": [
+      {
+        "text": "desa saya",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " mengalami konflik dengan ",
+        "userDefined": false
+      },
+      {
+        "text": "desa sebelah",
+        "meta": "@sys.location",
+        "alias": "location1",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "970b70ba-984b-4462-98b2-2ba9e4c255bf",
+    "data": [
+      {
+        "text": "saya mempunyai masalah dengan daerah sebelah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

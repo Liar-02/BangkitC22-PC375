@@ -1,0 +1,65 @@
+{
+  "id": "8861efe4-8be3-430a-9916-5bea8788033c",
+  "name": "Masalah 2",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b10c1073-efc6-48fa-9714-11cd77e7eaff",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "fb228662-fbdc-4e4a-919b-a5fda6819101",
+          "name": "location1",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location1",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Dalam UU no.7 tahun 2012 mengatur tentang penanganan konflik sosial.",
+            "Keanekaragaman suku, agama, ras, dan budaya Indonesia dengan jumlah penduduk lebih dari 230 juta jiwa, pada satu sisi merupakan suatu kekayaan bangsa yang secara langsung ataupun tidak langsung dapat memberikan kontribusi positif bagi upaya menciptakan kesejahteraan masyarakat. Namun pada sisi lain, kondisi tersebut dapat membawa dampak buruk bagi kehidupan nasional apabila terdapat ketimpangan pembangunan, ketidakadilan dan kesenjangan sosial dan ekonomi, serta ketidakterkendalian dinamika kehidupan politik. Hal itu di atur dalam UU no.7 tahun 2012."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

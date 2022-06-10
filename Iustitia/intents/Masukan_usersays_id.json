@@ -1,0 +1,34 @@
+[
+  {
+    "id": "77dfdb47-295c-4ac1-8cd9-0ad60f300a9b",
+    "data": [
+      {
+        "text": "seharusnya ",
+        "userDefined": false
+      },
+      {
+        "text": "pemerintah",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "278962c4-d263-4b1f-9eb8-6a9a94ae0063",
+    "data": [
+      {
+        "text": "bagaimana jika negara membuat hukum tentang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "id": "db36a7a6-73e0-4ca4-9019-79fb82bed27c",
+    "data": [
+      {
+        "text": "aku ingin tahu bagaimana peraturan tentang ",
+        "userDefined": false
+      },
+      {
+        "text": "Usaha",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "dbc33c20-9355-45ef-9109-702ad163f3ac",
+    "data": [
+      {
+        "text": "saya hanya ingin membuat ",
+        "userDefined": false
+      },
+      {
+        "text": "usaha",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " kecil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "23b490cd-bbcd-4dad-b724-1377749a8949",
+    "data": [
+      {
+        "text": "apa yang ",
+        "userDefined": false
+      },
+      {
+        "text": "pertama",
+        "meta": "@sys.ordinal",
+        "alias": "ordinal",
+        "userDefined": false
+      },
+      {
+        "text": " perlu disiapkan untuk membangun ",
+        "userDefined": false
+      },
+      {
+        "text": "usaha",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "0d34c661-9487-4d92-9a1f-43bd11935efa",
+    "data": [
+      {
+        "text": "saya ingin mendirikan ",
+        "userDefined": false
+      },
+      {
+        "text": "perusahaan",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "d8d6fb74-811a-405c-8d13-cb45d626e518",
+    "data": [
+      {
+        "text": "saya ingin membuat sebuah ",
+        "userDefined": false
+      },
+      {
+        "text": "usaha",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "a66c9714-73aa-4ecd-a03f-7adfce2921b7",
+    "data": [
+      {
+        "text": "Saya mempunyai ide untuk membuat ",
+        "userDefined": false
+      },
+      {
+        "text": "usaha",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": ", apa ada yang harus saya siapkan atau butuhkan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

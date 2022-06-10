@@ -1,0 +1,93 @@
+[
+  {
+    "id": "edea57c1-7457-4871-8d88-6effb36e713c",
+    "data": [
+      {
+        "text": "Apa kau bisa membantu ku?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "e8d90ae1-f41d-494e-be76-7fc453c25f28",
+    "data": [
+      {
+        "text": "Aku punya pertanyaan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "40a49e3a-e263-4fcd-84fb-fb06ed22f48b",
+    "data": [
+      {
+        "text": "saya mau bertanya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "bf2456b0-160c-4587-8c45-89976ec7dc31",
+    "data": [
+      {
+        "text": "saya butuh bantuan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "d2f29cb3-2f8e-46dc-87c8-1bab941e23ec",
+    "data": [
+      {
+        "text": "Ada yang mau saya tanyakan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "9bdd8780-bee0-4211-aae4-1ba436cfaa76",
+    "data": [
+      {
+        "text": "aku punya masalah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "4f906c40-a1f2-4eff-b5bb-09dd9ba38651",
+    "data": [
+      {
+        "text": "Saya ada masalah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

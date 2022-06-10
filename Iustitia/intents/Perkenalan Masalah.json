@@ -1,0 +1,43 @@
+{
+  "id": "13fb689e-f32f-4b15-9b77-24b05c39eac4",
+  "name": "Perkenalan Masalah",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Silahkan deskripsikan masalah anda",
+            "Bisa dijelaskan masalah nya?",
+            "Iustitia ingin sekali mendengar cerita anda",
+            "Ada masalah apa? Iustitia siap membantu",
+            "Tolong jelaskan lebih rinci permasalahan anda"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "Problem"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
