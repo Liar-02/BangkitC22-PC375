@@ -2,6 +2,8 @@
     <string name="app_name">Tanya Hukum</string>
     <string name="title_activity_home">HomeActivity</string>
     <string name="search">Search</string>
+    <string name="logout">Logout</string>
+    <string name="search_hint">Cari peraturan (nomor/tahun/tentang)</string>
     <string name="cari_peraturan">Cari peraturan (nomor/tahun/tentang)</string>
     <string name="chatbot">chatbot</string>
     <string name="jenis_peraturan">Jenis Peraturan</string>
@@ -15,7 +17,6 @@
     <string name="info_peraturan_LPNK">Info Peraturan LPNK</string>
     <string name="info_peraturan_daerah">Info Peraturan Daerah</string>
     <string name="start_the_journey">Start the Journey</string>
-    <string name="lorem_ipsum_dulum">lorem ipsum dulum lorem ipsum dulum lorem ipsum dulum lorem ipsum dulum lorem ipsum dulum lorem ipsum dulum lorem ipsum dulum lorem ipsum dulum lorem ipsum dulum lorem ipsum dulum lorem ipsum dulum lorem ipsum dulum lorem ipsum dulum lorem ipsum dulum lorem ipsum dulum lorem ipsum dulum lorem ipsum dulum lorem ipsum dulum lorem ipsum dulum lorem ipsum dulum</string>
     <string name="data_peraturan">Data Peraturan</string>
     <string name="title">Title</string>
     <string name="jenis">jenis</string>

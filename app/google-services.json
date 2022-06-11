@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "936978830596",
+    "project_id": "tanya-hukum-21e88",
+    "storage_bucket": "tanya-hukum-21e88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936978830596:android:a3ef22b619556e905fec51",
+        "android_client_info": {
+          "package_name": "com.dicoding.tanyahukum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936978830596-fj9hatns9absl43870ra3ce208ukqtdo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrGHqdKsdJwP0MSd5CkoU_JTz_hPMAXXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936978830596-fj9hatns9absl43870ra3ce208ukqtdo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

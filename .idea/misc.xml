@@ -3,11 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidStudio/TanyaHukum/app/src/main/res/drawable/bg_chat_receive.xml" value="0.146" />
+        <entry key="..\:/AndroidStudio/TanyaHukum/app/src/main/res/drawable/border_outline.xml" value="0.146" />
+        <entry key="..\:/AndroidStudio/TanyaHukum/app/src/main/res/drawable/ic_baseline_logout_24.xml" value="0.146" />
         <entry key="..\:/AndroidStudio/TanyaHukum/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.1345" />
         <entry key="..\:/AndroidStudio/TanyaHukum/app/src/main/res/drawable/receive_round_box.xml" value="0.146" />
         <entry key="..\:/AndroidStudio/TanyaHukum/app/src/main/res/drawable/round_button.xml" value="0.146" />
         <entry key="..\:/AndroidStudio/TanyaHukum/app/src/main/res/drawable/send_round_box.xml" value="0.146" />
-        <entry key="..\:/AndroidStudio/TanyaHukum/app/src/main/res/layout/activity_chat_bot.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudio/TanyaHukum/app/src/main/res/layout/activity_chat_bot.xml" value="0.18" />
         <entry key="..\:/AndroidStudio/TanyaHukum/app/src/main/res/layout/activity_detail.xml" value="0.20416666666666666" />
         <entry key="..\:/AndroidStudio/TanyaHukum/app/src/main/res/layout/activity_detail_desc.xml" value="0.25" />
         <entry key="..\:/AndroidStudio/TanyaHukum/app/src/main/res/layout/activity_detail_perda.xml" value="0.20416666666666666" />
@@ -16,7 +19,10 @@
         <entry key="..\:/AndroidStudio/TanyaHukum/app/src/main/res/layout/activity_detail_perpu.xml" value="0.22" />
         <entry key="..\:/AndroidStudio/TanyaHukum/app/src/main/res/layout/activity_home.xml" value="0.20102564102564102" />
         <entry key="..\:/AndroidStudio/TanyaHukum/app/src/main/res/layout/activity_list_view.xml" value="0.18" />
+        <entry key="..\:/AndroidStudio/TanyaHukum/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
         <entry key="..\:/AndroidStudio/TanyaHukum/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudio/TanyaHukum/app/src/main/res/layout/activity_splash_screen.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudio/TanyaHukum/app/src/main/res/layout/adapter_message_one.xml" value="0.20416666666666666" />
         <entry key="..\:/AndroidStudio/TanyaHukum/app/src/main/res/layout/content_home.xml" value="0.20102564102564102" />
         <entry key="..\:/AndroidStudio/TanyaHukum/app/src/main/res/layout/fragment_first.xml" value="0.20102564102564102" />
         <entry key="..\:/AndroidStudio/TanyaHukum/app/src/main/res/layout/fragment_second.xml" value="0.20416666666666666" />

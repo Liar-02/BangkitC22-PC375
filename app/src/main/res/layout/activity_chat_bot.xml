@@ -1,59 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".ui.chatbot.ChatBotActivity">
 
-    <LinearLayout
-        android:id="@+id/ll_layout_bar"
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/constraintLayout"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:background="@color/grey"
-        android:orientation="horizontal">
+        android:layout_margin="10dp"
+        android:background="@drawable/border_outline"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/scrollView"
+        app:layout_constraintStart_toStartOf="parent">
 
         <EditText
-            android:id="@+id/et_message"
-            android:inputType="textShortMessage"
-            android:layout_width="match_parent"
+            android:id="@+id/editMessage"
+            android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_margin="10dp"
-            android:layout_weight=".5"
-            android:background="@drawable/round_button"
-            android:backgroundTint="@android:color/white"
-            android:hint="@string/ketik_pesan"
+            android:ems="10"
+            android:inputType="textPersonName"
             android:padding="10dp"
-            android:singleLine="true" />
+            android:hint="@string/ketik_pesan"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/btnSend"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
 
-        <Button
-            android:id="@+id/btn_send"
+        <ImageButton
+            android:id="@+id/btnSend"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:background="@drawable/border_outline"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@android:drawable/ic_media_play"
+            app:tint="#43A047" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="match_parent"
+        android:layout_height="538dp"
+        app:layout_constraintBottom_toTopOf="@+id/constraintLayout"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
+        app:stackFromEnd="true">
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/chatView"
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:layout_margin="10dp"
-            android:layout_weight="1"
-            android:background="@drawable/round_button"
-            android:backgroundTint="#26A69A"
-            android:text="@string/kirim"
-            android:textColor="@android:color/white" />
+            android:layout_height="0dp"
+            android:orientation="vertical"
+            app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+            app:layout_constraintBottom_toTopOf="@id/constraintLayout"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:stackFromEnd="true"
+            tools:layout_editor_absoluteY="1dp"
+            tools:listitem="@layout/adapter_message_one" />
+    </ScrollView>
 
-    </LinearLayout>
-
-    <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/rv_messages"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_above="@id/ll_layout_bar"
-        android:layout_below="@+id/dark_divider"
-        tools:itemCount="20"
-        tools:listitem="@layout/message_item" />
-
-    <View
-        android:id="@+id/dark_divider"
-        android:layout_width="match_parent"
-        android:layout_height="10dp"
-        android:background="@color/grey" />
-
-
-</RelativeLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
