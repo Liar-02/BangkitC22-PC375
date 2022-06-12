@@ -13272,4 +13272,1942 @@
 		"Tentang" : "PENCABUTAN MENGALIRNYA UANG LAMA KE DAERAH LUAR JAWA",
 		"link_hover" : ""
 	}
+	
+	//Peraturan pusat PP
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 1,
+		"Tahun_peraturan" : 2022,
+		"Tentang" : "REGISTER NASIONAL DAN PELESTARIAN CAGAR BUDAYA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2022/pp1-2022bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 3,
+		"Tahun_peraturan" : 2022,
+		"Tentang" : "PEMBERIAN FASILITAS PEMBEBASAN DARI PENGENAAN BEA METERAI",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2022/pp3-2022bt.pdf"
+	}
+		
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 4,
+		"Tahun_peraturan" : 2022,
+		"Tentang" : "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 57 TAHUN 2021 TENTANG STANDAR NASIONAL PENDIDIKAN",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2022/pp4-2022pjl.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 7,
+		"Tahun_peraturan" : 2022,
+		"Tentang" : "PENAMBAHAN PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE DALAM MODAL SAHAM PERUSAHAAN PERSEROAN (PERSERO) PT DANAREKSA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2022/pp7-2022.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 8,
+		"Tahun_peraturan" : 2022,
+		"Tentang" : "KOORDINASI PENYELENGGARAAN IBADAH HAJI",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2022/pp8-2022bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 9,
+		"Tahun_peraturan" : 2022,
+		"Tentang" : "PERUBAHAN KEDUA ATAS PERATURAN PEMERINTAH NOMOR 51 TAHUN 2008 TENTANG PAJAK PENGHASILAN ATAS PENGHASILAN DARI USAHA JASA KONSTRUKSI",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2022/pp9-2022pjl.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 12,
+		"Tahun_peraturan" : 2022,
+		"Tentang" : "FORUM KOORDINASI PIMPINAN DI DAERAH",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2022/pp12-2022bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 13,
+		"Tahun_peraturan" : 2022,
+		"Tentang" : "PENYELENGGARAAN KEAMANAN, KESELAMATAN, DAN PENEGAKAN HUKUM DI WILAYAH PERAIRAN INDONESIA DAN WILAYAH YURISDIKSI INDONESIA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2022/pp13-2022bt.pdf"
+	}
+		
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 14,
+		"Tahun_peraturan" : 2022,
+		"Tentang" : "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 12 TAHUN 2016 TENTANG PENGHASILAN, HAK LAINNYA, DAN PERLINDUNGAN KEAMANAN BAGI PIMPINAN LEMBAGA PERLINDUNGAN SAKSI DAN KORBAN",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2022/pp14-2022pjl.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 19,
+		"Tahun_peraturan" : 2022,
+		"Tentang" : "DEKONSENTRASI DAN TUGAS PEMBANTUAN",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2022/pp19-2022pjl.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 1,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "TATA CARA PEMERIKSAAN PENERIMAAN NEGARA BUKAN PAJAK",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp1-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 2,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PENYELENGGARAAN NAMA RUPABUMI",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp2-2021bt.pdf"
+	}
+		
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 3,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PERATURAN PELAKSANAAN UNDANG-UNDANG NOMOR 23 TAHUN 2019 TENTANG PENGELOLAAN SUMBER DAYA NASIONAL UNTUK PERTAHANAN NEGARA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp3-2021pjl.pdf"
+	}
+		
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 4,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 45 TAHUN 2010 TENTANG PENGHASILAN, UANG KEHORMATAN, DAN HAK-HAK LAIN KETUA, WAKIL KETUA, DAN ANGGOTA OMBUDSMAN REPUBLIK INDONESIA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp4-2021.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 5,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PENYELENGGARAAN PERIZINAN BERUSAHA BERBASIS RISIKO",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp5-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 7,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "KEMUDAHAN, PELINDUNGAN, DAN PEMBERDAYAAN KOPERASI DAN USAHA MIKRO, KECIL, DAN MENENGAH",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp7-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 8,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "MODAL DASAR PERSEROAN SERTA PENDAFTARAN PENDIRIAN, PERUBAHAN, DAN PEMBUBARAN PERSEROAN YANG MEMENUHI KRITERIA UNTUK USAHA MIKRO DAN KECIL",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp8-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 9,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PERLAKUAN PERPAJAKAN UNTUK MENDUKUNG KEMUDAHAN BERUSAHA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp9-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 10,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PAJAK DAERAH DAN RETRIBUSI DAERAH DALAM RANGKA MENDUKUNG KEMUDAHAN BERUSAHA DAN LAYANAN DAERAH",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp10-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 11,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "BADAN USAHA MILIK DESA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp11-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 12,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 14 TAHUN 2016 TENTANG PENYELENGGARAAN PERUMAHAN DAN KAWASAN PERMUKIMAN",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp12-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 13,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PENYELENGGARAAN RUMAH SUSUN",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp13-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 14,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 22 TAHUN 2020 TENTANG PERATURAN PELAKSANAAN UNDANG-UNDANG NOMOR 2 TAHUN 2017 TENTANG JASA KONSTRUKSI",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp14-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 15,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PERATURAN PELAKSANAAN UNDANG-UNDANG NOMOR 6 TAHUN 2017 TENTANG ARSITEK",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp15-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 16,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PERATURAN PELAKSANAAN UNDANG-UNDANG NOMOR 28 TAHUN 2002 TENTANG BANGUNAN GEDUNG",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp16-2021pjl.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 17,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PERATURAN PELAKSANAAN UNDANG-UNDANG NOMOR 28 TAHUN 2002 TENTANG BANGUNAN GEDUNGPERUBAHAN KEEMPAT ATAS PERATURAN PEMERINTAH NOMOR 15 TAHUN 2005 TENTANG JALAN TOL",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp17-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 18,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "HAK PENGELOLAAN, HAK ATAS TANAH, SATUAN RUMAH SUSUN, DAN PENDAFTARAN TANAH",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp18-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 19,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PENYELENGGARAAN PENGADAAN TANAH BAGI PEMBANGUNAN UNTUK KEPENTINGAN UMUM",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp19-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 20,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PENERTIBAN KAWASAN DAN TANAH TELANTAR",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp20-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 21,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PENYELENGGARAAN PENATAAN RUANG",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp21-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 23,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PENYELENGGARAAN KEHUTANAN",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp23-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 24,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "TATA CARA PENGENAAN SANKSI ADMINISTRATIF DAN TATA CARA PENERIMAAN NEGARA BUKAN PAJAK YANG BERASAL DARI DENDA ADMINISTRATIF DI BIDANG KEHUTANAN",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp24-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 25,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PENYELENGGARAAN BIDANG ENERGI DAN SUMBER DAYA MINERAL",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp25-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 26,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PENYELENGGARAAN BIDANG PERTANIAN",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp26-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 27,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PENYELENGGARAAN BIDANG KELAUTAN DAN PERIKANAN",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp27-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 28,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PENYELENGGARAAN BIDANG PERINDUSTRIAN",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp28-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 29,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PENYELENGGARAAN BIDANG PERDAGANGAN",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp29-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 30,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PENYELENGGARAAN BIDANG LALU LINTAS DAN ANGKUTAN JALAN",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp30-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 31,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PENYELENGGARAAN BIDANG PELAYARAN",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp31-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 32,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PENYELENGGARAAN BIDANG PENERBANGAN",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp32-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 33,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PENYELENGGARAAN BIDANG PERKERETAAPIAN",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp33-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 34,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PENGGUNAAN TENAGA KERJA ASING",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp34-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 35,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PERJANJIAN KERJA WAKTU TERTENTU, ALIH DAYA, WAKTU KERJA DAN WAKTU ISTIRAHAT, DAN PEMUTUSAN HUBUNGAN KERJA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp35-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 36,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PENGUPAHAN",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp36-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 37,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PENYELENGGARAAN PROGRAM JAMINAN KEHILANGAN PEKERJAAN",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp37-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 38,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "REKENING PENAMPUNGAN BIAYA PERJALANAN IBADAH UMRAH",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp38-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 39,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PENYELENGGARAAN BIDANG JAMINAN PRODUK HALAL",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp39-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 40,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PENYELENGGARAAN KAWASAN EKONOMI KHUSUS",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp40-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 41,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PENYELENGGARAAN KAWASAN PERDAGANGAN BEBAS DAN PELABUHAN BEBAS",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp41-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 42,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "KEMUDAHAN PROYEK STRATEGIS NASIONAL",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp42-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 43,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PENYELESAIAN KETIDAKSESUAIAN TATA RUANG, KAWASAN HUTAN, IZIN, DAN/ATAU HAK ATAS TANAH",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp43-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 59,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PELAKSANAAN PELINDUNGAN PEKERJA MIGRAN INDONESIA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp59-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 45,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PENYELENGGARAAN INFORMASI GEOSPASIAL",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp45-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 46,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "POS, TELEKOMUNIKASI, DAN PENYIARAN",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp46-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 47,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PENYELENGGARAAN BIDANG PERUMAHSAKITAN",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp47-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 48,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PERUBAHAN KETIGA ATAS PERATURAN PEMERINTAH NOMOR 31 TAHUN 2013 TENTANG PERATURAN PELAKSANAAN UNDANG-UNDANG NOMOR 6 TAHUN 2011 TENTANG KEIMIGRASIAN",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp48-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 49,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PERLAKUAN PERPAJAKAN ATAS TRANSAKSI YANG MELIBATKAN LEMBAGA PENGELOLA INVESTASI DAN/ATAU ENTITAS YANG DIMILIKINYA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp49-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 51,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PENAMBAHAN PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE DALAM MODAL SAHAM PERUSAHAAN PERSEROAN (PERSERO) PT PERUSAHAAN PENGELOLA ASET",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp51-2021.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 52,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PENAMBAHAN PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE DALAM MODAL SAHAM PERUSAHAAN PERSEROAN (PERSERO) PT ASDP INDONESIA FERRY",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp52-2021.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 53,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "TRANSPLANTASI ORGAN DAN JARINGAN TUBUH",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp53-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 54,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "JENIS DAN TARIF ATAS JENIS PENERIMAAN NEGARA BUKAN PAJAK YANG BERLAKU PADA KEMENTERIAN PERINDUSTRIAN",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp54-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 55,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PERATURAN PELAKSANAAN UNDANG-UNDANG NOMOR 13 TAHUN 2018 TENTANG SERAH SIMPAN KARYA CETAK DAN KARYA REKAM",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp55-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 56,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PENGELOLAAN ROYALTI HAK CIPTA LAGU DAN/ATAU MUSIK",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp56-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 57,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "STANDAR NASIONAL PENDIDIKAN",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp57-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 58,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 40 TAHUN 2015 TENTANG PENYERAHAN AIR BERSIH YANG DIBEBASKAN DARI PENGENAAN PAJAK PERTAMBAHAN NILAI",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp58-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 60,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "JENIS DAN TARIF ATAS JENIS PENERIMAAN NEGARA BUKAN PAJAK YANG BERLAKU PADA LEMBAGA ADMINISTRASI NEGARA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp60-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 61,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 43 TAHUN 2015 TENTANG PIHAK PELAPOR DALAM PENCEGAHAN DAN PEMBERANTASAN TINDAK PIDANA PENCUCIAN UANG",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp61-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 62,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "JENIS DAN TARIF ATAS JENIS PENERIMAAN NEGARA BUKAN PAJAK YANG BERLAKU PADA LEMBAGA ILMU PENGETAHUAN INDONESIA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp62-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 64,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "BADAN BANK TANAH",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp64-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 65,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PENAMBAHAN PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE DALAM MODAL SAHAM PERUSAHAAN PERSEROAN (PERSERO) PT PERUSAHAAN LISTRIK NEGARA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp65-2021.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 66,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PENAMBAHAN PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE DALAM MODAL SAHAM PERUSAHAAN PERSEROAN (PERSERO) PT BIRO KLASIFIKASI INDONESIA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp66-2021.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 67,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "KAWASAN EKONOMI KHUSUS BATAM AERO TECHNIC",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp67-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 68,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "KAWASAN EKONOMI KHUSUS NONGSA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp68-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 69,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "KAWASAN EKONOMI KHUSUS LIDO",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp69-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 70,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PENYERAHAN BARANG KENA PAJAK TERTENTU YANG BERSIFAT STRATEGIS YANG TIDAK DIPUNGUT PAJAK PERTAMBAHAN NILAI",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp70-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 71,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "KAWASAN EKONOMI KHUSUS GRESIK",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp71-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 72,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 48 TAHUN 1991TENTANG PENGALIHAN BENTUK PERUSAHAAN UMUM (PERUM) SURVAI UDARA (PENAS) MENJADI PERUSAHAAN PERSEROAN (PERSERO)",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp72-2021.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 73,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PENAMBAHAN PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE DALAM MODAL SAHAM PERUSAHAAN PERSEROAN (PERSERO) PT BANK RAKYAT INDONESIA TBK",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp73-2021.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 74,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 73 TAHUN 2019 TENTANG BARANG KENA PAJAK YANG TERGOLONG MEWAH BERUPA KENDARAAN BERMOTOR YANG DIKENAI PAJAK PENJUALAN ATAS BARANG MEWAH",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp74-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 75,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "STATUTA UNIVERSITAS INDONESIA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp75-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 76,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PERUBAHAN BENTUK BADAN HUKUM PERUSAHAAN UMUM (PERUM) PERIKANAN INDONESIA MENJADI PERUSAHAAN PERSEROAN (PERSERO)",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp76-2021.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 77,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PENAMBAHAN PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE DALAM MODAL SAHAM PERUSAHAAN PERSEROAN (PERSERO) PT HUTAMA KARYA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp77-2021.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 78,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PERLINDUNGAN KHUSUS BAGI ANAK",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp78-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 79,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "UPAYA ADMINISTRATIF DAN BADAN PERTIMBANGAN APARATUR SIPIL NEGARA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp79-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 80,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "JENIS DAN TARIF ATAS JENIS PENERIMAAN NEGARA BUKAN PAJAK YANG BERLAKU PADA BADAN PENGAWASAN KEUANGAN DAN PEMBANGUNAN",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp80-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 81,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "JENIS DAN TARIF ATAS JENIS PENERIMAAN NEGARA BUKAN PAJAK YANG BERLAKU PADA BADAN PEMERIKSA KEUANGAN",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp81-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 82,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PERUBAHAN KEEMPAT ATAS PERATURAN PEMERINTAH NOMOR 55 TAHUN 2014 TENTANG HAK KEUANGAN DAN FASILITAS HAKIM AGUNG DAN HAKIM KONSTITUSI",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp82-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 83,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PENAMBAHAN PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE DALAM MODAL SAHAM PERUSAHAAN PERSEROAN (PERSERO) PT PERUSAHAAN LISTRIK NEGARA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp83-2021.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 84,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PENAMBAHAN PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE DALAM MODAL SAHAM PERUSAHAAN PERSEROAN (PERSERO) PT PAL INDONESIA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp84-2021.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 85,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "JENIS DAN TARIF ATAS JENIS PENERIMAAN NEGARA BUKAN PAJAK YANG BERLAKU PADA KEMENTERIAN KELAUTAN DAN PERIKANAN",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp85-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 86,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PENGADAAN, PENGELOLAAN, DAN PENJUALAN METERAI",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp86-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 87,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PERATURAN PELAKSANAAN UNDANG-UNDANG NOMOR 5 TAHUN 2017 TENTANG PEMAJUAN KEBUDAYAAN",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp87-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 88,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PENAMBAHAN PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE DALAM MODAL SAHAM PERUSAHAAN PERSEROAN (PERSERO) PT KAWASAN INDUSTRI WIJAYAKUSUMA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp88-2021.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 89,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 69 TAHUN 2012 TENTANG PERUBAHAN STRUKTUR KEPEMILIKAN SAHAM NEGARA MELALUI PENERBITAN SAHAM BARU PADA PERUSAHAAN PERSEROAN (PERSERO) PT NINDYA KARYA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp89-2021.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 90,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PENAMBAHAN PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE DALAM MODAL SAHAM PERUSAHAAN PERSEROAN (PERSERO) PT SARANA MULTIGRIYA FINANSIAL",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp90-2021.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 91,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PAJAK PENGHASILAN ATAS PENGHASILAN BERUPA BUNGA OBLIGASI YANG DITERIMA ATAU DIPEROLEH WAJIB PAJAK DALAM NEGERI DAN BENTUK USAHA TETAP",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp91-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 92,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PENAMBAHAN PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE DALAM MODAL SAHAM PERUSAHAAN PERSEROAN (PERSERO) PT PELABUHAN INDONESIA III",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp92-2021.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 93,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PERLAKUAN PAJAK PENGHASILAN ATAS PENGALIHAN PARTISIPASI INTERES PADA KEGIATAN USAHA HULU MINYAK DAN GAS BUMI",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp93-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 95,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PERGURUAN TINGGI NEGERI BADAN HUKUM",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp95-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 97,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PENGGABUNGAN PERUSAHAAN PERSEROAN (PERSERO) PT BHANDA GHARA REKSA KE DALAM PERUSAHAAN PERSEROAN (PERSERO) PT PERUSAHAAN PERDAGANGAN INDONESIA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp97-2021.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 98,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PENGGABUNGAN PERUSAHAAN PERSEROAN (PERSERO) PT PERTANI KE DALAM PERUSAHAAN PERSEROAN (PERSERO) PT SANG HYANG SERI",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp98-2021.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 99,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PENGGABUNGAN PERUSAHAAN PERSEROAN (PERSERO) PT PERIKANAN NUSANTARA KE DALAM PERUSAHAAN PERSEROAN (PERSERO) PT PERIKANAN INDONESIA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp99-2021.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 100,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "KONSULTAN KEKAYAAN INTELEKTUAL",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp100-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 101,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PENGGABUNGAN PERUSAHAAN PERSEROAN (PERSERO) PT PELABUHAN INDONESIA I, PERUSAHAAN PERSEROAN (PERSERO) PT PELABUHAN INDONESIA III, DAN PERUSAHAAN PERSEROAN (PERSERO) PT PELABUHAN INDONESIA IV KE DALAM PERUSAHAAN PERSEROAN (PERSERO) PT PELABUHAN INDONESIA II",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp101-2021.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 102,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PENAMBAHAN PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE DALAM MODAL SAHAM PERUSAHAAN PERSEROAN (PERSERO) PT BAHANA PEMBINAAN USAHA INDONESIA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp102-2021.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 103,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PENAMBAHAN PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE DALAM MODAL SAHAM PERUSAHAAN PERSEROAN (PERSERO) PT PERUSAHAAN LISTRIK NEGARA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp103-2021.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 104,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PENAMBAHAN PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE DALAM MODAL SAHAM PERUSAHAAN PERSEROAN (PERSERO) PT AVIASI PARIWISATA INDONESIA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp104-2021.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 106,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "KEWENANGAN DAN KELEMBAGAAN PELAKSANAAN KEBIJAKAN OTONOMI KHUSUS PROVINSI PAPUA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp106-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 107,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PENERIMAAN, PENGELOLAAN, PENGAWASAN, DAN RENCANA INDUK PERCEPATAN PEMBANGUNAN DALAM RANGKA PELAKSANAAN OTONOMI KHUSUS PROVINSI PAPUA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp107-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 108,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PERGURUAN TINGGI NEGERI BADAN HUKUM UNIVERSITAS BRAWIJAYA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp108-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 108,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PERGURUAN TINGGI NEGERI BADAN HUKUM UNIVERSITAS BRAWIJAYA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp108-2021bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 110,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PENAMBAHAN PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE DALAM MODAL LEMBAGA PENGELOLA INVESTASI",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp110-2021.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 111,
+		"Tahun_peraturan" : 2021,
+		"Tentang" : "PENAMBAHAN PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE DALAM MODAL LEMBAGA PENGELOLA INVESTASI",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2021/pp111-2021.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 1,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PENYELENGGARAAN KAWASAN EKONOMI KHUSUS",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp1-2020bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 2,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "JENIS DAN TARIF ATAS JENIS PENERIMAAN NEGARA BUKAN PAJAK YANG BERLAKU PADA KEMENTERIAN SOSIAL",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp2-2020bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 3,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 14 TAHUN 2018 TENTANG KEPEMILIKAN ASING PADA PERUSAHAAN PERASURANSIAN",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp3-2020bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 4,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "TATA CARA PENGANGKATAN KETUA DAN ANGGOTA DEWAN PENGAWAS KOMISI PEMBERANTASAN TINDAK PIDANA KORUPSI",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp4-2020bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 5,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "SISTEM INFORMASI PERDAGANGAN",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp5-2020bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 6,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "BANGUNAN DAN INSTALASI DI LAUT",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp6-2020bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 7,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 17 TAHUN 2007 TENTANG PENYELENGGARAAN PEKAN DAN KEJUARAAN OLAHRAGA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp7-2020bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 8,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 26 TAHUN 2015 TENTANG BENTUK DAN MEKANISME PENDANAAN PERGURUAN TINGGI NEGERI BADAN HUKUM",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp7-2020bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 9,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PENCABUTAN PERATURAN PEMERINTAH NOMOR 40 TAHUN 2005 TENTANG SUSUNAN ORGANISASI, TUGAS, DAN FUNGSI KOMISI BANDING PATEN",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp9-2020bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 10,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "TATA CARA PENEMPATAN PEKERJA MIGRAN INDONESIA OLEH BADAN PELINDUNGAN PEKERJA MIGRAN INDONESIA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp10-2020bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 11,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PERUBAHAN BENTUK BADAN HUKUM PERUSAHAAN UMUM (PERUM) JAMINAN KREDIT INDONESIA MENJADI PERUSAHAAN PERSEROAN (PERSERO)",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp11-2020.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 12,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "FASILITAS DAN KEMUDAHAN DI KAWASAN EKONOMI KHUSUS",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp12-2020bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 13,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "AKOMODASI YANG LAYAK UNTUK PESERTA DIDIK PENYANDANG DISABILITAS",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp13-2020bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 14,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PERUBAHAN NAMA KABUPATEN TOBA SAMOSIR MENJADI KABUPATEN TOBA DI PROVINSI SUMATERA UTARA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp14-2020bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 15,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 18 TAHUN 1973 TENTANG PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA UNTUK PENDIRIAN PERUSAHAAN PERSEROAN DALAM BIDANG PENGEMBANGAN USAHA SWASTA NASIONAL",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp15-2020.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 16,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PENCATATAN CIPTAAN DAN PRODUK HAK TERKAIT",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp16-2020bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 17,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 11 TAHUN 2017 TENTANG MANAJEMEN PEGAWAI NEGERI SIPIL",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp17-2020bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 18,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PENCABUTAN PERATURAN PEMERINTAH NOMOR 34 TAHUN 1991 TENTANG TATA CARA PERMINTAAN PATEN DAN PERATURAN PEMERINTAH NOMOR 11 TAHUN 1993 TENTANG BENTUK DAN ISI SURAT PATEN",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp18-2020bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 19,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "JENIS DAN TARIF ATAS JENIS PENERIMAAN NEGARA BUKAN PAJAK YANG BERLAKU PADA BADAN NARKOTIKA NASIONAL",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp19-2020bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 20,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PENAMBAHAN PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE DALAM MODAL SAHAM PERUSAHAAN PERSEROAN (PERSERO) PT BAHANA PEMBINAAN USAHA INDONESIA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp20-2020.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 21,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PEMBATASAN SOSIAL BERSKALA BESAR DALAM RANGKA PERCEPATAN PENANGANAN CORONA VIRUS DISEASE 2019 (COVID-19)",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp21-2020bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 22,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PERATURAN PELAKSANAAN UNDANG-UNDANG NOMOR 2 TAHUN 2017 TENTANG JASA KONSTRUKSI",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp22-2020bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 23,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PELAKSANAAN PROGRAM PEMULIHAN EKONOMI NASIONAL DALAM RANGKA MENDUKUNG KEBIJAKAN KEUANGAN NEGARA UNTUK PENANGANAN PANDEMI CORONA VIRUS DISEASE 2019 (COVID-19) DAN/ATAU MENGHADAPI ANCAMAN YANG MEMBAHAYAKAN PEREKONOMIAN NASIONAL DAN/ATAU STABILITAS SISTEM KEUANGAN SERTA PENYELAMATAN EKONOMI NASIONAL",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp23-2020bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 24,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PEMBERIAN TUNJANGAN HARI RAYA TAHUN 2020 KEPADA PEGAWAI NEGERI SIPIL, PRAJURIT TENTARA NASIONAL INDONESIA, ANGGOTA KEPOLISIAN NEGARA REPUBLIK INDONESIA, PEGAWAI NONPEGAWAI NEGERI SIPIL, DAN PENERIMA PENSIUN ATAU TUNJANGAN",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp24-2020bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 25,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PENYELENGGARAAN TABUNGAN PERUMAHAN RAKYAT",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp25-2020bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 26,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "REHABILITASI DAN REKLAMASI HUTAN",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp26-2020bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 27,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PENGELOLAAN SAMPAH SPESIFIK",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp27-2020bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 28,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 27 TAHUN 2014 TENTANG PENGELOLAAN BARANG MILIK NEGARA/DAERAH",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp28-2020bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 29,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "FASILITAS PAJAK PENGHASILAN DALAM RANGKA PENANGANAN CORONA VIRUS DISEASE 2019 (COVID-19)",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp29-2020bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 30,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PENURUNAN TARIF PAJAK PENGHASILAN BAGI WAJIB PAJAK BADAN DALAM NEGERI YANG BERBENTUK PERSEROAN TERBUKA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp30-2020bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 31,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PENAMBAHAN PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE DALAM MODAL SAHAM PERUSAHAAN PERSEROAN (PERSERO) PT PERMODALAN NASIONAL MADANI",
+		"link_hover" : "link unavailable"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 32,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PENAMBAHAN PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE DALAM MODAL SAHAM PERUSAHAAN PERSEROAN (PERSERO) PT HUTAMA KARYA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp32-2020.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 33,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PELAKSANAAN KEWENANGAN LEMBAGA PENJAMIN SIMPANAN DALAM RANGKA MELAKSANAKAN LANGKAH-LANGKAH PENANGANAN PERMASALAHAN STABILITAS SISTEM KEUANGAN",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp33-2020bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 34,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PENCABUTAN PERATURAN PEMERINTAH NOMOR 27 TAHUN 2004 TENTANG TATA CARA PELAKSANAAN PATEN OLEH PEMERINTAH",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp34-2020bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 35,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 7 TAHUN 2018 TENTANG PEMBERIAN KOMPENSASI, RESTITUSI, DAN BANTUAN KEPADA SAKSI DAN KORBAN",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp35-2020bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 36,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PENAMBAHAN PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE DALAM MODAL SAHAM PERUSAHAAN PERSEROAN (PERSERO) PT PERUSAHAAN LISTRIK NEGARA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp36-2020.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 37,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PENAMBAHAN PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE DALAM MODAL SAHAM PERUSAHAAN PERSEROAN (PERSERO) PT PERUSAHAAN LISTRIK NEGARA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp37-2020.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 38,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PENAMBAHAN PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE DALAM MODAL SAHAM PERUSAHAAN PERSEROAN (PERSERO) PT ANGKASA PURA II",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp38-2020.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 39,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "AKOMODASI YANG LAYAK UNTUK PENYANDANG DISABILITAS DALAM PROSES PERADILAN",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp39-2020bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 40,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PENAMBAHAN PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE DALAM MODAL LEMBAGA PEMBIAYAAN EKSPOR INDONESIA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp40-2020.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 41,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PENGALIHAN PEGAWAI KOMISI PEMBERANTASAN TINDAK PIDANA KORUPSI MENJADI PEGAWAI APARATUR SIPIL NEGARA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp41-2020.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 42,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PAKSESIBILITAS TERHADAP PERMUKIMAN, PELAYANAN PUBLIK, DAN PELINDUNGAN DARI BENCANA BAGI PENYANDANG DISABILITAS",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp42-2020bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 43,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 23 TAHUN 2020 TENTANG PELAKSANAAN PROGRAM PEMULIHAN EKONOMI NASIONAL DALAM RANGKA MENDUKUNG KEBIJAKAN KEUANGAN NEGARA UNTUK PENANGANAN PANDEMI CORONA VIRUS DISEASE 2019 (COVID-19) DAN/ATAU MENGHADAPI ANCAMAN YANG MEMBAHAYAKAN PEREKONOMIAN NASIONAL DAN/ATAU STABILITAS SISTEM KEUANGAN SERTA PENYELAMATAN EKONOMI NASIONAL",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp43-2020bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 44,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PEMBERIAN GAJI, PENSIUN, TUNJANGAN, ATAU PENGHASILAN KETIGA BELAS TAHUN 2020 KEPADA PEGAWAI NEGERI SIPIL, PRAJURIT TENTARA NASIONAL INDONESIA, ANGGOTA KEPOLISIAN NEGARA REPUBLIK INDONESIA, PEGAWAI NONPEGAWAI NEGERI SIPIL, DAN PENERIMA PENSIUN ATAU TUNJANGAN",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp44-2020bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 45,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PENAMBAHAN PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE DALAM MODAL SAHAM PERUSAHAAN PERSEROAN (PERSERO) PT SARANA MULTIGRIYA FINANSIAL",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp45-2020.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 46,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "SYARAT DAN TATA CARA PENCATATAN PENGALIHAN PATEN",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp46-2020bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 46,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "SYARAT DAN TATA CARA PENCATATAN PENGALIHAN PATEN",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp46-2020bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 47,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PEMBERIAN PEMBEBASAN PAJAK PERTAMBAHAN NILAI ATAU PAJAK PERTAMBAHAN NILAI DAN PAJAK PENJUALAN ATAS BARANG MEWAH KEPADA PERWAKILAN NEGARA ASING DAN BADAN INTERNASIONAL SERTA PEJABATNYA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp47-2020bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 48,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 81 TAHUN 2015 TENTANG IMPOR DAN/ATAU PENYERAHAN BARANG KENA PAJAK TERTENTU YANG BERSIFAT STRATEGIS YANG DIBEBASKAN DARI PENGENAAN PAJAK PERTAMBAHAN NILAI",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp48-2020bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 49,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PENYESUAIAN IURAN PROGRAM JAMINAN SOSIAL KETENAGAKERJAAN SELAMA BENCANA NONALAM PENYEBARAN CORONA VIRUS DISEASE 2019 (COVID-19)",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp49-2020bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 50,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PENAMBAHAN PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE DALAM MODAL SAHAM PERUSAHAAN PERSEROAN (PERSERO) PT PERTAMINA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp50-2020.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 51,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PERUBAHAN KEDUA ATAS PERATURAN PEMERINTAH NOMOR 31 TAHUN 2013 TENTANG PERATURAN PELAKSANAAN UNDANG-UNDANG NOMOR 6 TAHUN 2011 TENTANG KEIMIGRASIAN",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp51-2020bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 52,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PENAMBAHAN PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE DALAM MODAL SAHAM PERUSAHAAN PERSEROAN (PERSERO) PT GEO DIPA ENERGI",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp52-2020.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 53,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PERUBAHAN KEDUA ATAS PERATURAN PEMERINTAH NOMOR 66 TAHUN 2007 TENTANG PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA UNTUK PENDIRIAN PERUSAHAAN PERSEROAN (PERSERO) DI BIDANG PEMBIAYAAN INFRASTRUKTUR",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp53-2020.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 54,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 102 TAHUN 2015 TENTANG ASURANSI SOSIAL PRAJURIT TENTARA NASIONAL INDONESIA, ANGGOTA KEPOLISIAN NEGARA REPUBLIK INDONESIA, DAN PEGAWAI APARATUR SIPIL NEGARA DI LINGKUNGAN KEMENTERIAN PERTAHANAN DAN KEPOLISIAN NEGARA REPUBLIK INDONESIA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp54-2020bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 55,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PERUBAHAN KEDUA ATAS PERATURAN PEMERINTAH NOMOR 35 TAHUN 2009 TENTANG PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA UNTUK PENDIRIAN PERUSAHAAN PERSEROAN (PERSERO) DI BIDANG PENJAMINAN INFRASTRUKTUR",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp55-2020.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 56,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PERGURUAN TINGGI NEGERI BADAN HUKUM UNIVERSITAS SEBELAS MARET",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp56-2020bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 57,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PERUBAHAN KEDUA ATAS PERATURAN PEMERINTAH NOMOR 5 TAHUN 2005 TENTANG PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA UNTUK PENDIRIAN PERUSAHAAN PERSEROAN (PERSERO) DI BIDANG PEMBIAYAAN SEKUNDER PERUMAHAN",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp57-2020.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 58,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PENGELOLAAN PENERIMAAN NEGARA BUKAN PAJAK",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp58-2020bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 59,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "TATA CARA PENGAJUAN DAN PENYELESAIAN KEBERATAN, KERINGANAN, DAN PENGEMBALIAN PENERIMAAN NEGARA BUKAN PAJAK",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp59-2020bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 60,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "UNIT LAYANAN DISABILITAS BIDANG KETENAGAKERJAAN",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp60-2020bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 61,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "BARANG KENA PAJAK YANG TERGOLONG MEWAH SELAIN KENDARAAN BERMOTOR YANG DIKENAI PAJAK PENJUALAN ATAS BARANG MEWAH",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp61-2020bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 61,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "BARANG KENA PAJAK YANG TERGOLONG MEWAH SELAIN KENDARAAN BERMOTOR YANG DIKENAI PAJAK PENJUALAN ATAS BARANG MEWAH",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp61-2020bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 62,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 3 TAHUN 2018 TENTANG JENIS DAN TARIF ATAS JENIS PENERIMAAN NEGARA BUKAN PAJAK YANG BERLAKU PADA KEMENTERIAN KEUANGAN",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp62-2020bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 63,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PENAMBAHAN PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE DALAM MODAL SAHAM PERUSAHAAN PERSEROAN (PERSERO) PT PERMODALAN NASIONAL MADANI",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp63-2020.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 64,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PENAMBAHAN PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE DALAM MODAL SAHAM PERUSAHAAN PERSEROAN (PERSERO) PT PENGEMBANGAN PARIWISATA INDONESIA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp64-2020.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 65,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PENAMBAHAN PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE DALAM MODAL PERUSAHAAN UMUM (PERUM) LEMBAGA PENYELENGGARA PELAYANAN NAVIGASI PENERBANGAN INDONESIA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp65-2020.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 66,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "JENIS DAN TARIF ATAS JENIS PENERIMAAN NEGARA BUKAN PAJAK YANG BERLAKU PADA LEMBAGA PENYIARAN PUBLIK TELEVISI REPUBLIK INDONESIA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp66-2020bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 66,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "JENIS DAN TARIF ATAS JENIS PENERIMAAN NEGARA BUKAN PAJAK YANG BERLAKU PADA LEMBAGA PENYIARAN PUBLIK TELEVISI REPUBLIK INDONESIA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp66-2020bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 67,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PENAMBAHAN PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE DALAM MODAL SAHAM PERUSAHAAN PERSEROAN (PERSERO) PT BAHANA PEMBINAAN USAHA INDONESIA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp67-2020.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 68,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "JENIS DAN TARIF ATAS JENIS PENERIMAAN NEGARA BUKAN PAJAK YANG BERLAKU PADA LEMBAGA PENYIARAN PUBLIK RADIO REPUBLIK INDONESIA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp68-2020bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 69,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "TATA CARA PENETAPAN TARIF ATAS JENIS PENERIMAAN NEGARA BUKAN PAJAK",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp69-2020bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 70,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "TATA CARA PELAKSANAAN TINDAKAN KEBIRI KIMIA, PEMASANGAN ALAT PENDETEKSI ELEKTRONIK, REHABILITASI, DAN PENGUMUMAN IDENTITAS PELAKU KEKERASAN SEKSUAL TERHADAP ANAK",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp70-2020bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 71,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PENAMBAHAN PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE DALAM MODAL SAHAM PERUSAHAAN PERSEROAN (PERSERO) PT HUTAMA KARYA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp71-2020.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 71,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PENAMBAHAN PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE DALAM MODAL SAHAM PERUSAHAAN PERSEROAN (PERSERO) PT HUTAMA KARYA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp71-2020.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 72,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PENAMBAHAN PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE DALAM MODAL SAHAM PERUSAHAAN PERSEROAN (PERSERO) PT BAHANA PEMBINAAN USAHA INDONESIA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp72-2020.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 73,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "MODAL AWAL LEMBAGA PENGELOLA INVESTASI",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp73-2020.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 74,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "LEMBAGA PENGELOLA INVESTASI",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp74-2020bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 75,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "LAYANAN HABILITASI DAN REHABILITASI BAGI PENYANDANG DISABILITAS",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp75-2020bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 76,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "JENIS DAN TARIF ATAS JENIS PENERIMAAN NEGARA BUKAN PAJAK YANG BERLAKU PADA KEPOLISIAN NEGARA REPUBLIK INDONESIA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp76-2020bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 77,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PERUBAHAN STRUKTUR KEPEMILIKAN SAHAM NEGARA MELALUI PENERBITAN DAN PENJUALAN SAHAM BARU PADA PT BANK BUKOPIN TBK",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp77-2020.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 78,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PENAMBAHAN PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE DALAM MODAL LEMBAGA PEMBIAYAAN EKSPOR INDONESIA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp78-2020.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 79,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PENAMBAHAN PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE DALAM MODAL SAHAM PERUSAHAAN PERSEROAN (PERSERO) PT PENJAMINAN INFRASTRUKTUR INDONESIA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp79-2020.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 80,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PENAMBAHAN PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE DALAM MODAL SAHAM PERUSAHAAN PERSEROAN (PERSERO) PT BIO FARMA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp80-2020.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 81,
+		"Tahun_peraturan" : 2020,
+		"Tentang" : "PEMBIAYAAN USAHA TANI",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2020/pp81-2020bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 1,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "DEVISA HASIL EKSPOR DARI KEGIATAN PENGUSAHAAN, PENGELOLAAN, DAN/ATAU PENGOLAHAN SUMBER DAYA ALAM",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2019/pp1-2019bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 2,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "PERUBAHAN NAMA KABUPATEN MALUKU TENGGARA BARAT MENJADI KABUPATEN KEPULAUAN TANIMBAR DI PROVINSI MALUKU",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2019/pp2-2019bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 3,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 52 TAHUN 2010 TENTANG PEMINDAHAN IBU KOTA KABUPATEN MADIUN DARI WILAYAH KOTA MADIUN KE WILAYAH KECAMATAN MEJAYAN KABUPATEN MADIUN PROVINSI JAWA TIMUR",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2019/pp3-2019bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 4,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "BADAN PERLINDUNGAN KONSUMEN NASIONAL",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2019/pp4-2019bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 5,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "JENIS DAN TARIF ATAS JENIS PENERIMAAN NEGARA BUKAN PAJAK YANG BERLAKU PADA MAHKAMAH AGUNG DAN BADAN PERADILAN YANG BERADA DI BAWAHNYA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2019/pp5-2019bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 6,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "PERUSAHAAN UMUM (PERUM) PERCETAKAN UANG REPUBLIK INDONESIA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2019/pp6-2019.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 7,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "PERATURAN PELAKSANAAN UNDANG-UNDANG NOMOR 1 TAHUN 2018 TENTANG KEPALANGMERAHAN",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2019/pp7-2019bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 8,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "JENIS DAN TARIF ATAS JENIS PENERIMAAN NEGARA BUKAN PAJAK YANG BERLAKU PADA BADAN TENAGA NUKLIR NASIONAL",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2019/pp8-2019bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 9,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "PEMERIKSAAN KECELAKAAN KAPAL",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2019/pp9-2019bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 10,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "PENAMBAHAN PENYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE DALAM MODAL SAHAM PERUSAHAAN PERSEROAN (PERSERO) PT PELABUHAN INDONESIA I",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2019/pp10-2019bt-2019.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 11,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "PERUBAHAN KEDUA ATAS PERATURAN PEMERINTAH NOMOR 43 TAHUN 2014 TENTANG PERATURAN PELAKSANAAN UNDANG-UNDANG NOMOR 6 TAHUN 2014 TENTANG DESA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2019/pp11-2019bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 12,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "PENGELOLAAN KEUANGAN DAERAH",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2019/pp12-2019bt-2019.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 15,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "PERUBAHAN KEDELAPAN BELAS ATAS PERATURAN PEMERINTAH NOMOR 7 TAHUN 1977 TENTANG PERATURAN GAJI PEGAWAI NEGERI SIPIL",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2019/pp15-2019.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 16,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "PERUBAHAN KEDUA BELAS ATAS PERATURAN PEMERINTAH NOMOR 28 TAHUN 2001 TENTANG PERATURAN GAJI ANGGOTA TENTARA NASIONAL INDONESIA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2019/pp16-2019.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 17,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "PERUBAHAN KEDUA BELAS ATAS PERATURAN PEMERINTAH NOMOR 29 TAHUN 2001 TENTANG PERATURAN GAJI ANGGOTA KEPOLISIAN NEGARA REPUBLIK INDONESIA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2019/pp17-2019.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 18,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "PENETAPAN PENSIUN POKOK PENSIUNAN PEGAWAI NEGERI SIPIL DAN JANDA/DUDANYA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2019/pp18-2019.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 19,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "PENETAPAN PENSIUN POKOK PURNAWIRAWAN, WARAKAWURI/DUDA, TUNJANGAN ANAK YATIM/PIATU, ANAK YATIM PIATU, DAN TUNJANGAN ORANG TUA ANGGOTA TENTARA NASIONAL INDONESIA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2019/pp19-2019.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 20,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "PENETAPAN PENSIUN POKOK PURNAWIRAWAN, WARAKAWURI/DUDA, TUNJANGAN ANAK YATIM/PIATU, ANAK YATIM PIATU, DAN TUNJANGAN ORANG TUA ANGGOTA KEPOLISIAN NEGARA REPUBLIK INDONESIA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2019/pp20-2019.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 21,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "PERUBAHAN KELIMA BELAS ATAS PERATURAN PEMERINTAH NOMOR 10 TAHUN 1980 TENTANG PEMBERIAN TUNJANGAN KEHORMATAN KEPADA BEKAS ANGGOTA KOMITE NASIONAL INDONESIA PUSAT DAN JANDA/DUDANYA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2019/pp21-2019.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 22,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "PERUBAHAN KEEMPAT BELAS ATAS PERATURAN PEMERINTAH NOMOR 14 TAHUN 1985 TENTANG PEMBERIAN TUNJANGAN PERINTIS PERGERAKAN KEBANGSAAN/KEMERDEKAAN",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2019/pp22-2019.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 13,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "LAPORAN DAN EVALUASI PENYELENGGARAAN PEMERINTAHAN DAERAH",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2019/pp13-2019bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 14,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "JENIS DAN TARIF ATAS JENIS PENERIMAAN NEGARA BUKAN PAJAK YANG BERLAKU PADA LEMBAGA PENERBANGAN DAN ANTARIKSA NASIONAL",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2019/pp14-2019bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 23,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "STATUTA UNIVERSITAS ISLAM INTERNASIONAL INDONESIA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2019/pp23-2019bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 24,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "PEMBERIAN INSENTIF DAN KEMUDAHAN INVESTASI DI DAERAH",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2019/pp24-2019bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 25,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "PERATURAN PELAKSANAAN UNDANG-UNDANG NOMOR 11 TAHUN 2014 TENTANG KEINSINYURAN",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2019/pp25-2019bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 26,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 41 TAHUN 2004 TENTANG TATA CARA PENGANGKATAN DAN PEMBERHENTIAN HAKIM AD-HOC PENGADILAN HUBUNGAN INDUSTRIAL DAN HAKIM AD-HOC PADA MAHKAMAH AGUNG",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2019/pp26-2019bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 27,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "FASILITASI AKSES TERHADAP CIPTAAN BAGI PENYANDANG DISABILITAS DALAM MEMBACA DAN MENGGUNAKAN HURUF BRAILLE, BUKU AUDIO, DAN SARANA LAINNYA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2019/pp27-2019bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 28,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "JENIS DAN TARIF ATAS JENIS PENERIMAAN NEGARA BUKAN PAJAK YANG BERLAKU PADA KEMENTERIAN HUKUM DAN HAK ASASI MANUSIA",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2019/pp28-2019bt-2019.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 29,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "SYARAT DAN TATA CARA PENUNJUKAN WALI",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2019/pp29-2019bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 30,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "PENILAIAN KINERJA PEGAWAI NEGERI SIPIL",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2019/pp30-2019bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 31,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "PERATURAN PELAKSANAAN UNDANG-UNDANG NOMOR 33 TAHUN 2014 TENTANG JAMINAN PRODUK HALAL",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2019/pp31-2019bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 32,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "RENCANA TATA RUANG LAUT",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2019/pp32-2019bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 33,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "PENGENAAN SANKSI ADMINISTRATIF KEPADA PEMILIK GUDANG YANG TIDAK MELAKUKAN PENDAFTARAN GUDANG",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2019/pp33-2019bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 34,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "PERDAGANGAN PERBATASAN",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2019/pp34-2019bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 35,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "PERUBAHAN KETIGA ATAS PERATURAN PEMERINTAH NOMOR 19 TAHUN 2016 TENTANG PEMBERIAN GAJI, PENSIUN, ATAU TUNJANGAN KETIGA BELAS KEPADA PEGAWAI NEGERI SIPIL, PRAJURIT TENTARA NASIONAL INDONESIA, ANGGOTA KEPOLISIAN NEGARA REPUBLIK INDONESIA, PEJABAT NEGARA, DAN PENERIMA PENSIUN ATAU TUNJANGAN",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2019/pp35-2019bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 36,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "PEMBERIAN TUNJANGAN HARI RAYA KEPADA PEGAWAI NEGERI SIPIL, PRAJURIT TENTARA NASIONAL INDONESIA, ANGGOTA KEPOLISIAN NEGARA REPUBLIK INDONESIA, PEJABAT NEGARA, PENERIMA PENSIUN, DAN PENERIMA TUNJANGAN",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2019/pp36-2019bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 37,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "PEMBERIAN TUNJANGAN HARI RAYA KEPADA PIMPINAN DAN PEGAWAI NONPEGAWAI NEGERI SIPIL PADA LEMBAGA NONSTRUKTURAL",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2019/pp37-2019bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 37,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "PEMBERIAN TUNJANGAN HARI RAYA KEPADA PIMPINAN DAN PEGAWAI NONPEGAWAI NEGERI SIPIL PADA LEMBAGA NONSTRUKTURAL",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2019/pp37-2019bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 38,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 24 TAHUN 2017 TENTANG PEMBERIAN PENGHASILAN KETIGA BELAS KEPADA PIMPINAN DAN PEGAWAI NONPEGAWAI NEGERI SIPIL PADA LEMBAGA NONSTRUKTURAL",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2019/pp38-2019bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 39,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 28 TAHUN 2008 TENTANG PENGENAAN SANKSI ADMINISTRASI BERUPA DENDA DI BIDANG KEPABEANAN",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2019/pp39-2019bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 40,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "PELAKSANAAN UNDANG-UNDANG NOMOR 23 TAHUN 2006 TENTANG ADMINISTRASI KEPENDUDUKAN SEBAGAIMANA TELAH DIUBAH DENGAN UNDANG-UNDANG NOMOR 24 TAHUN 2013 TENTANG PERUBAHAN ATAS UNDANG-UNDANG NOMOR 23 TAHUN 2006 TENTANG ADMINISTRASI KEPENDUDUKAN",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2019/pp40-2019bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 41,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "PEMINDAHAN IBU KOTA KABUPATEN MAYBRAT DARI DISTRIK AYAMARU KE KUMURKEK DISTRIK AIFAT KABUPATEN MAYBRAT PROVINSI PAPUA BARAT",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2019/pp41-2019bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 42,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "PENCABUTAN PERATURAN PEMERINTAH NOMOR 46 TAHUN 1995 TENTANG TATA CARA PEMERIKSAAN DI BIDANG PASAR MODAL",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2019/pp42-2019bt.pdf"
+	}
+	
+	{
+		"Jenis" : "PP",
+		"Nomor_Peraturan" : 43,
+		"Tahun_peraturan" : 2019,
+		"Tentang" : "KEBIJAKAN DASAR PEMBIAYAAN EKSPOR NASIONAL",
+		"link_hover" : "http://peraturan.go.id/common/dokumen/ln/2019/pp43-2019bt.pdf"
+	}
+
 ]
