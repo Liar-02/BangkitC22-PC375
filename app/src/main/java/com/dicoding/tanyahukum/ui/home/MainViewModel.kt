@@ -1,4 +1,4 @@
-package com.dicoding.tanyahukum.ui.listview
+package com.dicoding.tanyahukum.ui.home
 
 import android.util.Log
 import androidx.lifecycle.LiveData
@@ -11,8 +11,8 @@ import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response
 
-class JenisPeraturanViewModel : ViewModel() {
-    val listData = MutableLiveData<ArrayList<ListData>>()
+class MainViewModel: ViewModel() {
+    val listUsers = MutableLiveData<ArrayList<ListData>>()
 
     fun setSearchUser(query: String){
         ApiConfig.getApiService()
@@ -20,7 +20,7 @@ class JenisPeraturanViewModel : ViewModel() {
             .enqueue(object : Callback<AllData> {
                 override fun onResponse(call: Call<AllData>, response: Response<AllData>) {
                     if (response.isSuccessful){
-                        listData.postValue(response.body()?.items)
+                        listUsers.postValue(response.body()?.items)
                     }
                 }
 
@@ -31,5 +31,7 @@ class JenisPeraturanViewModel : ViewModel() {
             })
     }
 
-    fun getDataSearch(): LiveData<ArrayList<ListData>> = listData
+    fun getSearchUsers(): LiveData<ArrayList<ListData>> {
+        return listUsers
+    }
 }

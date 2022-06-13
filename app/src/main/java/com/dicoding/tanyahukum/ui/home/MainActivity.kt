@@ -6,6 +6,7 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.Menu
+import android.view.View
 import android.widget.Toast
 import androidx.appcompat.widget.SearchView
 import com.dicoding.tanyahukum.R
@@ -33,52 +34,56 @@ class MainActivity : AppCompatActivity() {
 
     private fun onClick(){
         binding.cvPp.setOnClickListener {
+            showLoading(true)
             Intent(this@MainActivity, JenisPeraturanActivity::class.java).also {
                 startActivity(it)
             }
         }
         binding.cvPm.setOnClickListener {
+            showLoading(true)
             Intent(this@MainActivity, JenisPeraturanActivity::class.java).also {
                 startActivity(it)
             }
         }
         binding.cvLpnk.setOnClickListener {
+            showLoading(true)
             Intent(this@MainActivity, JenisPeraturanActivity::class.java).also {
                 startActivity(it)
             }
         }
         binding.cvPd.setOnClickListener {
+            showLoading(true)
             Intent(this@MainActivity, JenisPeraturanActivity::class.java).also {
                 startActivity(it)
             }
         }
         binding.flInfoPp.setOnClickListener{
+            showLoading(true)
             Intent(this@MainActivity, DetailPerpuActivity::class.java).also {
                 startActivity(it)
             }
         }
         binding.flInfoPm.setOnClickListener{
+            showLoading(true)
             Intent(this@MainActivity, DetailPermenActivity::class.java).also {
                 startActivity(it)
             }
         }
         binding.flInfoLpnk.setOnClickListener{
+            showLoading(true)
             Intent(this@MainActivity, DetailPerlpnkActivity::class.java).also {
                 startActivity(it)
             }
         }
         binding.flInfoPd.setOnClickListener{
+            showLoading(true)
             Intent(this@MainActivity, DetailPerdaActivity::class.java).also {
                 startActivity(it)
             }
         }
         binding.chatbot.setOnClickListener{
+            showLoading(true)
             Intent(this@MainActivity, ChatBotActivity::class.java).also {
-                startActivity(it)
-            }
-        }
-        binding.btnSearch.setOnClickListener{
-            Intent(this@MainActivity, JenisPeraturanActivity::class.java).also {
                 startActivity(it)
             }
         }
@@ -113,4 +118,11 @@ class MainActivity : AppCompatActivity() {
         return true
     }
 
+    private fun showLoading(state: Boolean){
+        if(state) {
+            binding.progressBar.visibility = View.VISIBLE
+        }else {
+            binding.progressBar.visibility = View.GONE
+        }
+    }
 }

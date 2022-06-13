@@ -7,7 +7,7 @@ import retrofit2.converter.gson.GsonConverterFactory
 
 class ApiConfig {
     companion object {
-        private const val BASE_URL = "https://chatbot-164bc.asia-southeast1.firebasedatabase.app/"
+        private const val BASE_URL = "http://34.72.16.58:5000/api/v1/"
         fun getApiService(): ApiService {
             val loggingInterceptor =
                 HttpLoggingInterceptor().setLevel(HttpLoggingInterceptor.Level.BODY)

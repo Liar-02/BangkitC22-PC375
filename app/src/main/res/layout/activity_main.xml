@@ -6,79 +6,26 @@
     android:layout_height="match_parent"
     tools:context=".ui.home.MainActivity">
 
-        <RelativeLayout
-            android:id="@+id/relativeLayout"
-            android:layout_width="wrap_content"
-            android:layout_height="92dp"
-            android:background="@color/grey"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent">
-
-            <androidx.constraintlayout.widget.ConstraintLayout
-                android:layout_width="match_parent"
-                android:layout_height="240dp">
-
-                <com.google.android.material.textfield.TextInputLayout
-                    android:id="@+id/searchEditTextLayout"
-                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
-                    android:layout_width="345dp"
-                    android:layout_height="61dp"
-                    android:layout_marginStart="8dp"
-                    android:layout_marginTop="15dp"
-                    android:background="@color/white"
-                    app:layout_constraintStart_toStartOf="parent"
-                    app:layout_constraintTop_toTopOf="parent"
-                    app:startIconDrawable="@drawable/ic_baseline_search_16">
-
-                    <com.google.android.material.textfield.TextInputEditText
-                        android:id="@+id/searchEditText"
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:hint="@string/cari_peraturan"
-                        android:inputType="text"
-                        android:maxLines="1" />
-                </com.google.android.material.textfield.TextInputLayout>
-
-                <FrameLayout
-                    android:layout_width="wrap_content"
-                    android:layout_height="61dp"
-                    android:background="@color/red"
-                    app:layout_constraintBottom_toBottomOf="@+id/searchEditTextLayout"
-                    app:layout_constraintEnd_toEndOf="parent"
-                    app:layout_constraintStart_toEndOf="@+id/searchEditTextLayout"
-                    app:layout_constraintTop_toTopOf="@+id/searchEditTextLayout">
-
-                    <ImageView
-                        android:id="@+id/btn_search"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_gravity="right|center_vertical"
-                        android:src="@drawable/ic_baseline_search_24" />
-                </FrameLayout>
-            </androidx.constraintlayout.widget.ConstraintLayout>
-        </RelativeLayout>
-
     <TextView
         android:id="@+id/tv_jenis_peraturan"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginStart="7dp"
         android:layout_marginTop="10dp"
         android:fontFamily="serif"
         android:text="@string/jenis_peraturan"
         android:textAllCaps="true"
         android:textColor="@color/black"
         android:textSize="20sp"
-        android:layout_marginStart="7dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/relativeLayout" />
+        app:layout_constraintTop_toTopOf="parent" />
 
 
     <HorizontalScrollView
         android:id="@+id/horizontalScrollView"
         android:layout_width="412dp"
-        android:layout_height="0dp"
+        android:layout_height="wrap_content"
         android:fillViewport="true"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
@@ -241,7 +188,7 @@
 
     <LinearLayout
         android:layout_height="0dp"
-        android:layout_width="match_parent"
+        android:layout_width="wrap_content"
         android:orientation="vertical"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -281,7 +228,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_vertical"
                 android:layout_marginStart="15dp"
-                android:text="@string/info_peraturan_pusat"
+                android:text="@string/info_peraturan_menteri"
                 android:textColor="@color/black"
                 android:textSize="17sp" />
         </FrameLayout>
@@ -300,7 +247,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_vertical"
                 android:layout_marginStart="15dp"
-                android:text="@string/info_peraturan_pusat"
+                android:text="@string/info_peraturan_LPNK"
                 android:textColor="@color/black"
                 android:textSize="17sp" />
         </FrameLayout>
@@ -319,7 +266,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_vertical"
                 android:layout_marginStart="15dp"
-                android:text="@string/info_peraturan_pusat"
+                android:text="@string/info_peraturan_daerah"
                 android:textColor="@color/black"
                 android:textSize="17sp" />
         </FrameLayout>
